@@ -6,7 +6,7 @@ import twitter
 import json
 import MySQLdb
 
-mydb = MySQLdb.connect(host="localhost", user="root", passwd="", db="mydb") 
+mydb = MySQLdb.connect(host="localhost", user="root", passwd="dbserver", db="mydb") 
 cursor = mydb.cursor() 
 
 OAUTH_TOKEN = sys.argv[1]
