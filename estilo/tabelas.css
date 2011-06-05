@@ -1,0 +1,56 @@
+.gerenciar{
+	border-collapse:collapse;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	line-height: 20px;
+	margin:10px auto 10px;
+	padding:10px;
+	width:95%;	
+	
+}
+
+.gerenciar td{
+	font-size: 14px;
+	height: 30px;
+	padding-left: 5px;
+	border-bottom:1px solid #ccc;
+	text-align:center;
+}
+
+.gerenciar td a:hover{
+	color:#ffa300;	
+}
+
+.gerenciar td a:visited, .gerenciar td a:link{
+	color:#676767;
+	
+}
+
+.gerenciar th{
+	background-color:#F7F7F7;
+	border-bottom:1px solid #ccc;
+	color:#676767;
+	height: 28px;
+	padding: 2px;	
+}
+
+.gerenciar th a:link{
+	color:#676767;
+	
+}
+
+.gerenciar th a:visited{
+	color:#676767;
+}
+
+.gerenciar th a:hover{
+	color:#ffa300;
+}
+
+.pInserir{
+	text-align:right;
+}
+
+.gerenciar th.centralizar, .gerenciar td.centralizar{
+	text-align:center;
+}

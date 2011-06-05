@@ -1,0 +1,71 @@
+body{
+	margin:0px;
+	padding:0px;
+	background-image:url('./images/diag_stripe.gif');
+	font-family: verdana;
+	font-size:14px;
+}
+p{
+	line-height:150%;
+	text-align:justify;
+	color:#000;
+}
+
+#container{
+	width:980px;
+	margin:auto;
+	margin-top:5px;
+}
+#site_corpo{
+	width:960px;
+	min-height:780px;
+	margin-left:22px;
+	background-color:#fff;
+}
+
+.menu {
+	padding: 0px;
+	float: left;
+	margin: 0px;
+	margin-top:140px;
+	font: 16px Verdana, sans-serif;
+	z-index: 2;
+}
+
+.menu ul {
+	margin: 0px;
+	padding: 0px;
+	font-weight:bold;
+
+}
+
+.menu ul li {
+	margin: 0px;
+	margin-bottom:10px;
+	list-style: none;
+	width:182px;
+	height:47px;
+	text-align:center;
+	
+}
+.menu ul li a{
+	display: block;
+	width: 140px;
+	margin-left:20px;
+	padding: 7px 10px;
+	text-decoration: none;
+	text-transform:bold;
+	border: 0px solid red
+}
+#destaque{
+	position:absolute;
+	width:240px;
+	height:150px;
+	
+}
+#corpo{
+	width:930px;
+	margin:auto;
+
+}
+
