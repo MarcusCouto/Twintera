@@ -5,7 +5,7 @@ import json
 
 import MySQLdb
 
-mydb = MySQLdb.connect(host="localhost", user="root", passwd="", db="mydb") 
+mydb = MySQLdb.connect(host="localhost", user="root", passwd="server@bd", db="mydb") 
 cursor = mydb.cursor() 
 
 OAUTH_TOKEN = sys.argv[1]

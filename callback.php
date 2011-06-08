@@ -134,9 +134,7 @@
 			<p>Cadastre seu login e senha de acesso ao #twintera!<br />Come ele você poderá acessar nossos serviços.
 			<form action="inserir_user.php" method="post">
 			<fieldset>
-			<legend>Cadastre um login e uma senha </legend>
-			<label>Login<label><br />
-			<input type="text" name="login"/><br />
+			<legend>Cadastre uma senha </legend>
 			<label>Senha<label><br />
 			<input type="password" name="senha"/><br />
 			<label>Confirmar senha<label><br />
