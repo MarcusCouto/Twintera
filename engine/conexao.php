@@ -1,7 +1,7 @@
 <?
     $strServidor	= "localhost";
 	$strUsuario 	= "root";
-	$strSenha		= "dbserver";
+	$strSenha		= "server@bd";
 	$strBD			= "mydb";
 
 	// Estabelecendo conexão com o banco de dados.
