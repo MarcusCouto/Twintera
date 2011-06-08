@@ -101,7 +101,7 @@
 			<form action="login.php" method="post">
 			<fieldset>
 			<legend>Login</legend>
-			<label>login<label><br />
+			<label>Screenname<label><br />
 			<input type="text" name="login"/><br />
 			<label>Senha<label><br />
 			<input type="password" name="password"/><br />

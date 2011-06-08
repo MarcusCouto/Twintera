@@ -5,6 +5,7 @@ import time
 import twitter
 import json
 import MySQLdb
+import os
 
 mydb = MySQLdb.connect(host="localhost", user="root", passwd="server@bd", db="mydb") 
 cursor = mydb.cursor() 
@@ -16,7 +17,7 @@ TWITTER_ID = sys.argv[3]
 consumer_key = "eSWSQWbtOxtj5DJYz9I7dQ"
 consumer_secret = "B3SPTXqFrgW4c4SsqrQlyyXuvQWTzdxyD6S8nI"
 
-inicio = time.time()
+# inicio = time.time()
 
 twitter_access = twitter.Twitter(domain='api.twitter.com', api_version='1', auth=twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET, consumer_key, consumer_secret))
 resultado_friends_ids = twitter_access.friends.ids(user_id=TWITTER_ID, rpp=2, encoding='utf-8' )
@@ -38,5 +39,9 @@ for i in range(len(resultado_followers_ids)-1):
 	cursor.execute(statement)	 
 	mydb.commit()			
 
-fim = time.time()
-print fim - inicio
+	
+cmd = '''python friends_dados.py '''  + str(OAUTH_TOKEN) + str(OAUTH_TOKEN_SECRET) + str(TWITTER_ID)
+os.system(cmd)
+# fim = time.time()
+
+# print fim - inicio

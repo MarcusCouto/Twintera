@@ -23,6 +23,7 @@
 			<div id="corpo">
 				<br /><br />
 				<img src="./estilo/images/logo-twintera.jpg" alt="twintera" class="logoGPMH"/>
+				<a href="./index.php">Sair</a>
 				<hr/>
 				<form action="pesquisa.php" method="post">
 				<fieldset>
