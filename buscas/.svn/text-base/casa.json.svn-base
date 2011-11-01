@@ -1,0 +1,1861 @@
+{
+    "next_page": "?page=2&max_id=119853156376121344&q=casa&rpp=100", 
+    "completed_in": 0.251, 
+    "max_id_str": "119853156376121344", 
+    "since_id_str": "0", 
+    "refresh_url": "?since_id=119853156376121344&q=casa", 
+    "results": [
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "275077835", 
+            "text": "@_Queropaulinha ta ta sim eu acho que vou dar uma passada la pq eu vou sair de casa so 10:40 11:00 hrs ai da tempo deu dar uma passada la", 
+            "created_at": "Fri, 30 Sep 2011 19:16:33 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1550282208/gosty_normal.jpg", 
+            "to_user_id_str": "406505995", 
+            "to_user": "_Queropaulinha", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853156376121344", 
+            "from_user": "22_pamela", 
+            "from_user_id": 275077835, 
+            "to_user_id": 406505995, 
+            "geo": null, 
+            "id": 119853156376121344, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "1479430", 
+            "text": "As\u00ed que si ma\u00f1ana est\u00e1is por casa quiz\u00e1 hasta haga una twittcam en directo del rodaje y todo. Quien sabe.", 
+            "created_at": "Fri, 30 Sep 2011 19:16:33 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1561405265/avatar_4be717be0492_128_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853155814096896", 
+            "from_user": "Kyuni", 
+            "from_user_id": 1479430, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853155814096896, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "178073883", 
+            "text": "@Semteroqfazer @CDVagabundo dar um martelo pra ele = sem decora\u00e7\u00e3o na casa.", 
+            "created_at": "Fri, 30 Sep 2011 19:16:33 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1563265207/will-smith-the-fresh-prince-of-bel-air905232475984326587234_normal.jpg", 
+            "to_user_id_str": "139903206", 
+            "to_user": "Semteroqfazer", 
+            "source": "&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;", 
+            "id_str": "119853155168174081", 
+            "from_user": "PT4O", 
+            "from_user_id": 178073883, 
+            "to_user_id": 139903206, 
+            "geo": null, 
+            "id": 119853155168174081, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "393421078", 
+            "text": "To na casa da namo !", 
+            "created_at": "Fri, 30 Sep 2011 19:16:33 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1335136307/os_franguinhoS_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853155163975680", 
+            "from_user": "esquerdona", 
+            "from_user_id": 393421078, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853155163975680, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "396785367", 
+            "text": "Cenando en casa de #jordi", 
+            "created_at": "Fri, 30 Sep 2011 19:16:33 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1477625368/220302_101621169925473_100002327705139_10892_8242329_o_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853155042344960", 
+            "from_user": "MiguelFelip", 
+            "from_user_id": 396785367, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853155042344960, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "214305362", 
+            "text": "vou ligar pra @luziajessica agora... q cheguei em casa...", 
+            "created_at": "Fri, 30 Sep 2011 19:16:33 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1545645563/IMG0028A_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119853154706800641", 
+            "from_user": "DomiiFS", 
+            "from_user_id": 214305362, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853154706800641, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "162793120", 
+            "text": "hello, minha amiga linda @AndradeDiih  ta aqui em casa fazendo os cabelinhos e ficando mais lindoka do que ja \u00e9 UHSUDHSUHDUSH.", 
+            "created_at": "Fri, 30 Sep 2011 19:16:33 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853154547417088", 
+            "from_user": "RaineGabrielle", 
+            "from_user_id": 162793120, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853154547417088, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "260711604", 
+            "text": "as lindas da @MihSereno  e @cathu_  t\u00e3o aqui em casa *-* a gente vai assistir filme .", 
+            "created_at": "Fri, 30 Sep 2011 19:16:33 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853154291548160", 
+            "from_user": "legarcia__", 
+            "from_user_id": 260711604, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853154291548160, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "194060387", 
+            "text": "Ta um vento t\u00e3o friozinho aqui na minha casa -.-", 
+            "created_at": "Fri, 30 Sep 2011 19:16:33 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1526709506/Snapshot_41_-_C_pia_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853154132176896", 
+            "from_user": "G4LstarBR", 
+            "from_user_id": 194060387, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853154132176896, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "403902951", 
+            "text": "to indo p casa , e l\u00e1 vou me encontrar com a minha best linda @Niiihdias", 
+            "created_at": "Fri, 30 Sep 2011 19:16:33 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1550156642/imagem_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119853153867939840", 
+            "from_user": "_NUUUNES", 
+            "from_user_id": 403902951, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853153867939840, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "fr", 
+            "from_user_id_str": "104516419", 
+            "text": "Calor demais pra ficar em casa, enjoo demais pra sair", 
+            "created_at": "Fri, 30 Sep 2011 19:16:33 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1536723771/Snapshot_20110910_10_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/download/android&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;", 
+            "id_str": "119853153750495233", 
+            "from_user": "misimoni_", 
+            "from_user_id": 104516419, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853153750495233, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "366422572", 
+            "text": "@bittencourtlooh mais vem aqui em casa mesmo amiga =9, nossa to morrendo de saudades, quanto tempo ein =(", 
+            "created_at": "Fri, 30 Sep 2011 19:16:33 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1552366352/SDC10806_normal.JPG", 
+            "to_user_id_str": "127514904", 
+            "to_user": "bittencourtlooh", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853153033256960", 
+            "from_user": "oisou_ciumenta", 
+            "from_user_id": 366422572, 
+            "to_user_id": 127514904, 
+            "geo": null, 
+            "id": 119853153033256960, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "159929039", 
+            "text": "\u00c9 isso, cheguei em casa e fiquei vendo filme com minha namorada linda e maravilhosa @nataliaprado_ at\u00e9 ela ter que meter o p\u00e9 n\u00e9 rs", 
+            "created_at": "Fri, 30 Sep 2011 19:16:33 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1547100592/DSC00144_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853152626413568", 
+            "from_user": "YanCoutinhoo", 
+            "from_user_id": 159929039, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853152626413568, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "174561880", 
+            "text": "Ainda tem. Compre seu blu ray dos Arautos do Rei. Lan\u00e7amento. Casa aberta CASL S\u00e3o Lu\u00eds. Eu j\u00e1 comprei!", 
+            "created_at": "Fri, 30 Sep 2011 19:16:32 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1244169783/regi_normal.PNG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://www.snaptu.com&quot; rel=&quot;nofollow&quot;&gt;Snaptu&lt;/a&gt;", 
+            "id_str": "119853152202784768", 
+            "from_user": "PrReginaldocarv", 
+            "from_user_id": 174561880, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853152202784768, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "356350113", 
+            "text": "na casa de mauricio, to indo agora, no cosa dourada", 
+            "created_at": "Fri, 30 Sep 2011 19:16:32 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1490196166/1_-_C_pia_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853151229710336", 
+            "from_user": "FMarques95", 
+            "from_user_id": 356350113, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853151229710336, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "219362627", 
+            "text": "16:16 saindo aque de casa, #FUUUUUUUI", 
+            "created_at": "Fri, 30 Sep 2011 19:16:32 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1522993646/Foto0006_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853150340526080", 
+            "from_user": "Gustaavoluiis", 
+            "from_user_id": 219362627, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853150340526080, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "258874124", 
+            "text": "ya me iree a casa de @dianaaa_dd ?? o me espero otro ratin :/", 
+            "created_at": "Fri, 30 Sep 2011 19:16:32 +0000", 
+            "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_5_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://www.snaptu.com&quot; rel=&quot;nofollow&quot;&gt;Snaptu&lt;/a&gt;", 
+            "id_str": "119853149329686528", 
+            "from_user": "Mario_Coria", 
+            "from_user_id": 258874124, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853149329686528, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "126965144", 
+            "text": "N\u00e3o limpo meu quarto porque quem brilha aqui em casa sou eu!", 
+            "created_at": "Fri, 30 Sep 2011 19:16:31 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1512982457/ciumespelu_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853148327251968", 
+            "from_user": "PelueMeu", 
+            "from_user_id": 126965144, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853148327251968, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "164137953", 
+            "text": "@estephany0 amor ya llegaste a la casa? o sigues en boca marina?", 
+            "created_at": "Fri, 30 Sep 2011 19:16:31 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1418921344/IMG00476-20110625-1547_normal.jpg", 
+            "to_user_id_str": "386714633", 
+            "to_user": "estephany0", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853147756822528", 
+            "from_user": "gabygissete", 
+            "from_user_id": 164137953, 
+            "to_user_id": 386714633, 
+            "geo": null, 
+            "id": 119853147756822528, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "132256319", 
+            "text": "Por fin en mi casa", 
+            "created_at": "Fri, 30 Sep 2011 19:16:31 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1227775645/gdm_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "119853147144458240", 
+            "from_user": "GeorgeD2712", 
+            "from_user_id": 132256319, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853147144458240, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "189149310", 
+            "text": "ligando pro fixo : - vc t\u00e1 em casa ? - n\u00e3o t\u00f4 dando pirueta no tr\u00e2nsito", 
+            "created_at": "Fri, 30 Sep 2011 19:16:31 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853145894559744", 
+            "from_user": "JuniimOliveira", 
+            "from_user_id": 189149310, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853145894559744, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "182182566", 
+            "text": "RT @CajaDeVerdades: Casa[dos] \u2192 Enamora[dos] \u2192 Comprometi[dos] \u2192 Apasiona[dos] \u2192 Enoja[dos] \u2192 Son cosas de ''dos'', no de tres.", 
+            "created_at": "Fri, 30 Sep 2011 19:16:31 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1565775976/300046_160510187367405_100002252758930_330766_1241359945_n_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853145437372416", 
+            "from_user": "Kattyvzlaa", 
+            "from_user_id": 182182566, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853145437372416, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "217815911", 
+            "text": "@AndresMendez41 te cambias de casa am y eso para donde te vas \u00bf?", 
+            "created_at": "Fri, 30 Sep 2011 19:16:31 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1556800842/AJA_normal.jpg", 
+            "to_user_id_str": "415462975", 
+            "to_user": "AndresMendez41", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853145072480256", 
+            "from_user": "SVeronicaDuque", 
+            "from_user_id": 217815911, 
+            "to_user_id": 415462975, 
+            "geo": null, 
+            "id": 119853145072480256, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "33778547", 
+            "text": "I'm at La casa de To\u00f1o (San Jose de los Cedros #31, Cuajimalpa) w/ 6 others http://t.co/4z52yLJc", 
+            "created_at": "Fri, 30 Sep 2011 19:16:31 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1274689859/eightbit-3efa708c-67e9-48f4-a9a6-91012bedc8be_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://foursquare.com&quot; rel=&quot;nofollow&quot;&gt;foursquare&lt;/a&gt;", 
+            "id_str": "119853145051500544", 
+            "from_user": "paco_villalobos", 
+            "from_user_id": 33778547, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853145051500544, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "70727355", 
+            "text": "MI ABUELA DICE: misi\u00f3n Vivienda la de antes, que llamaban a uno para entregarle la casa de una vez.", 
+            "created_at": "Fri, 30 Sep 2011 19:16:31 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1386682678/pinocho_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "119853144917282816", 
+            "from_user": "ernancho", 
+            "from_user_id": 70727355, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853144917282816, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "416375239", 
+            "text": "minha mae mando eu faze um monte de coisa em casa", 
+            "created_at": "Fri, 30 Sep 2011 19:16:31 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1565578594/223135_112434312174405_100002235107127_120036_7634745_n_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853144535601152", 
+            "from_user": "_Mab95", 
+            "from_user_id": 416375239, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853144535601152, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "383011529", 
+            "text": "aiiiiiiiii ja acadei de arruma a casa", 
+            "created_at": "Fri, 30 Sep 2011 19:16:30 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853143977771008", 
+            "from_user": "amaanda_1234", 
+            "from_user_id": 383011529, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853143977771008, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "29557949", 
+            "text": "Porque quando a casa ca\u00ed, n\u00e3o d\u00e1 pra fraquejar. Quem \u00e9 guerreiro, t\u00e1 ligado que guerreiro \u00e9 assim.", 
+            "created_at": "Fri, 30 Sep 2011 19:16:30 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853143193436160", 
+            "from_user": "anapn", 
+            "from_user_id": 29557949, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853143193436160, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "181136241", 
+            "text": "engra\u00e7ado que algumas pessoas foram e ficaram com CARA DE BOSTA  , pra ir e ficar com CARA DE BOSTA melhor ficar na sua propria casa (:", 
+            "created_at": "Fri, 30 Sep 2011 19:16:30 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1441044955/lnCABKWJ13_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853143117938688", 
+            "from_user": "FG_zika", 
+            "from_user_id": 181136241, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853143117938688, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "256912840", 
+            "text": "\u00c9 o seguinte,eu pretendo da rol\u00ea hje...se eu n for o esquema vai ser fica em casa assistindo rock in rio...SHUAUHSHUASHUAUHS'", 
+            "created_at": "Fri, 30 Sep 2011 19:16:30 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1538959043/IMG420-01_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853141754777601", 
+            "from_user": "Bieeloo", 
+            "from_user_id": 256912840, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853141754777601, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "393663069", 
+            "text": "kkkkkkkk perguntei pra minha m\u00e3e se eu posso ir na casa de um amigo meu, que vai ter festa. ela disse q eu posso ir pra casa do caralho +", 
+            "created_at": "Fri, 30 Sep 2011 19:16:30 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1565983350/DSC00411_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853141486338048", 
+            "from_user": "ilovepocoyo", 
+            "from_user_id": 393663069, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853141486338048, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "371647275", 
+            "text": "vou indo la na casa da minha best linda @lariaraujos2 *-* *o*o", 
+            "created_at": "Fri, 30 Sep 2011 19:16:30 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1562404752/Foto0894_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853140563599360", 
+            "from_user": "jusantos_s2", 
+            "from_user_id": 371647275, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853140563599360, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "399262360", 
+            "text": "Sem sair de casa!\nA grande vantagem nesse tipo de compra \u00e9 a comodidade. N\u00e3o h\u00e1 filas e o servi\u00e7o fica dispon\u00edvel 24 horas.", 
+            "created_at": "Fri, 30 Sep 2011 19:16:29 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1520484652/logo-quadrada_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853139930267648", 
+            "from_user": "JanusMagazine", 
+            "from_user_id": 399262360, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853139930267648, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "366479087", 
+            "text": "Daqui a pouco vou comer uma pipoquinha,s\u00f3 me lembro daquela velha pipoca com manteiga da casa de @bezerra_nando ,feita por Dal kkk", 
+            "created_at": "Fri, 30 Sep 2011 19:16:29 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1484812913/327dedb0-a916-49da-b039-ab0585b7ebaa_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853139691192320", 
+            "from_user": "bernardo_maia", 
+            "from_user_id": 366479087, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853139691192320, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "408397749", 
+            "text": "Como que me gua mimir\u2026 ahorita armare argo en la casa ;)", 
+            "created_at": "Fri, 30 Sep 2011 19:16:29 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1546359708/P1110105_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "119853139661819904", 
+            "from_user": "PinguBu", 
+            "from_user_id": 408397749, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853139661819904, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "30568078", 
+            "text": "Nada pior de ter que fazer para casa de quimica.", 
+            "created_at": "Fri, 30 Sep 2011 19:16:29 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1112751652/d_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853139523411968", 
+            "from_user": "danielalves13", 
+            "from_user_id": 30568078, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853139523411968, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "200350213", 
+            "text": "RT @FatosJuventude: odeio quando passa uma musica na radio muito legal e eu nao sei o nome pra poder anotar e quando chegar em casa, poder fazer o downlaod", 
+            "created_at": "Fri, 30 Sep 2011 19:16:29 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853139200442368", 
+            "from_user": "rhanaloran", 
+            "from_user_id": 200350213, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853139200442368, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "413764777", 
+            "text": "@Paofana_ estaras mas tarde en la casa de mi abuela??", 
+            "created_at": "Fri, 30 Sep 2011 19:16:29 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1558673452/chora_normal.jpg", 
+            "to_user_id_str": "389239627", 
+            "to_user": "Paofana_", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853139196248065", 
+            "from_user": "Calenagualesca", 
+            "from_user_id": 413764777, 
+            "to_user_id": 389239627, 
+            "geo": null, 
+            "id": 119853139196248065, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "225206588", 
+            "text": "@_calinegabriele , ok, de que horas voc\u00ea vai ta em casa??", 
+            "created_at": "Fri, 30 Sep 2011 19:16:29 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1494945795/nos_009_normal.jpg", 
+            "to_user_id_str": "362024328", 
+            "to_user": "_calinegabriele", 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "119853138386755584", 
+            "from_user": "_BarbaraCiupak", 
+            "from_user_id": 225206588, 
+            "to_user_id": 362024328, 
+            "geo": null, 
+            "id": 119853138386755584, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "29028294", 
+            "text": "Que tal passar a perna no Murphy e levar 10 Rick Riordans pra casa?? bit.ly/EspecialRiordan", 
+            "created_at": "Fri, 30 Sep 2011 19:16:29 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1431286010/Anivers_rio_072_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "id_str": "119853138361589760", 
+            "from_user": "Barbara_Sant", 
+            "from_user_id": 29028294, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853138361589760, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "351152927", 
+            "text": "vo ver c aki em casa tem foto do @CEDUAARD0 quando ele era crian\u00e7a pra mim mostra pra @larisleite_ pra ela ver como ele era fofinho hahaha", 
+            "created_at": "Fri, 30 Sep 2011 19:16:29 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1539085705/Foto0094_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853138084769795", 
+            "from_user": "GomesBia11", 
+            "from_user_id": 351152927, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853138084769795, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "258043223", 
+            "text": "De vuelta en casa viendo #natura", 
+            "created_at": "Fri, 30 Sep 2011 19:16:29 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1557373811/image_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/#!/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+            "place": {
+                "type": "city", 
+                "id": "05f88079526a4f13", 
+                "full_name": "San Sebasti\u00e1n, Guip\u00fazcoa"
+            }, 
+            "id_str": "119853137933770754", 
+            "from_user": "kiitxu13", 
+            "from_user_id": 258043223, 
+            "to_user_id": null, 
+            "geo": {
+                "type": "Point", 
+                "coordinates": [
+                    43.3178, 
+                    -1.93
+                ]
+            }, 
+            "id": 119853137933770754, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "351180176", 
+            "text": "partiu sal\u00e3o,depois casa da @_mariioliveira encontrar minhas girls! bjbj", 
+            "created_at": "Fri, 30 Sep 2011 19:16:29 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1517074373/MULHERRRRRRRRRRR_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853137350758400", 
+            "from_user": "camilps_", 
+            "from_user_id": 351180176, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853137350758400, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "369104446", 
+            "text": "@DouglasElopez jajaj ladro, cuando este en mi casa me lo llevas para alla, antes del a\u00f1o que viene salgo \u263a", 
+            "created_at": "Fri, 30 Sep 2011 19:16:29 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1544021622/_3D__20J_CF_85_E2_84_93i_CF_83_20B_normal.jpg", 
+            "to_user_id_str": "262407989", 
+            "to_user": "DouglasElopez", 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "119853137082322944", 
+            "from_user": "MariaLauraGarc1", 
+            "from_user_id": 369104446, 
+            "to_user_id": 262407989, 
+            "geo": null, 
+            "id": 119853137082322944, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "163130153", 
+            "text": "@bel__lima :/ queria ir, mas \u00e9 osso gastar 30,00 de taxi pra voltar pra casa:/", 
+            "created_at": "Fri, 30 Sep 2011 19:16:29 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1560079493/tuito_normal.jpg", 
+            "to_user_id_str": "193655720", 
+            "to_user": "bel__lima", 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "id_str": "119853137044582400", 
+            "from_user": "ninalta", 
+            "from_user_id": 163130153, 
+            "to_user_id": 193655720, 
+            "geo": null, 
+            "id": 119853137044582400, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "289884603", 
+            "text": "16:16 casa", 
+            "created_at": "Fri, 30 Sep 2011 19:16:29 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1559602258/oooiq_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119853136763555840", 
+            "from_user": "bibiawho", 
+            "from_user_id": 289884603, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853136763555840, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "129470775", 
+            "text": "ja to em casa u.u ja estudei, ja fiz tudo, agr to com t\u00e9dio e vou arrumar alguma coisa p fazer kkk ate eu ir p plt com a mamis e a bibis", 
+            "created_at": "Fri, 30 Sep 2011 19:16:29 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1297322406/iei_eu_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://stone.com/Twittelator&quot; rel=&quot;nofollow&quot;&gt;Twittelator&lt;/a&gt;", 
+            "id_str": "119853136520286208", 
+            "from_user": "BeatrizSouto_", 
+            "from_user_id": 129470775, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853136520286208, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "128622627", 
+            "text": "@BrunnaLuiza_ me ama tanto, que foi s\u00f3 eu dizer que tava em casa, ela ja entrou no msn ;D", 
+            "created_at": "Fri, 30 Sep 2011 19:16:29 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": "405427813", 
+            "to_user": "BrunnaLuiza_", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853136377679872", 
+            "from_user": "DouglaSchmitzz", 
+            "from_user_id": 128622627, 
+            "to_user_id": 405427813, 
+            "geo": null, 
+            "id": 119853136377679872, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "69880884", 
+            "text": "Cara , fui entregar o bon\u00e9 ! Cad\u00ea o thiago ? Acabou que tive que ir na casa dele \u00ac\u00ac", 
+            "created_at": "Fri, 30 Sep 2011 19:16:28 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1564155041/DSC05169_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853135702401024", 
+            "from_user": "Maira208", 
+            "from_user_id": 69880884, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853135702401024, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "410791994", 
+            "text": "@lguerra80 Pues no hay nadie en mi casa :(", 
+            "created_at": "Fri, 30 Sep 2011 19:16:28 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1543362838/hjk_normal.jpg", 
+            "to_user_id_str": "352367286", 
+            "to_user": "lguerra80", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853135673032704", 
+            "from_user": "M_AVC", 
+            "from_user_id": 410791994, 
+            "to_user_id": 352367286, 
+            "geo": null, 
+            "id": 119853135673032704, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "120817221", 
+            "text": "RT @50ctv_dodeivid: DESCOBRIMOS COM QUEM TA O MICKEY .... VOU NA CASA DO @Betoreplace  RESGATAR O MICKEY DO @DeividReplace  U.U PKAKPASASKP", 
+            "created_at": "Fri, 30 Sep 2011 19:16:28 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1531874152/286056_189296931138956_100001759514091_424280_1160664_o_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853135333306368", 
+            "from_user": "CantadasBeto", 
+            "from_user_id": 120817221, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853135333306368, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "114384156", 
+            "text": "@PIERODURAN me pon\u00eda un objetivo para llegar en la casa sin q ninguno se diera cuenta... Era buen parche con mi hermanita @JcaroMarin", 
+            "created_at": "Fri, 30 Sep 2011 19:16:28 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1403320862/261863_10150278857517594_734352593_9060271_4125489_n_normal.jpg", 
+            "to_user_id_str": "25602387", 
+            "to_user": "PIERODURAN", 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "119853134876127232", 
+            "from_user": "MagelMarin", 
+            "from_user_id": 114384156, 
+            "to_user_id": 25602387, 
+            "geo": null, 
+            "id": 119853134876127232, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "398398873", 
+            "text": "eu vou durmi la em baixo na casa dos machos \u266b", 
+            "created_at": "Fri, 30 Sep 2011 19:16:28 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853134809022464", 
+            "from_user": "_SaaaFreire", 
+            "from_user_id": 398398873, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853134809022464, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "401053484", 
+            "text": "Ainda bem que eu ja to indo pra casa ! :)", 
+            "created_at": "Fri, 30 Sep 2011 19:16:28 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1526819059/Z19yg2cw_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119853134637039616", 
+            "from_user": "Niih_rodriguees", 
+            "from_user_id": 401053484, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853134637039616, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "in", 
+            "from_user_id_str": "109060029", 
+            "text": "@fuckyouanna ta em casa amr ?", 
+            "created_at": "Fri, 30 Sep 2011 19:16:28 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1471004630/110704_120144_1__normal.jpg", 
+            "to_user_id_str": "81701682", 
+            "to_user": "fuckyouanna", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853134624464896", 
+            "from_user": "maahwillis", 
+            "from_user_id": 109060029, 
+            "to_user_id": 81701682, 
+            "geo": null, 
+            "id": 119853134624464896, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "44256723", 
+            "text": "En mi casa andan super autoctonos, han hecho tamales de elote x)", 
+            "created_at": "Fri, 30 Sep 2011 19:16:28 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1535440545/ava3_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "119853133206781953", 
+            "from_user": "DamsLems", 
+            "from_user_id": 44256723, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853133206781953, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "416310137", 
+            "text": "RT @rafaela_bomfin: @MulherChifruda  pq nao veio? aie dormia akie em casa *--*", 
+            "created_at": "Fri, 30 Sep 2011 19:16:28 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1565383462/fotos-de-meninas-triste-nb6373_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853132820905984", 
+            "from_user": "MulherChifruda", 
+            "from_user_id": 416310137, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853132820905984, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "53690167", 
+            "text": "oinn! acabei de chegar em casa, fui almo\u00e7ar com a @brunalevy @gabrielaliro1 e a amanda hihi", 
+            "created_at": "Fri, 30 Sep 2011 19:16:28 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1492565671/184184_184200868312417_100001675149854_460255_4738378_n_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853132795756545", 
+            "from_user": "ju_amh", 
+            "from_user_id": 53690167, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853132795756545, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "384718877", 
+            "text": "Casa e depois , amg !", 
+            "created_at": "Fri, 30 Sep 2011 19:16:28 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1553474499/DSC0691500_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119853131889786880", 
+            "from_user": "amochocolatt", 
+            "from_user_id": 384718877, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853131889786880, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "211419662", 
+            "text": "@peterwontgrowup yo me lo traigo para espa\u00f1a y te lo mando a tu casa! xDDDDDD", 
+            "created_at": "Fri, 30 Sep 2011 19:16:28 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1533622953/iconbernipiatti_normal.jpg", 
+            "to_user_id_str": "117294330", 
+            "to_user": "peterwontgrowup", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853131826855936", 
+            "from_user": "xStayWithMeg", 
+            "from_user_id": 211419662, 
+            "to_user_id": 117294330, 
+            "geo": null, 
+            "id": 119853131826855936, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "200066742", 
+            "text": "Sem precisar me preocupar em te levar pra casa cedo, enquanto eu tiver do seu lado n\u00e3o precisa mais ter medo. \u266a  EsqueciDeTeEsquecer", 
+            "created_at": "Fri, 30 Sep 2011 19:16:28 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1561658589/_WeNeedYouLuanS_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853131684265984", 
+            "from_user": "WeNeedYouLuanS", 
+            "from_user_id": 200066742, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853131684265984, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "it", 
+            "from_user_id_str": "355556214", 
+            "text": "Capri appartamento panoramico in centro 70 mq http://t.co/3s7Ml6c7 #affitto #casa #napoli", 
+            "created_at": "Fri, 30 Sep 2011 19:16:27 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1434999359/house_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://www.canalaiz.it/&quot; rel=&quot;nofollow&quot;&gt;SocialInform&lt;/a&gt;", 
+            "id_str": "119853131159965698", 
+            "from_user": "AffittoCasaNA", 
+            "from_user_id": 355556214, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853131159965698, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "275366621", 
+            "text": "El vigilante de casa de Mariajose ya me conoce que risa me dijo ya se que va para donde la familia parra", 
+            "created_at": "Fri, 30 Sep 2011 19:16:27 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1562384517/IMG01309-20110927-0851_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "119853131109646336", 
+            "from_user": "kellyvhh", 
+            "from_user_id": 275366621, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853131109646336, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "122678036", 
+            "text": "RT @GrisPolanco: Durmiendo me puede caer la casa encima... Pero suena el tel\u00e9fono..  Obvio que lo escucho *_*", 
+            "created_at": "Fri, 30 Sep 2011 19:16:27 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1544470455/320488_2308146579067_1111392624_2796010_1497903182_n_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119853130753122304", 
+            "from_user": "CharPrz", 
+            "from_user_id": 122678036, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853130753122304, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "273952932", 
+            "text": "ainda tenho que varrer a casa e pintar os cabelos . :D:D", 
+            "created_at": "Fri, 30 Sep 2011 19:16:27 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1547446260/25_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853129696149504", 
+            "from_user": "DiandraBandeira", 
+            "from_user_id": 273952932, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853129696149504, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "372183863", 
+            "text": "Daqui apouco eu fico pelado aqui em casa O.o", 
+            "created_at": "Fri, 30 Sep 2011 19:16:27 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1550230974/309765_129894883773383_100002586151831_157598_6783103_n_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853129528389632", 
+            "from_user": "JeffeROCKinROll", 
+            "from_user_id": 372183863, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853129528389632, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "63181456", 
+            "text": "RT @sescvilamariana: Promo\u00e7\u00e3o | Cr\u00f4nica da Casa Assassinada - Para hoje, \u00e0s 21h, no Teatro. Participe e ganhe um par de ingressos! http://t.co/TTCXbGNY", 
+            "created_at": "Fri, 30 Sep 2011 19:16:27 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/447157284/orku_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853129398358016", 
+            "from_user": "cacatoledo", 
+            "from_user_id": 63181456, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853129398358016, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "it", 
+            "from_user_id_str": "63575811", 
+            "text": "@JoaoAntonio_PB entao vai geral pra casa do @SamBadotti kk, to brincando (:", 
+            "created_at": "Fri, 30 Sep 2011 19:16:27 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1566151302/image_normal.jpg", 
+            "to_user_id_str": "215295163", 
+            "to_user": "JoaoAntonio_PB", 
+            "source": "&lt;a href=&quot;http://twitter.com/#!/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+            "id_str": "119853129020870656", 
+            "from_user": "Baahpinheiro", 
+            "from_user_id": 63575811, 
+            "to_user_id": 215295163, 
+            "geo": null, 
+            "id": 119853129020870656, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "400031093", 
+            "text": "- tto saindo aqqi , vou ir me arrumar &amp;&amp; ir me encontrar com o @BboyMuniz e dpps ir pra casa da @_carladb *-* '", 
+            "created_at": "Fri, 30 Sep 2011 19:16:27 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1542733370/SAM_1027_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853128664354816", 
+            "from_user": "_mileenarocha", 
+            "from_user_id": 400031093, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853128664354816, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "416926216", 
+            "text": "Hacer lo que nos gusta la fiesta ya esta puesta con la casa babilonia", 
+            "created_at": "Fri, 30 Sep 2011 19:16:27 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1566936771/cartel-de-santa-320x240-14335_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853128567885825", 
+            "from_user": "carteI_desanta", 
+            "from_user_id": 416926216, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853128567885825, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "140113994", 
+            "text": "RT @JuarezRoth: M\u00fasica do dia no Beira-Rio: &quot;Era uma casa muito engra\u00e7ada, n\u00e3o tinha teto, n\u00e3o tinha nada...&quot; (risos)...", 
+            "created_at": "Fri, 30 Sep 2011 19:16:27 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853128353976320", 
+            "from_user": "Arturmic", 
+            "from_user_id": 140113994, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853128353976320, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "78790048", 
+            "text": "Que tal passar a perna no Murphy e levar 10 Rick Riordans pra casa?? bit.ly/EspecialRiordan", 
+            "created_at": "Fri, 30 Sep 2011 19:16:27 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1191315280/ico_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "id_str": "119853128345583616", 
+            "from_user": "In_Death", 
+            "from_user_id": 78790048, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853128345583616, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "it", 
+            "from_user_id_str": "276747313", 
+            "text": "@VictorVale_ vou msm, fica #forever alone na sua casa ! SHUASHUA", 
+            "created_at": "Fri, 30 Sep 2011 19:16:27 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1562387284/P230911_18.54_normal.jpg", 
+            "to_user_id_str": "267405732", 
+            "to_user": "VictorVale_", 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119853128194596864", 
+            "from_user": "mariiaaclara_", 
+            "from_user_id": 276747313, 
+            "to_user_id": 267405732, 
+            "geo": null, 
+            "id": 119853128194596864, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "411504379", 
+            "text": "raxei mt com meu irm\u00e3o cantano : vou durmi l\u00e1 em baixo na casa dos macho , e pode ter certeza l\u00e1 acho um padastro kkkkkkkkkkk ri dms", 
+            "created_at": "Fri, 30 Sep 2011 19:16:27 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1549345830/Foto-0013_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "place": {
+                "type": "city", 
+                "id": "68e019afec7d0ba5", 
+                "full_name": "S\u00e3o Paulo, S\u00e3o Paulo"
+            }, 
+            "id_str": "119853127766781952", 
+            "from_user": "camilimuxa", 
+            "from_user_id": 411504379, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853127766781952, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "it", 
+            "from_user_id_str": "402627746", 
+            "text": "na casa do @ViBressane", 
+            "created_at": "Fri, 30 Sep 2011 19:16:26 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1530623800/luis_e_caue_parceiro_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853126680461312", 
+            "from_user": "Luis_Gilli", 
+            "from_user_id": 402627746, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853126680461312, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "258035955", 
+            "text": "Camino de Cela que ma\u00f1ana se casa mi Amparo #semecasa !!!!!", 
+            "created_at": "Fri, 30 Sep 2011 19:16:26 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1525518817/image_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "119853125896118274", 
+            "from_user": "Patrikia_rc", 
+            "from_user_id": 258035955, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853125896118274, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "10782228", 
+            "text": "@taisfonsecaa Masoq???? Tava indo comprar agora. To chegando em casa.", 
+            "created_at": "Fri, 30 Sep 2011 19:16:26 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1549599169/HNI_0091_normal.JPG", 
+            "to_user_id_str": "31566177", 
+            "to_user": "taisfonsecaa", 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "119853125896118272", 
+            "from_user": "mandypoynter", 
+            "from_user_id": 10782228, 
+            "to_user_id": 31566177, 
+            "geo": null, 
+            "id": 119853125896118272, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "113099155", 
+            "text": "En un rato me voy a casa, me ba\u00f1o, ceno y duermo como nunca antes. Ma\u00f1ana me tienen por aqu\u00ed otra vez.", 
+            "created_at": "Fri, 30 Sep 2011 19:16:26 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1560259462/Paula.._-0024_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://www.snaptu.com&quot; rel=&quot;nofollow&quot;&gt;Snaptu&lt;/a&gt;", 
+            "id_str": "119853125384413184", 
+            "from_user": "Juako87", 
+            "from_user_id": 113099155, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853125384413184, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "208482167", 
+            "text": "Toda la tarde haciendo la tarta para el cumple de adrian y @Xun_EN en casa de @123espectaculo", 
+            "created_at": "Fri, 30 Sep 2011 19:16:26 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1547454768/image__2__normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853125027901442", 
+            "from_user": "pablo_taboas", 
+            "from_user_id": 208482167, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853125027901442, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "29901415", 
+            "text": "Acabei de comprar os doces que vou dar pro meu amigo oculto amanh\u00e3 na casa da @SarinhaResende !", 
+            "created_at": "Fri, 30 Sep 2011 19:16:26 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1272705918/IMG_0148_-_C_pia_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853124323254272", 
+            "from_user": "maandy_vianna", 
+            "from_user_id": 29901415, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853124323254272, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "416841361", 
+            "text": "Acho qe n\u00e3o vou ir ver o @Lucius_Felipe, vou para a casa do meu ttio e fcar l\u00e1a o fonal de semana ttdo!", 
+            "created_at": "Fri, 30 Sep 2011 19:16:26 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1494753880/Foto02_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "place": {
+                "type": "admin", 
+                "id": "8cd72e7876a6c73d", 
+                "full_name": "S\u00e3o Paulo, Brasil"
+            }, 
+            "id_str": "119853123568287744", 
+            "from_user": "KakauFrut", 
+            "from_user_id": 416841361, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853123568287744, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "411892572", 
+            "text": "mais tarde eu vou ir na casa da minha prima linda", 
+            "created_at": "Fri, 30 Sep 2011 19:16:25 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1509008767/P170111_14.16__01___2__normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853122943324161", 
+            "from_user": "iupe_bruna", 
+            "from_user_id": 411892572, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853122943324161, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "127039408", 
+            "text": "M\u00e3e: voltando pra casa* Eu: nopc M\u00e3e: eu mandei voce ir lavar a lou\u00e7aaa!! Eu: t\u00e1 m\u00e3e calma n\u00e9 eu j\u00e1 tava indo .. (nopc)", 
+            "created_at": "Fri, 30 Sep 2011 19:16:25 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1554925153/quadradix3_-_C_pia_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119853122649722880", 
+            "from_user": "jessicacotriim", 
+            "from_user_id": 127039408, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853122649722880, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "395974717", 
+            "text": "Legal mesmo \u00e9 chegar em casa depois de tr\u00eas provas e ainda ter que fazer duas reda\u00e7\u00f5es at\u00e9 19h, aiii como eu amo a cultura!", 
+            "created_at": "Fri, 30 Sep 2011 19:16:25 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1352305281/msn_2_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853122419044352", 
+            "from_user": "gscudeller", 
+            "from_user_id": 395974717, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853122419044352, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "416923482", 
+            "text": "Jo\u00e3o zinho botou uma placa em casa dizendo &quot;Cuidado com o c\u00e3o&quot;, #m\u00e3e:mas ele \u00e9 pequeno. #ele:\u00e9 pra ningu\u00e9m pisar nele.", 
+            "created_at": "Fri, 30 Sep 2011 19:16:25 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1432670682/Ha_ha_normal.gif", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853122012184576", 
+            "from_user": "PiadasFun_", 
+            "from_user_id": 416923482, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853122012184576, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "162171399", 
+            "text": "Terminei de me arrumar, agora \u00e9 s\u00f3 ir para a casa da titia! =))", 
+            "created_at": "Fri, 30 Sep 2011 19:16:25 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1519469626/mozi_editou_s2_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853121794093057", 
+            "from_user": "Gabrielecmi", 
+            "from_user_id": 162171399, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853121794093057, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "353682317", 
+            "text": "&quot;@DiegoAmerino: Que rico es almorzar en la casa&quot;//si lo mejooor :$", 
+            "created_at": "Fri, 30 Sep 2011 19:16:25 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1566223210/306901_10150854560000585_690840584_21315980_1780050321_n_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "119853121726984192", 
+            "from_user": "PrisOrellanaM", 
+            "from_user_id": 353682317, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853121726984192, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "in", 
+            "from_user_id_str": "49031108", 
+            "text": "@juuuhht aham.. tais em casa?", 
+            "created_at": "Fri, 30 Sep 2011 19:16:25 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1281794073/DSC__282__normal.jpg", 
+            "to_user_id_str": "138518306", 
+            "to_user": "juuuhht", 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119853121118801920", 
+            "from_user": "jeniiica", 
+            "from_user_id": 49031108, 
+            "to_user_id": 138518306, 
+            "geo": null, 
+            "id": 119853121118801920, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "53006150", 
+            "text": "\u201c@mricardosg: Dormire como oso en invierno llegando a la casa.\u201d cual rikibobby tirando power nap dices tu!", 
+            "created_at": "Fri, 30 Sep 2011 19:16:25 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1258357650/mustang_close_up_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/#!/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+            "id_str": "119853120925872128", 
+            "from_user": "carmensilvab", 
+            "from_user_id": 53006150, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853120925872128, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "255986640", 
+            "text": "se eu escuto mais de 4 musicas seguidas do pantera, fico com vontade de sai chutando as parada dentro de casa ;x", 
+            "created_at": "Fri, 30 Sep 2011 19:16:25 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853120850370561", 
+            "from_user": "joao_davics", 
+            "from_user_id": 255986640, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853120850370561, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "406867886", 
+            "text": "RT @_LFelipinho: @sua_bobaa @RDGLORIPPE Casa dos machos \u00e9 aqui  eeeeem!!!rs", 
+            "created_at": "Fri, 30 Sep 2011 19:16:25 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1564142262/DSC_0000341_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853120149913601", 
+            "from_user": "sua_bobaa", 
+            "from_user_id": 406867886, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853120149913601, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "208324681", 
+            "text": "RT @lifebymiley: Amanha acho que vou ir posar na casa da @Amo_MileyCyrus  ent\u00e3o hoji agente vai ir alugar um filme, acho que vai ser &quot;O GRITO&quot; ou &quot;O CHAMADO&quot;", 
+            "created_at": "Fri, 30 Sep 2011 19:16:25 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1537476776/twitter_reasonably_small_normal.gif", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853119805980673", 
+            "from_user": "Amo_MileyCyrus", 
+            "from_user_id": 208324681, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853119805980673, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "166994022", 
+            "text": "Da\u00ed voc\u00ea resolve sair de casa porque est\u00e1 com t\u00e9dio e quando volta pra casa sua m\u00e3e te confunde com um camar\u00e3o. Que calorrr, Jesus!", 
+            "created_at": "Fri, 30 Sep 2011 19:16:25 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1518174504/DSC07439_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853119491424256", 
+            "from_user": "_bagato", 
+            "from_user_id": 166994022, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853119491424256, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "9992757", 
+            "text": "A casa (:", 
+            "created_at": "Fri, 30 Sep 2011 19:16:24 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1565915080/301316_2458095974462_1314008543_2868992_1308781169_n_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;\u00dcberSocial for BlackBerry&lt;/a&gt;", 
+            "id_str": "119853118983897088", 
+            "from_user": "Danniel95", 
+            "from_user_id": 9992757, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853118983897088, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "it", 
+            "from_user_id_str": "275308918", 
+            "text": "fui pra casa da m\u00e3e!bj", 
+            "created_at": "Fri, 30 Sep 2011 19:16:24 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1516196786/twitter_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119853118690295808", 
+            "from_user": "oliveirajualves", 
+            "from_user_id": 275308918, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853118690295808, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "16897812", 
+            "text": "visitando amigos (@ Casa de @rovillast) http://t.co/AZF56v1E", 
+            "created_at": "Fri, 30 Sep 2011 19:16:24 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1521541761/avatar_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://foursquare.com&quot; rel=&quot;nofollow&quot;&gt;foursquare&lt;/a&gt;", 
+            "id_str": "119853118627381249", 
+            "from_user": "andresrodr", 
+            "from_user_id": 16897812, 
+            "to_user_id": null, 
+            "geo": {
+                "type": "Point", 
+                "coordinates": [
+                    -36.6037, 
+                    -72.0825
+                ]
+            }, 
+            "id": 119853118627381249, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "266741099", 
+            "text": "Bueno primer dia en casa superado, siesta y tele , ma\u00f1ana sera duro.. No hacer nada", 
+            "created_at": "Fri, 30 Sep 2011 19:16:24 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1551956410/image_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/#!/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+            "id_str": "119853118568677376", 
+            "from_user": "eliismh", 
+            "from_user_id": 266741099, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853118568677376, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "148187386", 
+            "text": "@LaiianeLima_ aqui em casa", 
+            "created_at": "Fri, 30 Sep 2011 19:16:24 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1526518272/PICT0581_normal.JPG", 
+            "to_user_id_str": "244223340", 
+            "to_user": "LaiianeLima_", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853118300241921", 
+            "from_user": "gabisampaioo_", 
+            "from_user_id": 148187386, 
+            "to_user_id": 244223340, 
+            "geo": null, 
+            "id": 119853118300241921, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "from_user_id_str": "32381317", 
+            "text": "@BenLaMothe Also, the Dunedin Brewery has pretty decent food. Might as well tell you about Casa Tina as well.", 
+            "created_at": "Fri, 30 Sep 2011 19:16:24 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1299552538/37b0853a-fb2a-45f2-973b-592549727edb_normal.png", 
+            "to_user_id_str": "2839752", 
+            "to_user": "BenLaMothe", 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "id_str": "119853117889187841", 
+            "from_user": "number27", 
+            "from_user_id": 32381317, 
+            "to_user_id": 2839752, 
+            "geo": null, 
+            "id": 119853117889187841, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "265298699", 
+            "text": "ent\u00e3o , saindo aqui , vou la na casa da minha linda @ste_gandara s2s2 , e depois talvez vamos na lagoa e na sorveteria *--* s2", 
+            "created_at": "Fri, 30 Sep 2011 19:16:24 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119853117549453312", 
+            "from_user": "Lizza_criistina", 
+            "from_user_id": 265298699, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119853117549453312, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 0, 
+    "results_per_page": 100, 
+    "query": "casa", 
+    "max_id": 119853156376121344, 
+    "page": 1
+}

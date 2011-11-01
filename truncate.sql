@@ -1,0 +1,9 @@
+TRUNCATE clients;
+TRUNCATE clients_users;
+TRUNCATE posts;
+TRUNCATE temp_hashtag;
+TRUNCATE temp_links;
+TRUNCATE temp_mention;
+TRUNCATE temp_search;
+TRUNCATE users;
+TRUNCATE users_token;

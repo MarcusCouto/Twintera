@@ -1,0 +1,157 @@
+{
+    "completed_in": 0.173, 
+    "max_id_str": "112604730680807424", 
+    "since_id_str": "0", 
+    "refresh_url": "?since_id=112604730680807424&q=arist%EF%BF%BDteles", 
+    "results": [
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "88834854", 
+            "text": "RT @Jo_Aguirre: ...dejese ver en los restaurantes de moda, aunque solo se tome una copa, y si pide prestado, pida mucho -Arist\ufffdteles Onassis", 
+            "created_at": "Sat, 10 Sep 2011 19:13:54 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1232021525/132_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "112604730680807424", 
+            "from_user": "thaniasalgado", 
+            "from_user_id": 88834854, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 112604730680807424, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "91480701", 
+            "text": "RT @mariasalazar_r: RT @Jo_Aguirre: ...dejese ver en los restaurantes de moda, aunque solo se tome una copa, y si pide prestado, pida mucho -Arist\ufffdteles Onassis", 
+            "created_at": "Sat, 10 Sep 2011 17:38:19 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1518670373/325748614_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;\u00dcberSocial for BlackBerry&lt;/a&gt;", 
+            "id_str": "112580674963255297", 
+            "from_user": "marialaurabove", 
+            "from_user_id": 91480701, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 112580674963255297, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "115812627", 
+            "text": "RT @Jo_Aguirre: ...dejese ver en los restaurantes de moda, aunque solo se tome una copa, y si pide prestado, pida mucho -Arist\ufffdteles Onassis", 
+            "created_at": "Sat, 10 Sep 2011 17:36:56 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1482176983/Carlos_Ces_h_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "112580329172238336", 
+            "from_user": "StigmaMargarita", 
+            "from_user_id": 115812627, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 112580329172238336, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "133249020", 
+            "text": "RT @Jo_Aguirre: ...dejese ver en los restaurantes de moda, aunque solo se tome una copa, y si pide prestado, pida mucho -Arist\ufffdteles Onassis", 
+            "created_at": "Sat, 10 Sep 2011 17:31:13 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1520137898/325793520_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;\u00dcberSocial for BlackBerry&lt;/a&gt;", 
+            "id_str": "112578887556403200", 
+            "from_user": "LorexFrattaroli", 
+            "from_user_id": 133249020, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 112578887556403200, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "70317416", 
+            "text": "RT @Jo_Aguirre: ...dejese ver en los restaurantes de moda, aunque solo se tome una copa, y si pide prestado, pida mucho -Arist\ufffdteles Onassis", 
+            "created_at": "Sat, 10 Sep 2011 17:26:24 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1537330823/326365598_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;\u00dcberSocial for BlackBerry&lt;/a&gt;", 
+            "id_str": "112577677482921984", 
+            "from_user": "mariasalazar_r", 
+            "from_user_id": 70317416, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 112577677482921984, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "113474487", 
+            "text": "RT @Jo_Aguirre: ...dejese ver en los restaurantes de moda, aunque solo se tome una copa, y si pide prestado, pida mucho -Arist\ufffdteles Onassis", 
+            "created_at": "Sat, 10 Sep 2011 17:25:11 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1416644858/312182532_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "112577369738448896", 
+            "from_user": "DulcianaSilva", 
+            "from_user_id": 113474487, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 112577369738448896, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "92369078", 
+            "text": "RT @Jo_Aguirre: ...dejese ver en los restaurantes de moda, aunque solo se tome una copa, y si pide prestado, pida mucho -Arist\ufffdteles Onassis", 
+            "created_at": "Sat, 10 Sep 2011 17:25:06 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1502481560/F__609_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "112577350343999488", 
+            "from_user": "sergioc1983", 
+            "from_user_id": 92369078, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 112577350343999488, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "112956654", 
+            "text": "...dejese ver en los restaurantes de moda, aunque solo se tome una copa, y si pide prestado, pida mucho -Arist\ufffdteles Onassis", 
+            "created_at": "Sat, 10 Sep 2011 17:24:42 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1345310005/dita_von_teese_twitter_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "112577247759699968", 
+            "from_user": "Jo_Aguirre", 
+            "from_user_id": 112956654, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 112577247759699968, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 0, 
+    "results_per_page": 100, 
+    "query": "arist%EF%BF%BDteles", 
+    "max_id": 112604730680807424, 
+    "page": 1
+}

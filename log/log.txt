@@ -1,0 +1,1477 @@
+2011-09-30 16:00:06.022198 - id_twitter Desconhecido - 21413905
+2011-10-04 11:00:16.753794  - id_twitter Desconhecido - 84229473
+2011-10-04 11:00:23.425307  - id_twitter Desconhecido - 64930545
+2011-10-04 11:03:31.190264  - id_twitter Desconhecido - 6253282
+2011-10-04 11:03:37.023308  - id_twitter Desconhecido - 70307084
+2011-10-04 11:03:42.913275  - id_twitter Desconhecido - 60629242
+2011-10-04 11:03:47.731268  - id_twitter Desconhecido - 189334808
+2011-10-04 11:03:48.621147  - id_twitter Desconhecido - 72214845
+2011-10-04 11:03:52.951434  - id_twitter Desconhecido - 45226018
+2011-10-04 11:03:54.021762  - id_twitter Desconhecido - 30821037
+2011-10-04 11:03:54.902332  - id_twitter Desconhecido - 11829452
+2011-10-04 11:03:55.795828  - id_twitter Desconhecido - 148512779
+2011-10-04 11:03:56.661115  - id_twitter Desconhecido - 14749110
+2011-10-04 11:03:57.643587  - id_twitter Desconhecido - 783214
+2011-10-04 11:03:58.526273  - id_twitter Desconhecido - 79174898
+2011-10-04 11:03:59.423812  - id_twitter Desconhecido - 49120160
+2011-10-04 11:04:00.292745  - id_twitter Desconhecido - 45964551
+2011-10-04 11:04:01.915461  - id_twitter Desconhecido - 177268287
+2011-10-04 11:04:02.793316  - id_twitter Desconhecido - 154386754
+2011-10-04 11:04:03.686266  - id_twitter Desconhecido - 52471614
+2011-10-04 11:04:04.581573  - id_twitter Desconhecido - 147818699
+2011-10-04 11:04:05.432042  - id_twitter Desconhecido - 104206088
+2011-10-04 11:04:06.310565  - id_twitter Desconhecido - 50434236
+2011-10-04 11:04:12.354365  - id_twitter Desconhecido - 4276
+2011-10-04 11:04:13.203674  - id_twitter Desconhecido - 16048404
+2011-10-04 11:04:14.521304  - id_twitter Desconhecido - 55579942
+2011-10-04 11:04:15.420620  - id_twitter Desconhecido - 34489625
+2011-10-04 11:04:16.280968  - id_twitter Desconhecido - 71944823
+2011-10-04 11:04:17.131694  - id_twitter Desconhecido - 143938999
+2011-10-04 11:04:18.024392  - id_twitter Desconhecido - 64830676
+2011-10-04 11:04:27.892398  - id_twitter Desconhecido - 16249368
+2011-10-04 11:04:28.779691  - id_twitter Desconhecido - 70278659
+2011-10-04 11:04:29.675182  - id_twitter Desconhecido - 114191494
+2011-10-04 11:04:30.714255  - id_twitter Desconhecido - 172624991
+2011-10-04 11:04:31.571838  - id_twitter Desconhecido - 15197472
+2011-10-04 11:04:32.423861  - id_twitter Desconhecido - 41004162
+2011-10-04 11:04:33.281253  - id_twitter Desconhecido - 87999699
+2011-10-04 11:04:34.178888  - id_twitter Desconhecido - 65391376
+2011-10-04 11:04:35.291374  - id_twitter Desconhecido - 26493930
+2011-10-04 11:04:36.199829  - id_twitter Desconhecido - 76787396
+2011-10-04 11:04:38.076456  - id_twitter Desconhecido - 95801735
+2011-10-04 11:04:38.970758  - id_twitter Desconhecido - 22221282
+2011-10-04 11:04:40.395831  - id_twitter Desconhecido - 39086060
+2011-10-04 11:04:41.291597  - id_twitter Desconhecido - 68315295
+2011-10-04 11:04:42.142282  - id_twitter Desconhecido - 57544945
+2011-10-04 11:04:42.986475  - id_twitter Desconhecido - 138797399
+2011-10-04 11:04:43.931563  - id_twitter Desconhecido - 68839531
+2011-10-04 11:04:44.811302  - id_twitter Desconhecido - 169235974
+2011-10-04 11:04:45.681942  - id_twitter Desconhecido - 73470120
+2011-10-04 11:04:46.577727  - id_twitter Desconhecido - 337946859
+2011-10-04 11:04:47.472650  - id_twitter Desconhecido - 11769552
+2011-10-04 11:04:49.893242  - id_twitter Desconhecido - 6461032
+2011-10-04 11:04:50.791743  - id_twitter Desconhecido - 326795805
+2011-10-04 11:06:02.628061  - id_twitter Desconhecido - 21413905
+2011-10-04 11:07:25.506809  - id_twitter Desconhecido - 21413905
+2011-10-04 11:09:02.976344  - id_twitter Desconhecido - 21413905
+2011-10-04 11:09:04.606653  - id_twitter Desconhecido - 21413905
+2011-10-04 11:09:36.400921  - id_twitter Desconhecido - 21413905
+2011-10-04 11:12:05.365081  - id_twitter Desconhecido - 21413905
+2011-10-04 11:15:01.995474  - id_twitter Desconhecido - 21413905
+2011-10-04 11:18:02.842615  - id_twitter Desconhecido - 21413905
+2011-10-04 11:20:03.159595  - id_twitter Desconhecido - 21413905
+2011-10-04 11:21:02.620921  - id_twitter Desconhecido - 21413905
+2011-10-04 11:24:02.829363  - id_twitter Desconhecido - 21413905
+2011-10-04 11:24:19.249497  - id_twitter Desconhecido - 21413905
+2011-10-04 11:27:02.844859  - id_twitter Desconhecido - 21413905
+2011-10-04 11:30:03.003364  - id_twitter Desconhecido - 21413905
+2011-10-04 11:33:05.259208  - id_twitter Desconhecido - 21413905
+2011-10-04 11:36:02.709196  - id_twitter Desconhecido - 21413905
+2011-10-04 11:39:02.615023  - id_twitter Desconhecido - 21413905
+2011-10-04 11:40:02.887076  - id_twitter Desconhecido - 21413905
+2011-10-04 11:42:04.114045  - id_twitter Desconhecido - 21413905
+2011-10-04 11:45:03.051844  - id_twitter Desconhecido - 21413905
+2011-10-04 11:48:09.036566  - id_twitter Desconhecido - 6253282
+2011-10-04 11:48:18.257621  - id_twitter Desconhecido - 70307084
+2011-10-04 11:48:24.145777  - id_twitter Desconhecido - 60629242
+2011-10-04 11:48:40.939254  - id_twitter Desconhecido - 45226018
+2011-10-04 11:48:46.790820  - id_twitter Desconhecido - 30821037
+2011-10-04 11:49:42.468263  - id_twitter Desconhecido - 14749110
+2011-10-04 11:49:48.385744  - id_twitter Desconhecido - 783214
+2011-10-04 11:49:57.268736  - id_twitter Desconhecido - 79174898
+2011-10-04 11:50:06.408338  - id_twitter Desconhecido - 49120160
+2011-10-04 11:50:18.799671  - id_twitter Desconhecido - 52471614
+2011-10-04 11:50:37.736129  - id_twitter Desconhecido - 50434236
+2011-10-04 11:50:46.172221  - id_twitter Desconhecido - 4276
+2011-10-04 11:50:58.881907  - id_twitter Desconhecido - 55579942
+2011-10-04 11:51:04.754153  - id_twitter Desconhecido - 34489625
+2011-10-04 11:51:11.829019  - id_twitter Desconhecido - 71944823
+2011-10-04 11:51:23.535817  - id_twitter Desconhecido - 16249368
+2011-10-04 11:51:32.939819  - id_twitter Desconhecido - 114191494
+2011-10-04 11:51:40.233752  - id_twitter Desconhecido - 15197472
+2011-10-04 11:53:19.047954  - id_twitter Desconhecido - 41004162
+2011-10-04 11:53:19.579336  - id_twitter Desconhecido - 41004162
+2011-10-04 11:53:27.150540  - id_twitter Desconhecido - 65391376
+2011-10-04 11:53:29.823261  - id_twitter Desconhecido - 65391376
+2011-10-04 11:53:33.437229  - id_twitter Desconhecido - 26493930
+2011-10-04 11:53:40.318599  - id_twitter Desconhecido - 76787396
+2011-10-04 11:53:44.600188  - id_twitter Desconhecido - 76787396
+2011-10-04 11:53:46.591869  - id_twitter Desconhecido - 95801735
+2011-10-04 11:53:52.471107  - id_twitter Desconhecido - 22221282
+2011-10-04 11:53:55.144569  - id_twitter Desconhecido - 22221282
+2011-10-04 11:53:58.889114  - id_twitter Desconhecido - 39086060
+2011-10-04 11:54:00.992906  - id_twitter Desconhecido - 39086060
+2011-10-04 11:54:04.740426  - id_twitter Desconhecido - 68315295
+2011-10-04 11:54:06.839359  - id_twitter Desconhecido - 68315295
+2011-10-04 11:54:10.584262  - id_twitter Desconhecido - 57544945
+2011-10-04 11:54:12.697635  - id_twitter Desconhecido - 57544945
+2011-10-04 11:54:16.560344  - id_twitter Desconhecido - 138797399
+2011-10-04 11:54:18.547684  - id_twitter Desconhecido - 138797399
+2011-10-04 11:54:22.433123  - id_twitter Desconhecido - 68839531
+2011-10-04 11:54:28.197704  - id_twitter Desconhecido - 68839531
+2011-10-04 11:54:34.921187  - id_twitter Desconhecido - 11769552
+2011-10-04 11:54:37.169479  - id_twitter Desconhecido - 11769552
+2011-10-04 11:54:40.910769  - id_twitter Desconhecido - 6461032
+2011-10-04 11:54:44.372478  - id_twitter Desconhecido - 6461032
+2011-10-04 11:54:51.576339  - id_twitter Desconhecido - 60430650
+2011-10-04 11:54:57.466341  - id_twitter Desconhecido - 35796379
+2011-10-04 11:55:03.455295  - id_twitter Desconhecido - 35796379
+2011-10-04 11:55:03.960945  - id_twitter Desconhecido - 16823529
+2011-10-04 11:55:09.599055  - id_twitter Desconhecido - 16823529
+2011-10-04 11:55:10.154333  - id_twitter Desconhecido - 49757568
+2011-10-04 11:55:15.458170  - id_twitter Desconhecido - 49757568
+2011-10-04 11:55:22.524543  - id_twitter Desconhecido - 92006953
+2011-10-04 11:55:22.759293  - id_twitter Desconhecido - 92006953
+2011-10-04 11:55:28.618285  - id_twitter Desconhecido - 17842778
+2011-10-04 11:55:32.130566  - id_twitter Desconhecido - 17842778
+2011-10-04 11:55:34.668092  - id_twitter Desconhecido - 33498632
+2011-10-04 11:55:38.027996  - id_twitter Desconhecido - 33498632
+2011-10-04 11:55:45.058406  - id_twitter Desconhecido - 33488005
+2011-10-04 11:55:47.134222  - id_twitter Desconhecido - 33488005
+2011-10-04 11:55:53.283004  - id_twitter Desconhecido - 35329014
+2011-10-04 11:55:55.220136  - id_twitter Desconhecido - 35329014
+2011-10-04 11:55:59.144909  - id_twitter Desconhecido - 24833587
+2011-10-04 11:56:05.486147  - id_twitter Desconhecido - 24833587
+2011-10-04 11:56:06.695031  - id_twitter Desconhecido - 15598619
+2011-10-04 11:56:15.257699  - id_twitter Desconhecido - 15598619
+2011-10-04 11:56:17.234196  - id_twitter Desconhecido - 47817190
+2011-10-04 11:56:32.569546  - id_twitter Desconhecido - 46399186
+2011-10-04 11:56:38.457431  - id_twitter Desconhecido - 43102246
+2011-10-04 11:56:56.254485  - id_twitter Desconhecido - 61257505
+2011-10-04 11:57:02.128085  - id_twitter Desconhecido - 15770447
+2011-10-04 11:57:08.104872  - id_twitter Desconhecido - 73741059
+2011-10-04 11:57:18.501009  - id_twitter Desconhecido - 25515774
+2011-10-04 11:57:32.586017  - id_twitter Desconhecido - 40248117
+2011-10-04 11:57:42.596798  - id_twitter Desconhecido - 42730953
+2011-10-04 11:57:51.376876  - id_twitter Desconhecido - 19769601
+2011-10-04 11:57:56.184973  - id_twitter Desconhecido - 19769601
+2011-10-04 11:58:03.031735  - id_twitter Desconhecido - 56002324
+2011-10-04 11:58:04.245693  - id_twitter Desconhecido - 56002324
+2011-10-04 11:58:12.479094  - id_twitter Desconhecido - 71948832
+2011-10-04 11:58:16.158054  - id_twitter Desconhecido - 71948832
+2011-10-04 11:58:18.996525  - id_twitter Desconhecido - 71948832
+2011-10-04 11:58:21.127891  - id_twitter Desconhecido - 54323061
+2011-10-04 11:58:26.908737  - id_twitter Desconhecido - 33786674
+2011-10-04 11:58:27.170173  - id_twitter Desconhecido - 33786674
+2011-10-04 11:58:33.073630  - id_twitter Desconhecido - 68214600
+2011-10-04 11:58:40.112630  - id_twitter Desconhecido - 51927742
+2011-10-04 11:58:44.347216  - id_twitter Desconhecido - 51927742
+2011-10-04 11:58:45.904532  - id_twitter Desconhecido - 51927742
+2011-10-04 11:58:49.166130  - id_twitter Desconhecido - 40582573
+2011-10-04 11:58:50.383193  - id_twitter Desconhecido - 71948832
+2011-10-04 11:58:55.028951  - id_twitter Desconhecido - 27316235
+2011-10-04 11:58:55.805808  - id_twitter Desconhecido - 40582573
+2011-10-04 11:59:00.937268  - id_twitter Desconhecido - 44049523
+2011-10-04 11:59:08.176163  - id_twitter Desconhecido - 44049523
+2011-10-04 11:59:13.906476  - id_twitter Desconhecido - 21385115
+2011-10-04 11:59:17.859344  - id_twitter Desconhecido - 21385115
+2011-10-04 11:59:20.129886  - id_twitter Desconhecido - 21385115
+2011-10-04 11:59:27.910402  - id_twitter Desconhecido - 24628348
+2011-10-04 11:59:29.024805  - id_twitter Desconhecido - 24628348
+2011-10-04 11:59:30.262200  - id_twitter Desconhecido - 24628348
+2011-10-04 11:59:34.903466  - id_twitter Desconhecido - 39490633
+2011-10-04 11:59:36.797013  - id_twitter Desconhecido - 39490633
+2011-10-04 11:59:37.910131  - id_twitter Desconhecido - 24628348
+2011-10-04 11:59:38.168524  - id_twitter Desconhecido - 39490633
+2011-10-04 11:59:45.548744  - id_twitter Desconhecido - 27988340
+2011-10-04 11:59:46.457800  - id_twitter Desconhecido - 71051396
+2011-10-04 11:59:47.297509  - id_twitter Desconhecido - 51498224
+2011-10-04 11:59:47.319395  - id_twitter Desconhecido - 51498224
+2011-10-04 11:59:47.329885  - id_twitter Desconhecido - 51498224
+2011-10-04 11:59:48.246504  - id_twitter Desconhecido - 358933506
+2011-10-04 11:59:48.274158  - id_twitter Desconhecido - 358933506
+2011-10-04 11:59:48.516483  - id_twitter Desconhecido - 358933506
+2011-10-04 11:59:48.624764  - id_twitter Desconhecido - 51498224
+2011-10-04 11:59:49.146690  - id_twitter Desconhecido - 68278460
+2011-10-04 11:59:49.162883  - id_twitter Desconhecido - 68278460
+2011-10-04 11:59:50.032088  - id_twitter Desconhecido - 370294176
+2011-10-04 11:59:50.257651  - id_twitter Desconhecido - 68278460
+2011-10-04 11:59:50.505651  - id_twitter Desconhecido - 358933506
+2011-10-04 11:59:51.111021  - id_twitter Desconhecido - 46886341
+2011-10-04 11:59:51.157078  - id_twitter Desconhecido - 370294176
+2011-10-04 11:59:51.379211  - id_twitter Desconhecido - 68278460
+2011-10-04 11:59:51.981461  - id_twitter Desconhecido - 285907252
+2011-10-04 11:59:52.110700  - id_twitter Desconhecido - 46886341
+2011-10-04 11:59:52.527634  - id_twitter Desconhecido - 370294176
+2011-10-04 11:59:52.851863  - id_twitter Desconhecido - 18334191
+2011-10-04 11:59:52.970919  - id_twitter Desconhecido - 285907252
+2011-10-04 11:59:53.062293  - id_twitter Desconhecido - 370294176
+2011-10-04 11:59:53.412158  - id_twitter Desconhecido - 46886341
+2011-10-04 11:59:53.887105  - id_twitter Desconhecido - 64290658
+2011-10-04 11:59:53.929350  - id_twitter Desconhecido - 46886341
+2011-10-04 11:59:54.293640  - id_twitter Desconhecido - 285907252
+2011-10-04 11:59:54.794392  - id_twitter Desconhecido - 33390817
+2011-10-04 11:59:54.844242  - id_twitter Desconhecido - 285907252
+2011-10-04 11:59:55.684136  - id_twitter Desconhecido - 19775224
+2011-10-04 11:59:56.080963  - id_twitter Desconhecido - 18334191
+2011-10-04 11:59:56.266443  - id_twitter Desconhecido - 18334191
+2011-10-04 11:59:56.579216  - id_twitter Desconhecido - 21374251
+2011-10-04 11:59:56.867019  - id_twitter Desconhecido - 18334191
+2011-10-04 11:59:56.973010  - id_twitter Desconhecido - 64290658
+2011-10-04 11:59:57.735236  - id_twitter Desconhecido - 64290658
+2011-10-04 11:59:57.851094  - id_twitter Desconhecido - 33390817
+2011-10-04 11:59:58.729416  - id_twitter Desconhecido - 19775224
+2011-10-04 11:59:59.117295  - id_twitter Desconhecido - 52593944
+2011-10-04 11:59:59.588132  - id_twitter Desconhecido - 21374251
+2011-10-04 11:59:59.707569  - id_twitter Desconhecido - 64290658
+2011-10-04 12:00:00.427334  - id_twitter Desconhecido - 79242532
+2011-10-04 12:00:00.843902  - id_twitter Desconhecido - 52593944
+2011-10-04 12:00:01.280527  - id_twitter Desconhecido - 33390817
+2011-10-04 12:00:01.930605  - id_twitter Desconhecido - 27366071
+2011-10-04 12:00:02.195308  - id_twitter Desconhecido - 19775224
+2011-10-04 12:00:02.295517  - id_twitter Desconhecido - 21413905
+2011-10-04 12:00:02.643444  - id_twitter Desconhecido - 79242532
+2011-10-04 12:00:02.845873  - id_twitter Desconhecido - 33647108
+2011-10-04 12:00:03.058535  - id_twitter Desconhecido - 21374251
+2011-10-04 12:00:03.849998  - id_twitter Desconhecido - 27366071
+2011-10-04 12:00:03.922030  - id_twitter Desconhecido - 52593944
+2011-10-04 12:00:04.009919  - id_twitter Desconhecido - 64809451
+2011-10-04 12:00:04.742650  - id_twitter Desconhecido - 33647108
+2011-10-04 12:00:04.821886  - id_twitter Desconhecido - 79242532
+2011-10-04 12:00:04.909513  - id_twitter Desconhecido - 15576145
+2011-10-04 12:00:05.319733  - id_twitter Desconhecido - 21413905
+2011-10-04 12:00:05.761621  - id_twitter Desconhecido - 27366071
+2011-10-04 12:00:05.821245  - id_twitter Desconhecido - 5577902
+2011-10-04 12:00:06.637894  - id_twitter Desconhecido - 33647108
+2011-10-04 12:00:07.582327  - id_twitter Desconhecido - 64809451
+2011-10-04 12:00:07.677447  - id_twitter Desconhecido - 64809451
+2011-10-04 12:00:08.370619  - id_twitter Desconhecido - 33390817
+2011-10-04 12:00:08.561509  - id_twitter Desconhecido - 75416507
+2011-10-04 12:00:08.654091  - id_twitter Desconhecido - 15576145
+2011-10-04 12:00:08.764924  - id_twitter Desconhecido - 15576145
+2011-10-04 12:00:09.258446  - id_twitter Desconhecido - 19775224
+2011-10-04 12:00:09.688259  - id_twitter Desconhecido - 5577902
+2011-10-04 12:00:09.940316  - id_twitter Desconhecido - 5577902
+2011-10-04 12:00:10.173615  - id_twitter Desconhecido - 21374251
+2011-10-04 12:00:10.275191  - id_twitter Desconhecido - 46795895
+2011-10-04 12:00:10.555194  - id_twitter Desconhecido - 75416507
+2011-10-04 12:00:10.842555  - id_twitter Desconhecido - 75416507
+2011-10-04 12:00:11.070275  - id_twitter Desconhecido - 52593944
+2011-10-04 12:00:11.359729  - id_twitter Desconhecido - 14794225
+2011-10-04 12:00:11.556992  - id_twitter Desconhecido - 46795895
+2011-10-04 12:00:11.746470  - id_twitter Desconhecido - 46795895
+2011-10-04 12:00:12.245263  - id_twitter Desconhecido - 33532874
+2011-10-04 12:00:12.651264  - id_twitter Desconhecido - 14794225
+2011-10-04 12:00:12.784226  - id_twitter Desconhecido - 79242532
+2011-10-04 12:00:13.137339  - id_twitter Desconhecido - 62074541
+2011-10-04 12:00:13.342679  - id_twitter Desconhecido - 14794225
+2011-10-04 12:00:13.726459  - id_twitter Desconhecido - 33532874
+2011-10-04 12:00:14.013467  - id_twitter Desconhecido - 361212497
+2011-10-04 12:00:14.227786  - id_twitter Desconhecido - 33532874
+2011-10-04 12:00:14.877914  - id_twitter Desconhecido - 102698253
+2011-10-04 12:00:15.107638  - id_twitter Desconhecido - 62074541
+2011-10-04 12:00:15.146471  - id_twitter Desconhecido - 62074541
+2011-10-04 12:00:15.798113  - id_twitter Desconhecido - 229954939
+2011-10-04 12:00:16.061675  - id_twitter Desconhecido - 361212497
+2011-10-04 12:00:16.683908  - id_twitter Desconhecido - 28100375
+2011-10-04 12:00:17.587867  - id_twitter Desconhecido - 20108659
+2011-10-04 12:00:18.514294  - id_twitter Desconhecido - 342970804
+2011-10-04 12:00:19.080336  - id_twitter Desconhecido - 361212497
+2011-10-04 12:00:19.434946  - id_twitter Desconhecido - 48528914
+2011-10-04 12:00:19.588380  - id_twitter Desconhecido - 27366071
+2011-10-04 12:00:19.928676  - id_twitter Desconhecido - 102698253
+2011-10-04 12:00:20.467403  - id_twitter Desconhecido - 33647108
+2011-10-04 12:00:20.782484  - id_twitter Desconhecido - 229954939
+2011-10-04 12:00:21.339333  - id_twitter Desconhecido - 64809451
+2011-10-04 12:00:21.660227  - id_twitter Desconhecido - 28100375
+2011-10-04 12:00:22.393058  - id_twitter Desconhecido - 15576145
+2011-10-04 12:00:22.544112  - id_twitter Desconhecido - 20108659
+2011-10-04 12:00:23.350457  - id_twitter Desconhecido - 102698253
+2011-10-04 12:00:23.426655  - id_twitter Desconhecido - 342970804
+2011-10-04 12:00:23.624777  - id_twitter Desconhecido - 5577902
+2011-10-04 12:00:23.648600  - id_twitter Desconhecido - 67731177
+2011-10-04 12:00:24.232153  - id_twitter Desconhecido - 229954939
+2011-10-04 12:00:24.321305  - id_twitter Desconhecido - 48528914
+2011-10-04 12:00:24.484612  - id_twitter Desconhecido - 75416507
+2011-10-04 12:00:24.535287  - id_twitter Desconhecido - 73470120
+2011-10-04 12:00:25.134292  - id_twitter Desconhecido - 28100375
+2011-10-04 12:00:25.192787  - id_twitter Desconhecido - 67731177
+2011-10-04 12:00:25.409312  - id_twitter Desconhecido - 46795895
+2011-10-04 12:00:25.416792  - id_twitter Desconhecido - 337946859
+2011-10-04 12:00:26.021686  - id_twitter Desconhecido - 20108659
+2011-10-04 12:00:26.086541  - id_twitter Desconhecido - 73470120
+2011-10-04 12:00:26.273916  - id_twitter Desconhecido - 14794225
+2011-10-04 12:00:26.305553  - id_twitter Desconhecido - 84702979
+2011-10-04 12:00:26.954431  - id_twitter Desconhecido - 337946859
+2011-10-04 12:00:27.206692  - id_twitter Desconhecido - 342970804
+2011-10-04 12:00:27.821025  - id_twitter Desconhecido - 33532874
+2011-10-04 12:00:27.851995  - id_twitter Desconhecido - 84702979
+2011-10-04 12:00:28.139260  - id_twitter Desconhecido - 326795805
+2011-10-04 12:00:28.682453  - id_twitter Desconhecido - 62074541
+2011-10-04 12:00:28.710153  - id_twitter Desconhecido - 326795805
+2011-10-04 12:00:29.021349  - id_twitter Desconhecido - 83773903
+2011-10-04 12:00:29.562882  - id_twitter Desconhecido - 361212497
+2011-10-04 12:00:29.624382  - id_twitter Desconhecido - 83773903
+2011-10-04 12:00:29.906299  - id_twitter Desconhecido - 166379754
+2011-10-04 12:00:30.527253  - id_twitter Desconhecido - 166379754
+2011-10-04 12:00:30.653322  - id_twitter Desconhecido - 102698253
+2011-10-04 12:00:31.099953  - id_twitter Desconhecido - 53066678
+2011-10-04 12:00:31.589355  - id_twitter Desconhecido - 48528914
+2011-10-04 12:00:31.756893  - id_twitter Desconhecido - 53066678
+2011-10-04 12:00:31.956993  - id_twitter Desconhecido - 35796379
+2011-10-04 12:00:32.174470  - id_twitter Desconhecido - 229954939
+2011-10-04 12:00:32.490900  - id_twitter Desconhecido - 67731177
+2011-10-04 12:00:33.356749  - id_twitter Desconhecido - 73470120
+2011-10-04 12:00:33.506729  - id_twitter Desconhecido - 90859637
+2011-10-04 12:00:34.378669  - id_twitter Desconhecido - 99947545
+2011-10-04 12:00:34.520017  - id_twitter Desconhecido - 35796379
+2011-10-04 12:00:35.965769  - id_twitter Desconhecido - 90859637
+2011-10-04 12:00:36.068434  - id_twitter Desconhecido - 28100375
+2011-10-04 12:00:36.984813  - id_twitter Desconhecido - 20108659
+2011-10-04 12:00:37.877408  - id_twitter Desconhecido - 342970804
+2011-10-04 12:00:38.765831  - id_twitter Desconhecido - 48528914
+2011-10-04 12:00:39.021756  - id_twitter Desconhecido - 99947545
+2011-10-04 12:00:39.910750  - id_twitter Desconhecido - 17842778
+2011-10-04 12:00:40.030526  - id_twitter Desconhecido - 337946859
+2011-10-04 12:00:40.768440  - id_twitter Desconhecido - 27626096
+2011-10-04 12:00:41.743233  - id_twitter Desconhecido - 120661749
+2011-10-04 12:00:42.627686  - id_twitter Desconhecido - 67731177
+2011-10-04 12:00:42.888681  - id_twitter Desconhecido - 84702979
+2011-10-04 12:00:43.278373  - id_twitter Desconhecido - 72410148
+2011-10-04 12:00:43.791079  - id_twitter Desconhecido - 326795805
+2011-10-04 12:00:43.851863  - id_twitter Desconhecido - 84702979
+2011-10-04 12:00:44.135556  - id_twitter Desconhecido - 159084898
+2011-10-04 12:00:45.046536  - id_twitter Desconhecido - 15598619
+2011-10-04 12:00:45.946658  - id_twitter Desconhecido - 57954902
+2011-10-04 12:00:46.782483  - id_twitter Desconhecido - 17842778
+2011-10-04 12:00:47.044443  - id_twitter Desconhecido - 91241282
+2011-10-04 12:00:47.765254  - id_twitter Desconhecido - 83773903
+2011-10-04 12:00:47.793657  - id_twitter Desconhecido - 83773903
+2011-10-04 12:00:48.733771  - id_twitter Desconhecido - 166379754
+2011-10-04 12:00:48.816084  - id_twitter Desconhecido - 166379754
+2011-10-04 12:00:49.625244  - id_twitter Desconhecido - 53066678
+2011-10-04 12:00:49.690635  - id_twitter Desconhecido - 53066678
+2011-10-04 12:00:50.244187  - id_twitter Desconhecido - 27626096
+2011-10-04 12:00:50.572686  - id_twitter Desconhecido - 90859637
+2011-10-04 12:00:51.346697  - id_twitter Desconhecido - 220150960
+2011-10-04 12:00:51.749821  - id_twitter Desconhecido - 35796379
+2011-10-04 12:00:52.031265  - id_twitter Desconhecido - 120661749
+2011-10-04 12:00:52.161164  - id_twitter Desconhecido - 99947545
+2011-10-04 12:00:52.258665  - id_twitter Desconhecido - 61524593
+2011-10-04 12:00:53.050312  - id_twitter Desconhecido - 17842778
+2011-10-04 12:00:53.357471  - id_twitter Desconhecido - 205632602
+2011-10-04 12:00:53.975385  - id_twitter Desconhecido - 72410148
+2011-10-04 12:00:54.777444  - id_twitter Desconhecido - 72410148
+2011-10-04 12:00:54.827636  - id_twitter Desconhecido - 159084898
+2011-10-04 12:00:54.883022  - id_twitter Desconhecido - 68762064
+2011-10-04 12:00:55.735861  - id_twitter Desconhecido - 15598619
+2011-10-04 12:00:56.603335  - id_twitter Desconhecido - 57954902
+2011-10-04 12:00:57.482393  - id_twitter Desconhecido - 91241282
+2011-10-04 12:00:58.689193  - id_twitter Desconhecido - 159084898
+2011-10-04 12:00:59.120805  - id_twitter Desconhecido - 187490427
+2011-10-04 12:01:01.389933  - id_twitter Desconhecido - 220150960
+2011-10-04 12:01:01.987483  - id_twitter Desconhecido - 384443378
+2011-10-04 12:01:02.604098  - id_twitter Desconhecido - 15598619
+2011-10-04 12:01:03.003939  - id_twitter Desconhecido - 205632602
+2011-10-04 12:01:03.111658  - id_twitter Desconhecido - 201978049
+2011-10-04 12:01:03.982196  - id_twitter Desconhecido - 70257552
+2011-10-04 12:01:04.872909  - id_twitter Desconhecido - 40248117
+2011-10-04 12:01:06.466820  - id_twitter Desconhecido - 57954902
+2011-10-04 12:01:07.955633  - id_twitter Desconhecido - 19619525
+2011-10-04 12:01:08.873463  - id_twitter Desconhecido - 325030280
+2011-10-04 12:01:13.475416  - id_twitter Desconhecido - 97098198
+2011-10-04 12:01:14.896593  - id_twitter Desconhecido - 334582422
+2011-10-04 12:01:18.733295  - id_twitter Desconhecido - 54323061
+2011-10-04 12:01:19.691836  - id_twitter Desconhecido - 115703760
+2011-10-04 12:01:20.589852  - id_twitter Desconhecido - 92436587
+2011-10-04 12:01:20.993151  - id_twitter Desconhecido - 91241282
+2011-10-04 12:01:22.142408  - id_twitter Desconhecido - 206137574
+2011-10-04 12:01:22.165204  - id_twitter Desconhecido - 220150960
+2011-10-04 12:01:23.032389  - id_twitter Desconhecido - 61524593
+2011-10-04 12:01:26.033970  - id_twitter Desconhecido - 28205545
+2011-10-04 12:01:26.592178  - id_twitter Desconhecido - 205632602
+2011-10-04 12:01:26.903384  - id_twitter Desconhecido - 51927742
+2011-10-04 12:01:29.305618  - id_twitter Desconhecido - 169099725
+2011-10-04 12:01:30.159828  - id_twitter Desconhecido - 68762064
+2011-10-04 12:01:31.082552  - id_twitter Desconhecido - 187490427
+2011-10-04 12:01:34.987483  - id_twitter Desconhecido - 384443378
+2011-10-04 12:01:36.722374  - id_twitter Desconhecido - 201978049
+2011-10-04 12:01:39.255208  - id_twitter Desconhecido - 27316235
+2011-10-04 12:01:40.941624  - id_twitter Desconhecido - 70257552
+2011-10-04 12:01:41.834887  - id_twitter Desconhecido - 40248117
+2011-10-04 12:01:43.420753  - id_twitter Desconhecido - 160061739
+2011-10-04 12:01:44.484879  - id_twitter Desconhecido - 211039159
+2011-10-04 12:01:45.751117  - id_twitter Desconhecido - 19619525
+2011-10-04 12:01:46.618244  - id_twitter Desconhecido - 325030280
+2011-10-04 12:01:47.537777  - id_twitter Desconhecido - 97098198
+2011-10-04 12:01:48.425946  - id_twitter Desconhecido - 334582422
+2011-10-04 12:01:48.531113  - id_twitter Desconhecido - 289595009
+2011-10-04 12:01:49.027541  - id_twitter Desconhecido - 187490427
+2011-10-04 12:01:49.396045  - id_twitter Desconhecido - 39137230
+2011-10-04 12:01:49.751237  - id_twitter Desconhecido - 54323061
+2011-10-04 12:01:49.941011  - id_twitter Desconhecido - 384443378
+2011-10-04 12:01:50.284739  - id_twitter Desconhecido - 109739988
+2011-10-04 12:01:50.666895  - id_twitter Desconhecido - 115703760
+2011-10-04 12:01:50.865388  - id_twitter Desconhecido - 201978049
+2011-10-04 12:01:52.292973  - id_twitter Desconhecido - 92436587
+2011-10-04 12:01:52.483557  - id_twitter Desconhecido - 70257552
+2011-10-04 12:01:53.216302  - id_twitter Desconhecido - 206137574
+2011-10-04 12:01:53.356893  - id_twitter Desconhecido - 40248117
+2011-10-04 12:01:54.110539  - id_twitter Desconhecido - 28205545
+2011-10-04 12:01:54.480835  - id_twitter Desconhecido - 19619525
+2011-10-04 12:01:55.029989  - id_twitter Desconhecido - 51927742
+2011-10-04 12:01:55.140260  - id_twitter Desconhecido - 51498224
+2011-10-04 12:01:56.363439  - id_twitter Desconhecido - 169099725
+2011-10-04 12:01:56.697355  - id_twitter Desconhecido - 358933506
+2011-10-04 12:01:56.907000  - id_twitter Desconhecido - 325030280
+2011-10-04 12:01:57.229642  - id_twitter Desconhecido - 27316235
+2011-10-04 12:01:57.671663  - id_twitter Desconhecido - 370294176
+2011-10-04 12:01:57.772709  - id_twitter Desconhecido - 97098198
+2011-10-04 12:01:58.140996  - id_twitter Desconhecido - 160061739
+2011-10-04 12:01:58.572900  - id_twitter Desconhecido - 285907252
+2011-10-04 12:01:58.631425  - id_twitter Desconhecido - 334582422
+2011-10-04 12:01:59.037566  - id_twitter Desconhecido - 211039159
+2011-10-04 12:01:59.492116  - id_twitter Desconhecido - 54323061
+2011-10-04 12:02:00.202912  - id_twitter Desconhecido - 31123008
+2011-10-04 12:02:00.404461  - id_twitter Desconhecido - 115703760
+2011-10-04 12:02:00.630293  - id_twitter Desconhecido - 289595009
+2011-10-04 12:02:01.264882  - id_twitter Desconhecido - 92436587
+2011-10-04 12:02:01.850687  - id_twitter Desconhecido - 39137230
+2011-10-04 12:02:02.130261  - id_twitter Desconhecido - 206137574
+2011-10-04 12:02:02.723164  - id_twitter Desconhecido - 109739988
+2011-10-04 12:02:03.011641  - id_twitter Desconhecido - 28205545
+2011-10-04 12:02:03.281493  - id_twitter Desconhecido - 64290658
+2011-10-04 12:02:03.594524  - id_twitter Desconhecido - 51498224
+2011-10-04 12:02:03.923556  - id_twitter Desconhecido - 51927742
+2011-10-04 12:02:04.178818  - id_twitter Desconhecido - 130664595
+2011-10-04 12:02:05.092298  - id_twitter Desconhecido - 106904358
+2011-10-04 12:02:05.096219  - id_twitter Desconhecido - 169099725
+2011-10-04 12:02:05.997325  - id_twitter Desconhecido - 79018324
+2011-10-04 12:02:07.389054  - id_twitter Desconhecido - 64809451
+2011-10-04 12:02:07.594888  - id_twitter Desconhecido - 358933506
+2011-10-04 12:02:08.516863  - id_twitter Desconhecido - 106603588
+2011-10-04 12:02:09.441426  - id_twitter Desconhecido - 15576145
+2011-10-04 12:02:10.353774  - id_twitter Desconhecido - 90941482
+2011-10-04 12:02:11.120429  - id_twitter Desconhecido - 370294176
+2011-10-04 12:02:12.797301  - id_twitter Desconhecido - 285907252
+2011-10-04 12:02:12.900568  - id_twitter Desconhecido - 27316235
+2011-10-04 12:02:13.682342  - id_twitter Desconhecido - 31123008
+2011-10-04 12:02:13.767031  - id_twitter Desconhecido - 160061739
+2011-10-04 12:02:14.226331  - id_twitter Desconhecido - 93409626
+2011-10-04 12:02:14.662979  - id_twitter Desconhecido - 64290658
+2011-10-04 12:02:15.097987  - id_twitter Desconhecido - 211039159
+2011-10-04 12:02:15.100055  - id_twitter Desconhecido - 163552624
+2011-10-04 12:02:16.013344  - id_twitter Desconhecido - 14794225
+2011-10-04 12:02:16.418449  - id_twitter Desconhecido - 130664595
+2011-10-04 12:02:16.914348  - id_twitter Desconhecido - 62074541
+2011-10-04 12:02:17.288962  - id_twitter Desconhecido - 106904358
+2011-10-04 12:02:17.812537  - id_twitter Desconhecido - 39086060
+2011-10-04 12:02:18.159315  - id_twitter Desconhecido - 79018324
+2011-10-04 12:02:18.686852  - id_twitter Desconhecido - 361212497
+2011-10-04 12:02:18.929003  - id_twitter Desconhecido - 289595009
+2011-10-04 12:02:20.027454  - id_twitter Desconhecido - 39137230
+2011-10-04 12:02:20.885137  - id_twitter Desconhecido - 109739988
+2011-10-04 12:02:21.100070  - id_twitter Desconhecido - 64809451
+2011-10-04 12:02:21.805787  - id_twitter Desconhecido - 51498224
+2011-10-04 12:02:21.999584  - id_twitter Desconhecido - 106603588
+2011-10-04 12:02:22.568266  - id_twitter Desconhecido - 135184294
+2011-10-04 12:02:22.896404  - id_twitter Desconhecido - 15576145
+2011-10-04 12:02:23.847059  - id_twitter Desconhecido - 229954939
+2011-10-04 12:02:24.092462  - id_twitter Desconhecido - 90941482
+2011-10-04 12:02:24.712802  - id_twitter Desconhecido - 20108659
+2011-10-04 12:02:24.980855  - id_twitter Desconhecido - 93409626
+2011-10-04 12:02:25.624007  - id_twitter Desconhecido - 342970804
+2011-10-04 12:02:25.785684  - id_twitter Desconhecido - 90859637
+2011-10-04 12:02:25.882462  - id_twitter Desconhecido - 163552624
+2011-10-04 12:02:27.063606  - id_twitter Desconhecido - 99947545
+2011-10-04 12:02:27.559194  - id_twitter Desconhecido - 358933506
+2011-10-04 12:02:28.463880  - id_twitter Desconhecido - 370294176
+2011-10-04 12:02:28.522415  - id_twitter Desconhecido - 84556278
+2011-10-04 12:02:28.803115  - id_twitter Desconhecido - 14794225
+2011-10-04 12:02:29.352469  - id_twitter Desconhecido - 285907252
+2011-10-04 12:02:29.434717  - id_twitter Desconhecido - 80571817
+2011-10-04 12:02:29.676443  - id_twitter Desconhecido - 62074541
+2011-10-04 12:02:30.534813  - id_twitter Desconhecido - 39086060
+2011-10-04 12:02:30.838126  - id_twitter Desconhecido - 84116516
+2011-10-04 12:02:30.971687  - id_twitter Desconhecido - 17842778
+2011-10-04 12:02:31.843448  - id_twitter Desconhecido - 27626096
+2011-10-04 12:02:32.448394  - id_twitter Desconhecido - 361212497
+2011-10-04 12:02:32.953726  - id_twitter Desconhecido - 120661749
+2011-10-04 12:02:33.367839  - id_twitter Desconhecido - 135184294
+2011-10-04 12:02:33.786155  - id_twitter Desconhecido - 31123008
+2011-10-04 12:02:33.960328  - id_twitter Desconhecido - 72410148
+2011-10-04 12:02:34.251438  - id_twitter Desconhecido - 229954939
+2011-10-04 12:02:35.154732  - id_twitter Desconhecido - 20108659
+2011-10-04 12:02:35.659654  - id_twitter Desconhecido - 77608860
+2011-10-04 12:02:35.716909  - id_twitter Desconhecido - 64290658
+2011-10-04 12:02:36.517377  - id_twitter Desconhecido - 69782803
+2011-10-04 12:02:36.578514  - id_twitter Desconhecido - 130664595
+2011-10-04 12:02:36.937232  - id_twitter Desconhecido - 342970804
+2011-10-04 12:02:37.492445  - id_twitter Desconhecido - 106904358
+2011-10-04 12:02:38.164755  - id_twitter Desconhecido - 159084898
+2011-10-04 12:02:39.028237  - id_twitter Desconhecido - 79018324
+2011-10-04 12:02:39.028619  - id_twitter Desconhecido - 15598619
+2011-10-04 12:02:39.898344  - id_twitter Desconhecido - 57954902
+2011-10-04 12:02:40.709390  - id_twitter Desconhecido - 64809451
+2011-10-04 12:02:42.377410  - id_twitter Desconhecido - 106603588
+2011-10-04 12:02:43.320749  - id_twitter Desconhecido - 15576145
+2011-10-04 12:02:43.417389  - id_twitter Desconhecido - 91241282
+2011-10-04 12:02:44.294801  - id_twitter Desconhecido - 220150960
+2011-10-04 12:02:45.614983  - id_twitter Desconhecido - 61524593
+2011-10-04 12:02:46.594427  - id_twitter Desconhecido - 205632602
+2011-10-04 12:02:47.312382  - id_twitter Desconhecido - 90941482
+2011-10-04 12:02:47.486039  - id_twitter Desconhecido - 68762064
+2011-10-04 12:02:48.181235  - id_twitter Desconhecido - 93409626
+2011-10-04 12:02:48.348830  - id_twitter Desconhecido - 187490427
+2011-10-04 12:02:49.933898  - id_twitter Desconhecido - 384443378
+2011-10-04 12:02:50.846940  - id_twitter Desconhecido - 201978049
+2011-10-04 12:02:51.732646  - id_twitter Desconhecido - 70257552
+2011-10-04 12:02:52.636938  - id_twitter Desconhecido - 40248117
+2011-10-04 12:02:56.505852  - id_twitter Desconhecido - 19619525
+2011-10-04 12:02:57.385100  - id_twitter Desconhecido - 325030280
+2011-10-04 12:02:58.080040  - id_twitter Desconhecido - 163552624
+2011-10-04 12:02:59.701421  - id_twitter Desconhecido - 14794225
+2011-10-04 12:03:01.240121  - id_twitter Desconhecido - 62074541
+2011-10-04 12:03:01.259304  - id_twitter Desconhecido - 97098198
+2011-10-04 12:03:02.106426  - id_twitter Desconhecido - 361212497
+2011-10-04 12:03:02.116160  - id_twitter Desconhecido - 334582422
+2011-10-04 12:03:02.931192  - id_twitter Desconhecido - 21413905
+2011-10-04 12:03:02.964264  - id_twitter Desconhecido - 135184294
+2011-10-04 12:03:02.982060  - id_twitter Desconhecido - 54323061
+2011-10-04 12:03:03.856470  - id_twitter Desconhecido - 229954939
+2011-10-04 12:03:04.268875  - id_twitter Desconhecido - 115703760
+2011-10-04 12:03:04.712431  - id_twitter Desconhecido - 20108659
+2011-10-04 12:03:05.604331  - id_twitter Desconhecido - 342970804
+2011-10-04 12:03:05.841858  - id_twitter Desconhecido - 92436587
+2011-10-04 12:03:06.519395  - id_twitter Desconhecido - 84556278
+2011-10-04 12:03:07.392094  - id_twitter Desconhecido - 80571817
+2011-10-04 12:03:08.399617  - id_twitter Desconhecido - 84116516
+2011-10-04 12:03:09.715649  - id_twitter Desconhecido - 206137574
+2011-10-04 12:03:10.604957  - id_twitter Desconhecido - 28205545
+2011-10-04 12:03:14.507388  - id_twitter Desconhecido - 51927742
+2011-10-04 12:03:15.523200  - id_twitter Desconhecido - 169099725
+2011-10-04 12:03:16.571345  - id_twitter Desconhecido - 27316235
+2011-10-04 12:03:18.319315  - id_twitter Desconhecido - 77608860
+2011-10-04 12:03:19.207404  - id_twitter Desconhecido - 69782803
+2011-10-04 12:03:19.573405  - id_twitter Desconhecido - 160061739
+2011-10-04 12:03:20.121687  - id_twitter Desconhecido - 53447432
+2011-10-04 12:03:21.022706  - id_twitter Desconhecido - 81453230
+2011-10-04 12:03:23.364281  - id_twitter Desconhecido - 53447432
+2011-10-04 12:03:24.225336  - id_twitter Desconhecido - 81453230
+2011-10-04 12:03:24.279157  - id_twitter Desconhecido - 75340862
+2011-10-04 12:03:25.086912  - id_twitter Desconhecido - 75340862
+2011-10-04 12:03:25.135971  - id_twitter Desconhecido - 69371192
+2011-10-04 12:03:25.998658  - id_twitter Desconhecido - 69371192
+2011-10-04 12:03:29.457304  - id_twitter Desconhecido - 211039159
+2011-10-04 12:03:30.373661  - id_twitter Desconhecido - 289595009
+2011-10-04 12:03:31.275514  - id_twitter Desconhecido - 39137230
+2011-10-04 12:03:32.148787  - id_twitter Desconhecido - 109739988
+2011-10-04 12:03:33.014089  - id_twitter Desconhecido - 51498224
+2011-10-04 12:03:36.929816  - id_twitter Desconhecido - 358933506
+2011-10-04 12:03:37.837764  - id_twitter Desconhecido - 370294176
+2011-10-04 12:03:39.507575  - id_twitter Desconhecido - 285907252
+2011-10-04 12:03:40.401668  - id_twitter Desconhecido - 31123008
+2011-10-04 12:03:41.928908  - id_twitter Desconhecido - 64290658
+2011-10-04 12:03:45.800619  - id_twitter Desconhecido - 130664595
+2011-10-04 12:03:47.894640  - id_twitter Desconhecido - 106904358
+2011-10-04 12:03:48.775214  - id_twitter Desconhecido - 79018324
+2011-10-04 12:03:54.376929  - id_twitter Desconhecido - 64809451
+2011-10-04 12:03:55.272587  - id_twitter Desconhecido - 106603588
+2011-10-04 12:03:56.845826  - id_twitter Desconhecido - 15576145
+2011-10-04 12:03:57.729383  - id_twitter Desconhecido - 90941482
+2011-10-04 12:04:06.408550  - id_twitter Desconhecido - 93409626
+2011-10-04 12:04:07.384370  - id_twitter Desconhecido - 163552624
+2011-10-04 12:04:08.459161  - id_twitter Desconhecido - 14794225
+2011-10-04 12:04:12.354420  - id_twitter Desconhecido - 62074541
+2011-10-04 12:04:13.474023  - id_twitter Desconhecido - 39086060
+2011-10-04 12:04:16.055895  - id_twitter Desconhecido - 361212497
+2011-10-04 12:04:17.205943  - id_twitter Desconhecido - 135184294
+2011-10-04 12:04:18.086516  - id_twitter Desconhecido - 229954939
+2011-10-04 12:04:19.651565  - id_twitter Desconhecido - 20108659
+2011-10-04 12:04:20.570299  - id_twitter Desconhecido - 342970804
+2011-10-04 12:06:03.147076  - id_twitter Desconhecido - 21413905
+2011-10-04 12:09:05.539984  - id_twitter Desconhecido - 21413905
+2011-10-04 12:12:02.764867  - id_twitter Desconhecido - 21413905
+2011-10-04 12:15:42.832030  - id_twitter Desconhecido - 21413905
+2011-10-04 12:16:39.055294  - id_twitter Desconhecido - 21413905
+2011-10-04 12:17:15.191436  - id_twitter Desconhecido - 21413905
+2011-10-04 12:18:02.426876  - id_twitter Desconhecido - 21413905
+2011-10-04 12:18:30.076724  - id_twitter Desconhecido - 21413905
+2011-10-04 12:20:02.493907  - id_twitter Desconhecido - 21413905
+2011-10-04 12:21:02.612332  - id_twitter Desconhecido - 21413905
+2011-10-04 12:23:42.371629  - Erro ao pegar verificar as crendeciais do 21413905
+2011-10-04 12:24:02.693189  - Erro ao pegar verificar as crendeciais do 21413905
+2011-10-04 12:27:02.813106  - Erro ao pegar verificar as credenciais do 21413905
+2011-10-04 12:30:02.627675  - Erro ao pegar verificar as credenciais do 21413905
+2011-10-04 12:33:02.713985  - Erro ao pegar verificar as credenciais do 21413905
+2011-10-04 12:36:02.115574  - Erro ao pegar verificar as credenciais do 21413905
+2011-10-04 12:40:02.271204  - id_twitter Desconhecido - 21413905
+2011-10-04 12:54:11.331446  - Erro ao pegar o timeline do usuario de id = 84229473
+2011-10-04 12:54:17.196974  - Erro ao pegar o timeline do usuario de id = 64930545
+2011-10-04 12:57:24.622746  - Erro ao pegar o timeline do usuario de id = 60629242
+2011-10-04 12:57:24.667557  - Erro ao pegar o timeline do usuario de id = 60629242
+2011-10-04 12:57:42.595020  - Erro ao pegar o timeline do usuario de id = 45226018
+2011-10-04 12:57:42.848746  - Erro ao pegar o timeline do usuario de id = 45226018
+2011-10-04 12:57:52.019475  - Erro ao pegar o timeline do usuario de id = 14749110
+2011-10-04 12:57:52.345800  - Erro ao pegar o timeline do usuario de id = 14749110
+2011-10-04 12:58:00.139572  - Erro ao pegar o timeline do usuario de id = 79174898
+2011-10-04 12:58:00.444036  - Erro ao pegar o timeline do usuario de id = 79174898
+2011-10-04 12:58:05.986950  - Erro ao pegar o timeline do usuario de id = 49120160
+2011-10-04 12:58:06.684692  - Erro ao pegar o timeline do usuario de id = 49120160
+2011-10-04 12:58:16.718556  - Erro ao pegar o timeline do usuario de id = 52471614
+2011-10-04 12:58:18.111334  - Erro ao pegar o timeline do usuario de id = 52471614
+2011-10-04 12:58:25.470439  - Erro ao pegar o timeline do usuario de id = 50434236
+2011-10-04 12:58:31.355503  - Erro ao pegar o timeline do usuario de id = 4276
+2011-10-04 12:58:41.841006  - Erro ao pegar o timeline do usuario de id = 55579942
+2011-10-04 12:58:42.385060  - Erro ao pegar o timeline do usuario de id = 55579942
+2011-10-04 12:58:42.930760  - Erro ao pegar o timeline do usuario de id = 34489625
+2011-10-04 12:58:43.708483  - Erro ao pegar o timeline do usuario de id = 34489625
+2011-10-04 12:58:43.839350  - Erro ao pegar o timeline do usuario de id = 71944823
+2011-10-04 12:58:44.705302  - Erro ao pegar o timeline do usuario de id = 143938999
+2011-10-04 12:58:45.064708  - Erro ao pegar o timeline do usuario de id = 71944823
+2011-10-04 12:58:45.976533  - Erro ao pegar o timeline do usuario de id = 143938999
+2011-10-04 12:58:46.977332  - Erro ao pegar o timeline do usuario de id = 64830676
+2011-10-04 12:58:47.888720  - Erro ao pegar o timeline do usuario de id = 16249368
+2011-10-04 12:58:48.607609  - Erro ao pegar o timeline do usuario de id = 64830676
+2011-10-04 12:58:48.776967  - Erro ao pegar o timeline do usuario de id = 70278659
+2011-10-04 12:58:49.476305  - Erro ao pegar o timeline do usuario de id = 16249368
+2011-10-04 12:58:49.648068  - Erro ao pegar o timeline do usuario de id = 114191494
+2011-10-04 12:58:51.033999  - Erro ao pegar o timeline do usuario de id = 70278659
+2011-10-04 12:58:52.201556  - Erro ao pegar o timeline do usuario de id = 172624991
+2011-10-04 12:58:52.529254  - Erro ao pegar o timeline do usuario de id = 114191494
+2011-10-04 12:58:53.071183  - Erro ao pegar o timeline do usuario de id = 15197472
+2011-10-04 12:58:53.403641  - Erro ao pegar o timeline do usuario de id = 172624991
+2011-10-04 12:58:54.305325  - Erro ao pegar o timeline do usuario de id = 15197472
+2011-10-04 12:58:55.157849  - Erro ao pegar o timeline do usuario de id = 41004162
+2011-10-04 12:58:55.988495  - Erro ao pegar o timeline do usuario de id = 41004162
+2011-10-04 12:58:56.342619  - Erro ao pegar o timeline do usuario de id = 65391376
+2011-10-04 12:58:56.867473  - Erro ao pegar o timeline do usuario de id = 65391376
+2011-10-04 12:58:57.734406  - Erro ao pegar o timeline do usuario de id = 26493930
+2011-10-04 12:58:57.866605  - Erro ao pegar o timeline do usuario de id = 26493930
+2011-10-04 12:58:58.750478  - Erro ao pegar o timeline do usuario de id = 76787396
+2011-10-04 12:58:58.874501  - Erro ao pegar o timeline do usuario de id = 76787396
+2011-10-04 12:58:59.650453  - Erro ao pegar o timeline do usuario de id = 95801735
+2011-10-04 12:59:00.392561  - Erro ao pegar o timeline do usuario de id = 95801735
+2011-10-04 12:59:00.516024  - Erro ao pegar o timeline do usuario de id = 22221282
+2011-10-04 12:59:01.266970  - Erro ao pegar o timeline do usuario de id = 22221282
+2011-10-04 12:59:01.589221  - Erro ao pegar o timeline do usuario de id = 39086060
+2011-10-04 12:59:02.175184  - Erro ao pegar o timeline do usuario de id = 39086060
+2011-10-04 12:59:02.460748  - Erro ao pegar o timeline do usuario de id = 138797399
+2011-10-04 12:59:03.353903  - Erro ao pegar o timeline do usuario de id = 138797399
+2011-10-04 12:59:03.612659  - Erro ao pegar o timeline do usuario de id = 68839531
+2011-10-04 12:59:04.464695  - Erro ao pegar o timeline do usuario de id = 68839531
+2011-10-04 12:59:04.510679  - Erro ao pegar o timeline do usuario de id = 169235974
+2011-10-04 12:59:05.378077  - Erro ao pegar o timeline do usuario de id = 73470120
+2011-10-04 12:59:05.973696  - Erro ao pegar o timeline do usuario de id = 169235974
+2011-10-04 12:59:06.886881  - Erro ao pegar o timeline do usuario de id = 73470120
+2011-10-04 12:59:08.481526  - Erro ao pegar o timeline do usuario de id = 96883028
+2011-10-04 12:59:09.253469  - Erro ao pegar o timeline do usuario de id = 96883028
+2011-10-04 12:59:10.007173  - Erro ao pegar o timeline do usuario de id = 6461032
+2011-10-04 12:59:10.237401  - Erro ao pegar o timeline do usuario de id = 6461032
+2011-10-04 12:59:10.919608  - Erro ao pegar o timeline do usuario de id = 60430650
+2011-10-04 12:59:11.579023  - Erro ao pegar o timeline do usuario de id = 60430650
+2011-10-04 12:59:12.038679  - Erro ao pegar o timeline do usuario de id = 70307084
+2011-10-04 12:59:12.915765  - Erro ao pegar o timeline do usuario de id = 35796379
+2011-10-04 12:59:13.632152  - Erro ao pegar o timeline do usuario de id = 70307084
+2011-10-04 12:59:14.413029  - Erro ao pegar o timeline do usuario de id = 49757568
+2011-10-04 12:59:14.572735  - Erro ao pegar o timeline do usuario de id = 35796379
+2011-10-04 12:59:15.325420  - Erro ao pegar o timeline do usuario de id = 43202827
+2011-10-04 12:59:15.486747  - Erro ao pegar o timeline do usuario de id = 49757568
+2011-10-04 12:59:19.380971  - Erro ao pegar o timeline do usuario de id = 43202827
+2011-10-04 12:59:19.942834  - Erro ao pegar o timeline do usuario de id = 92006953
+2011-10-04 12:59:20.807192  - Erro ao pegar o timeline do usuario de id = 33498632
+2011-10-04 12:59:21.728410  - Erro ao pegar o timeline do usuario de id = 27626096
+2011-10-04 12:59:22.595557  - Erro ao pegar o timeline do usuario de id = 33488005
+2011-10-04 12:59:23.298376  - Erro ao pegar o timeline do usuario de id = 92006953
+2011-10-04 12:59:23.511932  - Erro ao pegar o timeline do usuario de id = 35329014
+2011-10-04 12:59:24.204961  - Erro ao pegar o timeline do usuario de id = 33498632
+2011-10-04 12:59:24.379938  - Erro ao pegar o timeline do usuario de id = 24833587
+2011-10-04 12:59:25.122711  - Erro ao pegar o timeline do usuario de id = 27626096
+2011-10-04 12:59:25.286723  - Erro ao pegar o timeline do usuario de id = 58973029
+2011-10-04 12:59:25.994635  - Erro ao pegar o timeline do usuario de id = 33488005
+2011-10-04 12:59:26.231033  - Erro ao pegar o timeline do usuario de id = 47817190
+2011-10-04 12:59:26.864215  - Erro ao pegar o timeline do usuario de id = 35329014
+2011-10-04 12:59:27.135767  - Erro ao pegar o timeline do usuario de id = 65062217
+2011-10-04 12:59:27.765047  - Erro ao pegar o timeline do usuario de id = 24833587
+2011-10-04 12:59:28.024824  - Erro ao pegar o timeline do usuario de id = 66525855
+2011-10-04 12:59:28.679968  - Erro ao pegar o timeline do usuario de id = 58973029
+2011-10-04 12:59:29.079300  - Erro ao pegar o timeline do usuario de id = 30821037
+2011-10-04 12:59:30.022141  - Erro ao pegar o timeline do usuario de id = 43102246
+2011-10-04 12:59:32.590832  - Erro ao pegar o timeline do usuario de id = 68762064
+2011-10-04 12:59:33.504915  - Erro ao pegar o timeline do usuario de id = 61257505
+2011-10-04 12:59:34.408245  - Erro ao pegar o timeline do usuario de id = 15770447
+2011-10-04 12:59:35.531255  - Erro ao pegar o timeline do usuario de id = 73741059
+2011-10-04 12:59:36.383653  - Erro ao pegar o timeline do usuario de id = 27766477
+2011-10-04 12:59:37.292093  - Erro ao pegar o timeline do usuario de id = 25515774
+2011-10-04 12:59:41.181829  - Erro ao pegar o timeline do usuario de id = 87342506
+2011-10-04 12:59:42.105979  - Erro ao pegar o timeline do usuario de id = 58582879
+2011-10-04 12:59:46.182009  - Erro ao pegar o timeline do usuario de id = 19619525
+2011-10-04 12:59:47.095741  - Erro ao pegar o timeline do usuario de id = 42730953
+2011-10-04 12:59:47.979847  - Erro ao pegar o timeline do usuario de id = 19769601
+2011-10-04 12:59:51.870297  - Erro ao pegar o timeline do usuario de id = 56002324
+2011-10-04 12:59:52.760286  - Erro ao pegar o timeline do usuario de id = 71948832
+2011-10-04 12:59:53.894785  - Erro ao pegar o timeline do usuario de id = 154386754
+2011-10-04 12:59:54.811012  - Erro ao pegar o timeline do usuario de id = 54323061
+2011-10-04 12:59:58.688514  - Erro ao pegar o timeline do usuario de id = 33786674
+2011-10-04 12:59:59.571556  - Erro ao pegar o timeline do usuario de id = 68214600
+2011-10-04 13:00:00.474123  - Erro ao pegar o timeline do usuario de id = 58281731
+2011-10-04 13:00:01.990811  - Erro ao pegar o timeline do usuario de id = 27316235
+2011-10-04 13:00:02.782861  - id_twitter Desconhecido - 21413905
+2011-10-04 13:00:02.871133  - Erro ao pegar o timeline do usuario de id = 87164137
+2011-10-04 13:00:03.775562  - Erro ao pegar o timeline do usuario de id = 21385115
+2011-10-04 13:00:04.643990  - Erro ao pegar o timeline do usuario de id = 78491781
+2011-10-04 13:00:05.817970  - Erro ao pegar o timeline do usuario de id = 39490633
+2011-10-04 13:00:06.709815  - Erro ao pegar o timeline do usuario de id = 27988340
+2011-10-04 13:00:07.720012  - Erro ao pegar o timeline do usuario de id = 71051396
+2011-10-04 13:00:08.967712  - Erro ao pegar o timeline do usuario de id = 68278460
+2011-10-04 13:00:10.542668  - Erro ao pegar o timeline do usuario de id = 46886341
+2011-10-04 13:00:11.532620  - Erro ao pegar o timeline do usuario de id = 64290658
+2011-10-04 13:00:12.433724  - Erro ao pegar o timeline do usuario de id = 87999699
+2011-10-04 13:00:13.320937  - Erro ao pegar o timeline do usuario de id = 21374251
+2011-10-04 13:00:17.296802  - Erro ao pegar o timeline do usuario de id = 52593944
+2011-10-04 13:00:18.191797  - Erro ao pegar o timeline do usuario de id = 79242532
+2011-10-04 13:00:19.846328  - Erro ao pegar o timeline do usuario de id = 33647108
+2011-10-04 13:00:20.849889  - Erro ao pegar o timeline do usuario de id = 64809451
+2011-10-04 13:00:26.278972  - Erro ao pegar o timeline do usuario de id = 5577902
+2011-10-04 13:00:30.861381  - Erro ao pegar o timeline do usuario de id = 75416507
+2011-10-04 13:00:31.756567  - Erro ao pegar o timeline do usuario de id = 46795895
+2011-10-04 13:00:32.645387  - Erro ao pegar o timeline do usuario de id = 33532874
+2011-10-04 13:00:43.177177  - Erro ao pegar o timeline do usuario de id = 68315295
+2011-10-04 13:00:44.734921  - Erro ao pegar o timeline do usuario de id = 57544945
+2011-10-04 13:00:45.622234  - Erro ao pegar o timeline do usuario de id = 102698253
+2011-10-04 13:00:46.679946  - Erro ao pegar o timeline do usuario de id = 28100375
+2011-10-04 13:00:47.558584  - Erro ao pegar o timeline do usuario de id = 20108659
+2011-10-04 13:00:48.419701  - Erro ao pegar o timeline do usuario de id = 48528914
+2011-10-04 13:00:49.323254  - Erro ao pegar o timeline do usuario de id = 67731177
+2011-10-04 13:20:03.069225  - id_twitter Desconhecido - 21413905
+2011-10-04 13:36:46.485680  - Erro ao pegar verificar as credenciais do 21413905
+2011-10-04 13:37:02.423400  - Erro ao pegar o timeline do usuario de id = 45226018
+2011-10-04 13:37:09.050716  - Erro ao pegar o timeline do usuario de id = 14749110
+2011-10-04 13:37:15.287086  - Erro ao pegar o timeline do usuario de id = 79174898
+2011-10-04 13:37:28.470322  - Erro ao pegar o timeline do usuario de id = 52471614
+2011-10-04 13:37:34.437042  - Erro ao pegar o timeline do usuario de id = 55579942
+2011-10-04 13:37:44.102648  - Erro ao pegar o timeline do usuario de id = 34489625
+2011-10-04 13:38:02.214953  - Erro ao pegar o timeline do usuario de id = 16249368
+2011-10-04 13:38:11.304397  - Erro ao pegar o timeline do usuario de id = 114191494
+2011-10-04 13:38:19.195475  - Erro ao pegar o timeline do usuario de id = 15197472
+2011-10-04 13:38:25.073831  - Erro ao pegar o timeline do usuario de id = 41004162
+2011-10-04 13:38:30.909704  - Erro ao pegar o timeline do usuario de id = 65391376
+2011-10-04 13:38:42.993716  - Erro ao pegar o timeline do usuario de id = 76787396
+2011-10-04 13:38:48.847412  - Erro ao pegar o timeline do usuario de id = 95801735
+2011-10-04 13:38:54.914006  - Erro ao pegar o timeline do usuario de id = 22221282
+2011-10-04 13:39:00.900421  - Erro ao pegar o timeline do usuario de id = 39086060
+2011-10-04 13:39:02.214024  - Erro ao pegar verificar as credenciais do 21413905
+2011-10-04 13:39:06.755037  - Erro ao pegar o timeline do usuario de id = 138797399
+2011-10-04 13:39:12.749653  - Erro ao pegar o timeline do usuario de id = 68839531
+2011-10-04 13:39:25.633810  - Erro ao pegar o timeline do usuario de id = 6461032
+2011-10-04 13:39:31.385028  - Erro ao pegar o timeline do usuario de id = 114191494
+2011-10-04 13:39:31.506678  - Erro ao pegar o timeline do usuario de id = 60430650
+2011-10-04 13:39:37.363784  - Erro ao pegar o timeline do usuario de id = 70307084
+2011-10-04 13:39:43.196206  - Erro ao pegar o timeline do usuario de id = 35796379
+2011-10-04 13:39:53.137334  - Erro ao pegar o timeline do usuario de id = 49757568
+2011-10-04 13:40:02.300556  - id_twitter Desconhecido - 21413905
+2011-10-04 13:40:03.879534  - Erro ao pegar o timeline do usuario de id = 92006953
+2011-10-04 13:40:09.764611  - Erro ao pegar o timeline do usuario de id = 27316235
+2011-10-04 13:40:17.807883  - Erro ao pegar o timeline do usuario de id = 21385115
+2011-10-04 13:40:23.076535  - Erro ao pegar o timeline do usuario de id = 33498632
+2011-10-04 13:40:24.739711  - Erro ao pegar o timeline do usuario de id = 39490633
+2011-10-04 13:40:33.383850  - Erro ao pegar o timeline do usuario de id = 33488005
+2011-10-04 13:40:38.768635  - Erro ao pegar o timeline do usuario de id = 68278460
+2011-10-04 13:40:39.311555  - Erro ao pegar o timeline do usuario de id = 35329014
+2011-10-04 13:40:45.409716  - Erro ao pegar o timeline do usuario de id = 39490633
+2011-10-04 13:40:46.090037  - Erro ao pegar o timeline do usuario de id = 64290658
+2011-10-04 13:40:53.630770  - Erro ao pegar o timeline do usuario de id = 21374251
+2011-10-04 13:40:54.001411  - Erro ao pegar o timeline do usuario de id = 64290658
+2011-10-04 13:40:59.508191  - Erro ao pegar o timeline do usuario de id = 52593944
+2011-10-04 13:41:00.771766  - Erro ao pegar o timeline do usuario de id = 21374251
+2011-10-04 13:41:05.364292  - Erro ao pegar o timeline do usuario de id = 79242532
+2011-10-04 13:41:06.622526  - Erro ao pegar o timeline do usuario de id = 52593944
+2011-10-04 13:41:12.159981  - Erro ao pegar o timeline do usuario de id = 64809451
+2011-10-04 13:41:12.475806  - Erro ao pegar o timeline do usuario de id = 79242532
+2011-10-04 13:41:18.126296  - Erro ao pegar o timeline do usuario de id = 5577902
+2011-10-04 13:41:27.306172  - Erro ao pegar o timeline do usuario de id = 46795895
+2011-10-04 13:41:33.380810  - Erro ao pegar o timeline do usuario de id = 33532874
+2011-10-04 13:41:39.258295  - Erro ao pegar o timeline do usuario de id = 68315295
+2011-10-04 13:41:40.238039  - Erro ao pegar o timeline do usuario de id = 33532874
+2011-10-04 13:41:45.140455  - Erro ao pegar o timeline do usuario de id = 57544945
+2011-10-04 13:41:51.120801  - Erro ao pegar o timeline do usuario de id = 102698253
+2011-10-04 13:41:52.040894  - id_twitter Desconhecido - 21413905
+2011-10-04 13:41:57.140666  - Erro ao pegar o timeline do usuario de id = 28100375
+2011-10-04 13:41:57.365285  - Erro ao pegar o timeline do usuario de id = 102698253
+2011-10-04 13:42:02.640551  - Erro ao pegar verificar as credenciais do 21413905
+2011-10-04 13:42:02.970427  - Erro ao pegar o timeline do usuario de id = 20108659
+2011-10-04 13:42:03.193377  - Erro ao pegar o timeline do usuario de id = 28100375
+2011-10-04 13:42:09.047693  - Erro ao pegar o timeline do usuario de id = 20108659
+2011-10-04 13:42:14.045828  - Erro ao pegar o timeline do usuario de id = 11769552
+2011-10-04 13:42:17.592563  - Erro ao pegar o timeline do usuario de id = 11769552
+2011-10-04 13:42:24.493882  - Erro ao pegar o timeline do usuario de id = 16823529
+2011-10-04 13:42:25.667152  - Erro ao pegar o timeline do usuario de id = 16823529
+2011-10-04 13:42:33.002324  - Erro ao pegar o timeline do usuario de id = 17842778
+2011-10-04 13:42:44.258207  - Erro ao pegar o timeline do usuario de id = 15598619
+2011-10-04 13:43:00.152887  - Erro ao pegar o timeline do usuario de id = 27366071
+2011-10-04 13:43:06.014300  - Erro ao pegar o timeline do usuario de id = 15576145
+2011-10-04 13:43:10.282663  - Erro ao pegar o timeline do usuario de id = 24833587
+2011-10-04 13:43:11.883244  - Erro ao pegar o timeline do usuario de id = 14794225
+2011-10-04 13:43:19.175210  - Erro ao pegar o timeline do usuario de id = 70257552
+2011-10-04 13:43:22.642667  - Erro ao pegar o timeline do usuario de id = 53066678
+2011-10-04 13:43:25.035636  - Erro ao pegar o timeline do usuario de id = 97098198
+2011-10-04 13:43:28.502385  - Erro ao pegar o timeline do usuario de id = 72410148
+2011-10-04 13:43:30.554588  - Erro ao pegar o timeline do usuario de id = 30821037
+2011-10-04 13:43:31.426748  - Erro ao pegar o timeline do usuario de id = 92436587
+2011-10-04 13:43:36.422000  - Erro ao pegar o timeline do usuario de id = 43102246
+2011-10-04 13:43:38.351312  - Erro ao pegar o timeline do usuario de id = 160061739
+2011-10-04 13:43:41.045473  - Erro ao pegar o timeline do usuario de id = 92436587
+2011-10-04 13:43:45.246193  - Erro ao pegar o timeline do usuario de id = 61257505
+2011-10-04 13:43:47.951944  - Erro ao pegar o timeline do usuario de id = 160061739
+2011-10-04 13:43:51.109291  - Erro ao pegar o timeline do usuario de id = 15770447
+2011-10-04 13:43:51.751600  - Erro ao pegar o timeline do usuario de id = 39137230
+2011-10-04 13:43:58.607978  - Erro ao pegar o timeline do usuario de id = 39137230
+2011-10-04 13:43:59.947201  - Erro ao pegar o timeline do usuario de id = 73741059
+2011-10-04 13:44:04.875849  - Erro ao pegar o timeline do usuario de id = 31123008
+2011-10-04 13:44:07.500007  - Erro ao pegar o timeline do usuario de id = 25515774
+2011-10-04 13:44:15.406213  - Erro ao pegar o timeline do usuario de id = 106603588
+2011-10-04 13:44:18.236823  - Erro ao pegar o timeline do usuario de id = 106603588
+2011-10-04 13:44:20.074157  - Erro ao pegar o timeline do usuario de id = 42730953
+2011-10-04 13:44:25.185499  - Erro ao pegar o timeline do usuario de id = 90859637
+2011-10-04 13:44:26.128068  - Erro ao pegar o timeline do usuario de id = 19769601
+2011-10-04 13:44:26.455640  - Erro ao pegar o timeline do usuario de id = 90859637
+2011-10-04 13:44:31.060168  - Erro ao pegar o timeline do usuario de id = 99947545
+2011-10-04 13:44:32.842057  - Erro ao pegar o timeline do usuario de id = 56002324
+2011-10-04 13:44:39.349012  - Erro ao pegar o timeline do usuario de id = 71948832
+2011-10-04 13:44:48.757045  - Erro ao pegar o timeline do usuario de id = 53447432
+2011-10-04 13:44:48.780543  - Erro ao pegar o timeline do usuario de id = 53447432
+2011-10-04 13:44:50.931166  - Erro ao pegar o timeline do usuario de id = 54323061
+2011-10-04 13:44:56.962011  - Erro ao pegar o timeline do usuario de id = 33786674
+2011-10-04 13:45:01.510261  - Erro ao pegar o timeline do usuario de id = 75340862
+2011-10-04 13:45:02.749768  - Erro ao pegar verificar as credenciais do 21413905
+2011-10-04 13:45:05.811801  - Erro ao pegar o timeline do usuario de id = 68214600
+2011-10-04 13:45:07.629461  - Erro ao pegar verificar as credenciais do 309917627
+2011-10-04 13:45:31.960528  - Erro ao pegar o timeline do usuario de id = 90941482
+2011-10-04 13:46:07.364410  - Erro ao pegar o timeline do usuario de id = 40248117
+2011-10-04 13:46:19.839964  - Erro ao pegar o timeline do usuario de id = 51927742
+2011-10-04 13:46:30.261802  - Erro ao pegar o timeline do usuario de id = 40582573
+2011-10-04 13:46:39.117402  - Erro ao pegar o timeline do usuario de id = 44049523
+2011-10-04 13:46:46.953950  - Erro ao pegar o timeline do usuario de id = 24628348
+2011-10-04 13:46:52.784660  - Erro ao pegar o timeline do usuario de id = 51498224
+2011-10-04 13:47:08.928307  - Erro ao pegar o timeline do usuario de id = 18334191
+2011-10-04 13:47:15.020292  - Erro ao pegar o timeline do usuario de id = 33390817
+2011-10-04 13:47:27.016946  - Erro ao pegar o timeline do usuario de id = 57954902
+2011-10-04 13:48:02.376371  - Erro ao pegar verificar as credenciais do 21413905
+2011-10-04 13:48:43.158628  - Erro ao pegar o timeline do usuario de id = 229954939
+2011-10-04 13:51:30.324551  - Erro ao pegar o timeline do usuario de id = 46399186
+2011-10-04 14:06:18.565598  - Erro ao pegar o timeline do usuario de id = 84702979
+2011-10-04 14:06:24.408701  - Erro ao pegar o timeline do usuario de id = 43813552
+2011-10-04 14:06:36.300975  - Erro ao pegar o timeline do usuario de id = 18341734
+2011-10-04 14:06:37.947518  - Erro ao pegar o timeline do usuario de id = 804692
+2011-10-04 14:06:44.154204  - Erro ao pegar o timeline do usuario de id = 6250742
+2011-10-04 14:06:50.022344  - Erro ao pegar o timeline do usuario de id = 51769871
+2011-10-04 14:06:55.863299  - Erro ao pegar o timeline do usuario de id = 59268383
+2011-10-04 14:07:02.322279  - Erro ao pegar o timeline do usuario de id = 260928758
+2011-10-04 14:09:20.817314  - Erro ao pegar o timeline do usuario de id = 10587552
+2011-10-04 14:09:27.980392  - Erro ao pegar o timeline do usuario de id = 14755871
+2011-10-04 14:09:37.045034  - Erro ao pegar o timeline do usuario de id = 804692
+2011-10-04 14:10:07.756295  - Erro ao pegar o timeline do usuario de id = 23413259
+2011-10-04 14:10:14.086967  - Erro ao pegar o timeline do usuario de id = 14761795
+2011-10-04 14:10:27.571358  - Erro ao pegar o timeline do usuario de id = 39485393
+2011-10-04 14:11:09.328462  - Erro ao pegar o timeline do usuario de id = 12160482
+2011-10-04 14:11:15.411625  - Erro ao pegar o timeline do usuario de id = 113834913
+2011-10-04 14:11:21.451732  - Erro ao pegar o timeline do usuario de id = 17376218
+2011-10-04 14:11:29.231309  - Erro ao pegar o timeline do usuario de id = 15166546
+2011-10-04 14:11:35.086113  - Erro ao pegar o timeline do usuario de id = 18782714
+2011-10-04 14:12:02.656890  - Erro ao pegar o timeline do usuario de id = 2730471
+2011-10-04 14:12:10.279137  - Erro ao pegar o timeline do usuario de id = 146573637
+2011-10-04 14:12:19.486445  - Erro ao pegar o timeline do usuario de id = 24411159
+2011-10-04 14:12:25.343162  - Erro ao pegar o timeline do usuario de id = 794808
+2011-10-04 14:12:31.202427  - Erro ao pegar o timeline do usuario de id = 12037432
+2011-10-04 14:12:38.520964  - Erro ao pegar o timeline do usuario de id = 40755371
+2011-10-04 14:12:43.937617  - Erro ao pegar o timeline do usuario de id = 17194296
+2011-10-04 14:12:50.971133  - Erro ao pegar o timeline do usuario de id = 44973000
+2011-10-04 14:12:59.173167  - Erro ao pegar o timeline do usuario de id = 65875511
+2011-10-04 14:13:00.020578  - Erro ao pegar o timeline do usuario de id = 9271782
+2011-10-04 14:13:05.032756  - Erro ao pegar o timeline do usuario de id = 24612581
+2011-10-04 14:13:06.054738  - Erro ao pegar o timeline do usuario de id = 70478255
+2011-10-04 14:13:11.934438  - Erro ao pegar o timeline do usuario de id = 117629596
+2011-10-04 14:13:20.872057  - Erro ao pegar o timeline do usuario de id = 633
+2011-10-04 14:13:24.399737  - Erro ao pegar o timeline do usuario de id = 76176304
+2011-10-04 14:13:26.775912  - Erro ao pegar o timeline do usuario de id = 95869752
+2011-10-04 14:14:01.651372  - Erro ao pegar o timeline do usuario de id = 128232442
+2011-10-04 14:14:07.523044  - Erro ao pegar o timeline do usuario de id = 218310618
+2011-10-04 14:14:13.439998  - Erro ao pegar o timeline do usuario de id = 35226164
+2011-10-04 14:14:25.273621  - Erro ao pegar o timeline do usuario de id = 88004713
+2011-10-04 14:14:32.188130  - Erro ao pegar o timeline do usuario de id = 76130796
+2011-10-04 14:14:40.959534  - Erro ao pegar o timeline do usuario de id = 12409862
+2011-10-04 14:14:48.946328  - Erro ao pegar o timeline do usuario de id = 1153581
+2011-10-04 14:14:58.744747  - Erro ao pegar o timeline do usuario de id = 1129701
+2011-10-04 14:15:05.566009  - Erro ao pegar o timeline do usuario de id = 24749856
+2011-10-04 14:15:05.862841  - Erro ao pegar o timeline do usuario de id = 15481653
+2011-10-04 14:15:15.764815  - Erro ao pegar o timeline do usuario de id = 20684731
+2011-10-04 14:15:21.635125  - Erro ao pegar o timeline do usuario de id = 39301249
+2011-10-04 14:15:29.861659  - Erro ao pegar o timeline do usuario de id = 28855413
+2011-10-04 14:15:34.648272  - Erro ao pegar o timeline do usuario de id = 4412541
+2011-10-04 14:15:38.506138  - Erro ao pegar o timeline do usuario de id = 19204281
+2011-10-04 14:15:40.527752  - Erro ao pegar o timeline do usuario de id = 18267518
+2011-10-04 14:15:45.635157  - Erro ao pegar o timeline do usuario de id = 18993437
+2011-10-04 14:15:46.657419  - Erro ao pegar o timeline do usuario de id = 169830011
+2011-10-04 14:15:47.477949  - Erro ao pegar o timeline do usuario de id = 19878504
+2011-10-04 14:15:52.972779  - Erro ao pegar o timeline do usuario de id = 80085512
+2011-10-04 14:15:53.671079  - Erro ao pegar o timeline do usuario de id = 5854882
+2011-10-04 14:15:56.989426  - Erro ao pegar o timeline do usuario de id = 70458164
+2011-10-04 14:15:59.495098  - Erro ao pegar o timeline do usuario de id = 14642896
+2011-10-04 14:15:59.547783  - Erro ao pegar o timeline do usuario de id = 22911342
+2011-10-04 14:16:05.731273  - Erro ao pegar o timeline do usuario de id = 35196533
+2011-10-04 14:16:07.008893  - Erro ao pegar o timeline do usuario de id = 17655615
+2011-10-04 14:16:11.631965  - Erro ao pegar o timeline do usuario de id = 35062223
+2011-10-04 14:16:17.493444  - Erro ao pegar o timeline do usuario de id = 27941827
+2011-10-04 14:16:18.776669  - Erro ao pegar o timeline do usuario de id = 87719108
+2011-10-04 14:16:27.992517  - Erro ao pegar o timeline do usuario de id = 14135582
+2011-10-04 14:16:28.991149  - Erro ao pegar o timeline do usuario de id = 1360671
+2011-10-04 14:16:29.850337  - Erro ao pegar o timeline do usuario de id = 8696812
+2011-10-04 14:16:34.985217  - Erro ao pegar o timeline do usuario de id = 1051171
+2011-10-04 14:16:35.748789  - Erro ao pegar o timeline do usuario de id = 104576972
+2011-10-04 14:16:38.223351  - Erro ao pegar o timeline do usuario de id = 82363
+2011-10-04 14:16:48.132208  - Erro ao pegar o timeline do usuario de id = 65724198
+2011-10-04 14:16:49.604864  - Erro ao pegar o timeline do usuario de id = 23984573
+2011-10-04 14:16:53.979718  - Erro ao pegar o timeline do usuario de id = 16413403
+2011-10-04 14:16:54.007836  - Erro ao pegar o timeline do usuario de id = 9500222
+2011-10-04 14:16:57.511101  - Erro ao pegar o timeline do usuario de id = 106904358
+2011-10-04 14:16:59.882900  - Erro ao pegar o timeline do usuario de id = 37665048
+2011-10-04 14:17:03.322562  - Erro ao pegar o timeline do usuario de id = 170223173
+2011-10-04 14:17:03.420670  - Erro ao pegar o timeline do usuario de id = 28606588
+2011-10-04 14:17:05.783280  - Erro ao pegar o timeline do usuario de id = 203008363
+2011-10-04 14:17:11.430151  - Erro ao pegar o timeline do usuario de id = 25092629
+2011-10-04 14:17:14.787242  - Erro ao pegar o timeline do usuario de id = 18613
+2011-10-04 14:17:14.920374  - Erro ao pegar o timeline do usuario de id = 14305904
+2011-10-04 14:17:24.083329  - Erro ao pegar o timeline do usuario de id = 64776544
+2011-10-04 14:17:27.104929  - Erro ao pegar o timeline do usuario de id = 17541565
+2011-10-04 14:17:29.771327  - Erro ao pegar o timeline do usuario de id = 11698322
+2011-10-04 14:17:35.647839  - Erro ao pegar o timeline do usuario de id = 282597749
+2011-10-04 14:17:39.572025  - Erro ao pegar o timeline do usuario de id = 248796764
+2011-10-04 14:17:50.333038  - Erro ao pegar o timeline do usuario de id = 85475742
+2011-10-04 14:17:56.203239  - Erro ao pegar o timeline do usuario de id = 26907306
+2011-10-04 14:18:02.072107  - Erro ao pegar o timeline do usuario de id = 59114669
+2011-10-04 14:18:07.968775  - Erro ao pegar o timeline do usuario de id = 5388852
+2011-10-04 14:18:13.876864  - Erro ao pegar o timeline do usuario de id = 321128529
+2011-10-04 14:18:19.991287  - Erro ao pegar o timeline do usuario de id = 679303
+2011-10-04 14:18:20.509007  - Erro ao pegar o timeline do usuario de id = 276249414
+2011-10-04 14:18:25.855780  - Erro ao pegar o timeline do usuario de id = 13674302
+2011-10-04 14:24:49.034521  - Erro ao pegar o timeline do usuario de id = 7170942
+2011-10-04 14:27:33.192114  - Erro ao pegar o timeline do usuario de id = 7470932
+2011-10-04 14:33:16.643620  - Erro ao pegar o timeline do usuario de id = 45058492
+2011-10-04 17:33:01.599610 Erro ao inserir usuario id_twitter - 380105182
+2011-10-04 17:33:01.600893 Erro ao inserir usuario id_twitter - 252239688
+2011-10-04 18:33:39.574620  - Error ao inserir no banco.
+2011-10-04 18:33:39.574817  - Error ao inserir no banco.
+2011-10-04 18:33:39.574994  - Error ao inserir no banco.
+2011-10-04 18:33:39.575174  - Error ao inserir no banco.
+2011-10-04 18:33:39.575351  - Error ao inserir no banco.
+2011-10-04 18:33:39.575526  - Error ao inserir no banco.
+2011-10-04 18:33:39.575704  - Error ao inserir no banco.
+2011-10-04 18:33:39.575883  - Error ao inserir no banco.
+2011-10-04 18:33:39.576065  - Error ao inserir no banco.
+2011-10-04 18:33:39.576245  - Error ao inserir no banco.
+2011-10-04 18:33:39.576422  - Error ao inserir no banco.
+2011-10-04 18:33:39.576606  - Error ao inserir no banco.
+2011-10-04 18:33:39.576779  - Error ao inserir no banco.
+2011-10-04 18:33:39.576961  - Error ao inserir no banco.
+2011-10-04 18:33:39.577139  - Error ao inserir no banco.
+2011-10-04 18:33:39.577309  - Error ao inserir no banco.
+2011-10-04 18:33:39.577480  - Error ao inserir no banco.
+2011-10-04 18:33:39.577657  - Error ao inserir no banco.
+2011-10-04 18:33:39.577830  - Error ao inserir no banco.
+2011-10-04 18:33:39.578008  - Error ao inserir no banco.
+2011-10-04 18:33:39.578137  - Error ao inserir no banco.
+2011-10-04 18:33:39.578313  - Error ao inserir no banco.
+2011-10-04 18:33:39.578492  - Error ao inserir no banco.
+2011-10-04 18:33:39.578673  - Error ao inserir no banco.
+2011-10-04 18:33:39.578853  - Error ao inserir no banco.
+2011-10-04 18:33:39.579025  - Error ao inserir no banco.
+2011-10-04 18:33:39.579196  - Error ao inserir no banco.
+2011-10-04 18:33:39.579377  - Error ao inserir no banco.
+2011-10-04 18:33:39.579558  - Error ao inserir no banco.
+2011-10-04 18:33:39.579738  - Error ao inserir no banco.
+2011-10-04 18:33:39.579913  - Error ao inserir no banco.
+2011-10-04 18:33:39.580097  - Error ao inserir no banco.
+2011-10-04 18:33:39.580221  - Error ao inserir no banco.
+2011-10-04 18:33:39.580393  - Error ao inserir no banco.
+2011-10-04 18:33:39.580574  - Error ao inserir no banco.
+2011-10-04 18:33:39.580750  - Error ao inserir no banco.
+2011-10-04 18:33:39.580928  - Error ao inserir no banco.
+2011-10-04 18:33:39.581105  - Error ao inserir no banco.
+2011-10-04 18:33:39.581328  - Error ao inserir no banco.
+2011-10-04 18:33:39.581511  - Error ao inserir no banco.
+2011-10-04 18:33:39.581693  - Error ao inserir no banco.
+2011-10-04 18:33:39.581870  - Error ao inserir no banco.
+2011-10-04 18:33:39.582050  - Error ao inserir no banco.
+2011-10-04 18:33:39.582222  - Error ao inserir no banco.
+2011-10-04 18:33:39.582400  - Error ao inserir no banco.
+2011-10-04 18:33:39.582573  - Error ao inserir no banco.
+2011-10-04 18:33:39.582769  - Error ao inserir no banco.
+2011-10-04 18:33:39.582944  - Error ao inserir no banco.
+2011-10-04 18:33:39.583126  - Error ao inserir no banco.
+2011-10-04 18:33:39.583299  - Error ao inserir no banco.
+2011-10-04 18:33:39.583586  - Error ao inserir no banco.
+2011-10-04 18:33:39.583763  - Error ao inserir no banco.
+2011-10-04 18:33:39.583938  - Error ao inserir no banco.
+2011-10-04 18:33:39.584058  - Error ao inserir no banco.
+2011-10-04 18:33:39.584276  - Error ao inserir no banco.
+2011-10-04 18:33:39.584447  - Error ao inserir no banco.
+2011-10-04 18:33:39.584620  - Error ao inserir no banco.
+2011-10-04 18:33:39.584790  - Error ao inserir no banco.
+2011-10-04 18:33:39.584963  - Error ao inserir no banco.
+2011-10-04 18:33:39.585142  - Error ao inserir no banco.
+2011-10-04 18:33:39.585323  - Error ao inserir no banco.
+2011-10-04 18:33:39.585491  - Error ao inserir no banco.
+2011-10-04 18:33:39.585673  - Error ao inserir no banco.
+2011-10-04 18:33:39.585850  - Error ao inserir no banco.
+2011-10-04 18:33:39.586029  - Error ao inserir no banco.
+2011-10-04 18:33:39.586201  - Error ao inserir no banco.
+2011-10-04 18:33:39.586378  - Error ao inserir no banco.
+2011-10-04 18:33:39.586505  - Error ao inserir no banco.
+2011-10-04 18:33:39.586689  - Error ao inserir no banco.
+2011-10-04 18:33:39.586859  - Error ao inserir no banco.
+2011-10-04 18:33:39.587046  - Error ao inserir no banco.
+2011-10-04 18:33:39.587217  - Error ao inserir no banco.
+2011-10-04 18:33:39.587388  - Error ao inserir no banco.
+2011-10-04 18:33:39.587559  - Error ao inserir no banco.
+2011-10-04 18:33:39.587729  - Error ao inserir no banco.
+2011-10-04 18:33:39.587904  - Error ao inserir no banco.
+2011-10-04 18:33:39.588076  - Error ao inserir no banco.
+2011-10-04 18:33:39.588249  - Error ao inserir no banco.
+2011-10-04 18:33:39.588422  - Error ao inserir no banco.
+2011-10-04 18:33:39.588597  - Error ao inserir no banco.
+2011-10-04 18:33:39.588782  - Error ao inserir no banco.
+2011-10-04 18:33:39.588951  - Error ao inserir no banco.
+2011-10-04 18:33:39.589124  - Error ao inserir no banco.
+2011-10-04 18:33:39.589303  - Error ao inserir no banco.
+2011-10-04 18:33:39.589474  - Error ao inserir no banco.
+2011-10-04 18:33:39.589646  - Error ao inserir no banco.
+2011-10-04 18:33:39.589823  - Error ao inserir no banco.
+2011-10-04 18:33:39.590005  - Error ao inserir no banco.
+2011-10-04 18:33:39.590177  - Error ao inserir no banco.
+2011-10-04 18:33:39.590346  - Error ao inserir no banco.
+2011-10-04 18:33:39.590524  - Error ao inserir no banco.
+2011-10-04 18:33:39.590708  - Error ao inserir no banco.
+2011-10-04 18:33:39.590883  - Error ao inserir no banco.
+2011-10-04 18:33:39.591063  - Error ao inserir no banco.
+2011-10-04 18:33:39.591234  - Error ao inserir no banco.
+2011-10-04 18:33:39.591409  - Error ao inserir no banco.
+2011-10-04 18:33:39.591594  - Error ao inserir no banco.
+2011-10-04 18:33:39.591770  - Error ao inserir no banco.
+2011-10-04 18:33:39.591948  - Error ao inserir no banco.
+2011-10-04 18:33:39.592130  - Error ao inserir no banco.
+2011-10-04 18:34:21.526206  - Error ao inserir no banco.
+2011-10-04 18:34:21.526411  - Error ao inserir no banco.
+2011-10-04 18:34:21.526667  - Error ao inserir no banco.
+2011-10-04 18:34:21.526855  - Error ao inserir no banco.
+2011-10-04 18:34:21.527029  - Error ao inserir no banco.
+2011-10-04 18:34:21.527211  - Error ao inserir no banco.
+2011-10-04 18:34:21.527407  - Error ao inserir no banco.
+2011-10-04 18:34:21.527587  - Error ao inserir no banco.
+2011-10-04 18:34:21.527771  - Error ao inserir no banco.
+2011-10-04 18:34:21.527951  - Error ao inserir no banco.
+2011-10-04 18:34:21.528119  - Error ao inserir no banco.
+2011-10-04 18:34:21.528301  - Error ao inserir no banco.
+2011-10-04 18:34:21.528474  - Error ao inserir no banco.
+2011-10-04 18:34:21.528648  - Error ao inserir no banco.
+2011-10-04 18:34:21.528823  - Error ao inserir no banco.
+2011-10-04 18:34:21.528996  - Error ao inserir no banco.
+2011-10-04 18:34:21.529163  - Error ao inserir no banco.
+2011-10-04 18:34:21.529339  - Error ao inserir no banco.
+2011-10-04 18:34:21.530721  - Error ao inserir no banco.
+2011-10-04 18:34:21.530918  - Error ao inserir no banco.
+2011-10-04 18:34:21.531090  - Error ao inserir no banco.
+2011-10-04 18:34:21.531261  - Error ao inserir no banco.
+2011-10-04 18:34:21.531434  - Error ao inserir no banco.
+2011-10-04 18:34:21.531619  - Error ao inserir no banco.
+2011-10-04 18:34:21.531800  - Error ao inserir no banco.
+2011-10-04 18:34:21.531968  - Error ao inserir no banco.
+2011-10-04 18:34:21.532140  - Error ao inserir no banco.
+2011-10-04 18:34:21.532319  - Error ao inserir no banco.
+2011-10-04 18:34:21.532492  - Error ao inserir no banco.
+2011-10-04 18:34:21.532674  - Error ao inserir no banco.
+2011-10-04 18:34:21.532850  - Error ao inserir no banco.
+2011-10-04 18:34:21.533020  - Error ao inserir no banco.
+2011-10-04 18:34:21.533198  - Error ao inserir no banco.
+2011-10-04 18:34:21.533375  - Error ao inserir no banco.
+2011-10-04 18:34:21.537826  - Error ao inserir no banco.
+2011-10-04 18:34:21.538028  - Error ao inserir no banco.
+2011-10-04 18:34:21.538211  - Error ao inserir no banco.
+2011-10-04 18:34:21.538403  - Error ao inserir no banco.
+2011-10-04 18:34:21.538605  - Error ao inserir no banco.
+2011-10-04 18:34:21.538795  - Error ao inserir no banco.
+2011-10-04 18:34:21.538982  - Error ao inserir no banco.
+2011-10-04 18:34:21.539178  - Error ao inserir no banco.
+2011-10-04 18:34:21.539371  - Error ao inserir no banco.
+2011-10-04 18:34:21.539561  - Error ao inserir no banco.
+2011-10-04 18:34:21.539700  - Error ao inserir no banco.
+2011-10-04 18:34:21.539883  - Error ao inserir no banco.
+2011-10-04 18:34:21.540079  - Error ao inserir no banco.
+2011-10-04 18:34:21.540267  - Error ao inserir no banco.
+2011-10-04 18:34:21.540459  - Error ao inserir no banco.
+2011-10-04 18:34:21.540647  - Error ao inserir no banco.
+2011-10-04 18:34:21.540838  - Error ao inserir no banco.
+2011-10-04 18:34:21.541031  - Error ao inserir no banco.
+2011-10-04 18:34:21.541226  - Error ao inserir no banco.
+2011-10-04 18:34:21.541413  - Error ao inserir no banco.
+2011-10-04 18:34:21.541597  - Error ao inserir no banco.
+2011-10-04 18:34:21.542507  - Error ao inserir no banco.
+2011-10-04 18:34:21.542719  - Error ao inserir no banco.
+2011-10-04 18:34:21.546039  - Error ao inserir no banco.
+2011-10-04 18:34:21.546275  - Error ao inserir no banco.
+2011-10-04 18:34:21.546469  - Error ao inserir no banco.
+2011-10-04 18:34:21.546677  - Error ao inserir no banco.
+2011-10-04 18:34:21.546876  - Error ao inserir no banco.
+2011-10-04 18:34:21.547072  - Error ao inserir no banco.
+2011-10-04 18:34:21.547264  - Error ao inserir no banco.
+2011-10-04 18:34:21.547464  - Error ao inserir no banco.
+2011-10-04 18:34:21.547650  - Error ao inserir no banco.
+2011-10-04 18:34:21.547850  - Error ao inserir no banco.
+2011-10-04 18:34:21.548041  - Error ao inserir no banco.
+2011-10-04 18:34:21.548235  - Error ao inserir no banco.
+2011-10-04 18:34:21.548417  - Error ao inserir no banco.
+2011-10-04 18:34:21.548608  - Error ao inserir no banco.
+2011-10-04 18:34:21.548794  - Error ao inserir no banco.
+2011-10-04 18:34:21.548986  - Error ao inserir no banco.
+2011-10-04 18:34:21.549287  - Error ao inserir no banco.
+2011-10-04 18:34:21.549482  - Error ao inserir no banco.
+2011-10-04 18:34:21.558032  - Error ao inserir no banco.
+2011-10-04 18:34:21.558315  - Error ao inserir no banco.
+2011-10-04 18:34:21.558505  - Error ao inserir no banco.
+2011-10-04 18:34:21.558717  - Error ao inserir no banco.
+2011-10-04 18:34:21.558906  - Error ao inserir no banco.
+2011-10-04 18:34:21.560070  - Error ao inserir no banco.
+2011-10-04 18:34:21.560290  - Error ao inserir no banco.
+2011-10-04 18:34:21.560488  - Error ao inserir no banco.
+2011-10-04 18:34:21.560681  - Error ao inserir no banco.
+2011-10-04 18:34:21.560885  - Error ao inserir no banco.
+2011-10-04 18:34:21.561028  - Error ao inserir no banco.
+2011-10-04 18:34:21.561214  - Error ao inserir no banco.
+2011-10-04 18:34:21.561410  - Error ao inserir no banco.
+2011-10-04 18:34:21.561603  - Error ao inserir no banco.
+2011-10-04 18:34:21.561799  - Error ao inserir no banco.
+2011-10-04 18:34:21.564686  - Error ao inserir no banco.
+2011-10-04 18:34:21.564959  - Error ao inserir no banco.
+2011-10-04 18:34:21.565160  - Error ao inserir no banco.
+2011-10-04 18:34:21.565814  - Error ao inserir no banco.
+2011-10-04 18:34:21.566012  - Error ao inserir no banco.
+2011-10-04 18:34:21.566316  - Error ao inserir no banco.
+2011-10-04 18:34:21.566609  - Error ao inserir no banco.
+2011-10-04 18:34:21.568361  - Error ao inserir no banco.
+2011-10-04 18:34:21.568567  - Error ao inserir no banco.
+2011-10-04 18:34:21.568769  - Error ao inserir no banco.
+2011-10-04 18:34:33.923072  - Error ao inserir no banco.
+2011-10-04 18:34:33.923269  - Error ao inserir no banco.
+2011-10-04 18:34:33.923472  - Error ao inserir no banco.
+2011-10-04 18:34:33.923645  - Error ao inserir no banco.
+2011-10-04 18:34:33.923820  - Error ao inserir no banco.
+2011-10-04 18:34:33.923993  - Error ao inserir no banco.
+2011-10-04 18:34:33.924163  - Error ao inserir no banco.
+2011-10-04 18:34:33.924335  - Error ao inserir no banco.
+2011-10-04 18:34:33.924516  - Error ao inserir no banco.
+2011-10-04 18:34:33.924687  - Error ao inserir no banco.
+2011-10-04 18:34:33.924866  - Error ao inserir no banco.
+2011-10-04 18:34:33.925042  - Error ao inserir no banco.
+2011-10-04 18:34:33.925213  - Error ao inserir no banco.
+2011-10-04 18:34:33.925392  - Error ao inserir no banco.
+2011-10-04 18:34:33.925561  - Error ao inserir no banco.
+2011-10-04 18:34:33.926759  - Error ao inserir no banco.
+2011-10-04 18:34:33.926937  - Error ao inserir no banco.
+2011-10-04 18:34:33.927112  - Error ao inserir no banco.
+2011-10-04 18:34:33.927292  - Error ao inserir no banco.
+2011-10-04 18:34:33.927471  - Error ao inserir no banco.
+2011-10-04 18:34:33.927638  - Error ao inserir no banco.
+2011-10-04 18:34:33.927820  - Error ao inserir no banco.
+2011-10-04 18:34:33.927991  - Error ao inserir no banco.
+2011-10-04 18:34:33.928164  - Error ao inserir no banco.
+2011-10-04 18:34:33.928335  - Error ao inserir no banco.
+2011-10-04 18:34:33.928507  - Error ao inserir no banco.
+2011-10-04 18:34:33.928672  - Error ao inserir no banco.
+2011-10-04 18:34:33.928847  - Error ao inserir no banco.
+2011-10-04 18:34:33.929026  - Error ao inserir no banco.
+2011-10-04 18:34:33.929206  - Error ao inserir no banco.
+2011-10-04 18:34:33.929375  - Error ao inserir no banco.
+2011-10-04 18:34:33.929545  - Error ao inserir no banco.
+2011-10-04 18:34:33.940293  - Error ao inserir no banco.
+2011-10-04 18:34:33.940501  - Error ao inserir no banco.
+2011-10-04 18:34:33.940697  - Error ao inserir no banco.
+2011-10-04 18:34:33.940879  - Error ao inserir no banco.
+2011-10-04 18:34:33.941064  - Error ao inserir no banco.
+2011-10-04 18:34:33.941256  - Error ao inserir no banco.
+2011-10-04 18:34:33.941445  - Error ao inserir no banco.
+2011-10-04 18:34:33.941645  - Error ao inserir no banco.
+2011-10-04 18:34:33.941834  - Error ao inserir no banco.
+2011-10-04 18:34:33.942017  - Error ao inserir no banco.
+2011-10-04 18:34:33.942209  - Error ao inserir no banco.
+2011-10-04 18:34:33.942401  - Error ao inserir no banco.
+2011-10-04 18:34:33.942629  - Error ao inserir no banco.
+2011-10-04 18:34:33.942906  - Error ao inserir no banco.
+2011-10-04 18:34:33.943173  - Error ao inserir no banco.
+2011-10-04 18:34:33.943442  - Error ao inserir no banco.
+2011-10-04 18:34:33.943715  - Error ao inserir no banco.
+2011-10-04 18:34:33.943976  - Error ao inserir no banco.
+2011-10-04 18:34:33.944234  - Error ao inserir no banco.
+2011-10-04 18:34:33.944505  - Error ao inserir no banco.
+2011-10-04 18:34:33.944772  - Error ao inserir no banco.
+2011-10-04 18:34:33.945038  - Error ao inserir no banco.
+2011-10-04 18:34:33.945243  - Error ao inserir no banco.
+2011-10-04 18:34:33.945497  - Error ao inserir no banco.
+2011-10-04 18:34:33.945766  - Error ao inserir no banco.
+2011-10-04 18:34:33.946027  - Error ao inserir no banco.
+2011-10-04 18:34:33.946294  - Error ao inserir no banco.
+2011-10-04 18:34:33.946557  - Error ao inserir no banco.
+2011-10-04 18:34:33.946834  - Error ao inserir no banco.
+2011-10-04 18:34:33.947100  - Error ao inserir no banco.
+2011-10-04 18:34:33.947369  - Error ao inserir no banco.
+2011-10-04 18:34:33.947625  - Error ao inserir no banco.
+2011-10-04 18:34:33.947880  - Error ao inserir no banco.
+2011-10-04 18:34:33.948138  - Error ao inserir no banco.
+2011-10-04 18:34:33.948399  - Error ao inserir no banco.
+2011-10-04 18:34:33.948661  - Error ao inserir no banco.
+2011-10-04 18:34:33.948917  - Error ao inserir no banco.
+2011-10-04 18:34:33.949176  - Error ao inserir no banco.
+2011-10-04 18:34:33.949437  - Error ao inserir no banco.
+2011-10-04 18:34:33.949705  - Error ao inserir no banco.
+2011-10-04 18:34:33.949971  - Error ao inserir no banco.
+2011-10-04 18:34:33.952894  - Error ao inserir no banco.
+2011-10-04 18:34:33.953196  - Error ao inserir no banco.
+2011-10-04 18:34:33.953473  - Error ao inserir no banco.
+2011-10-04 18:34:33.953766  - Error ao inserir no banco.
+2011-10-04 18:34:33.954048  - Error ao inserir no banco.
+2011-10-04 18:34:33.954321  - Error ao inserir no banco.
+2011-10-04 18:34:33.954605  - Error ao inserir no banco.
+2011-10-04 18:34:33.954893  - Error ao inserir no banco.
+2011-10-04 18:34:33.955171  - Error ao inserir no banco.
+2011-10-04 18:34:33.955457  - Error ao inserir no banco.
+2011-10-04 18:34:33.955667  - Error ao inserir no banco.
+2011-10-04 18:34:33.955950  - Error ao inserir no banco.
+2011-10-04 18:34:33.956238  - Error ao inserir no banco.
+2011-10-04 18:34:33.956517  - Error ao inserir no banco.
+2011-10-04 18:34:33.956792  - Error ao inserir no banco.
+2011-10-04 18:34:33.957069  - Error ao inserir no banco.
+2011-10-04 18:34:33.957344  - Error ao inserir no banco.
+2011-10-04 18:34:33.957634  - Error ao inserir no banco.
+2011-10-04 18:34:33.957925  - Error ao inserir no banco.
+2011-10-04 18:34:33.958220  - Error ao inserir no banco.
+2011-10-04 18:34:33.958502  - Error ao inserir no banco.
+2011-10-04 18:34:33.958815  - Error ao inserir no banco.
+2011-10-04 18:34:33.959024  - Error ao inserir no banco.
+2011-10-04 18:34:33.959296  - Error ao inserir no banco.
+2011-10-04 18:34:33.961838  - Error ao inserir no banco.
+2011-10-04 18:34:33.962138  - Error ao inserir no banco.
+2011-10-04 18:34:33.962431  - Error ao inserir no banco.
+2011-10-04 18:34:45.365736  - Error ao inserir no banco.
+2011-10-04 18:34:45.366023  - Error ao inserir no banco.
+2011-10-04 18:34:45.366283  - Error ao inserir no banco.
+2011-10-04 18:34:45.366541  - Error ao inserir no banco.
+2011-10-04 18:34:45.366913  - Error ao inserir no banco.
+2011-10-04 18:34:45.367170  - Error ao inserir no banco.
+2011-10-04 18:34:45.367434  - Error ao inserir no banco.
+2011-10-04 18:34:45.367690  - Error ao inserir no banco.
+2011-10-04 18:34:45.367952  - Error ao inserir no banco.
+2011-10-04 18:34:45.368209  - Error ao inserir no banco.
+2011-10-04 18:34:45.368466  - Error ao inserir no banco.
+2011-10-04 18:34:45.368678  - Error ao inserir no banco.
+2011-10-04 18:34:45.368941  - Error ao inserir no banco.
+2011-10-04 18:34:45.369191  - Error ao inserir no banco.
+2011-10-04 18:34:45.369447  - Error ao inserir no banco.
+2011-10-04 18:34:45.369697  - Error ao inserir no banco.
+2011-10-04 18:34:45.369953  - Error ao inserir no banco.
+2011-10-04 18:34:45.370212  - Error ao inserir no banco.
+2011-10-04 18:34:45.370468  - Error ao inserir no banco.
+2011-10-04 18:34:45.370765  - Error ao inserir no banco.
+2011-10-04 18:34:45.371050  - Error ao inserir no banco.
+2011-10-04 18:34:45.371331  - Error ao inserir no banco.
+2011-10-04 18:34:45.371590  - Error ao inserir no banco.
+2011-10-04 18:34:45.371863  - Error ao inserir no banco.
+2011-10-04 18:34:45.372127  - Error ao inserir no banco.
+2011-10-04 18:34:45.372381  - Error ao inserir no banco.
+2011-10-04 18:34:45.372647  - Error ao inserir no banco.
+2011-10-04 18:34:45.372901  - Error ao inserir no banco.
+2011-10-04 18:34:45.373169  - Error ao inserir no banco.
+2011-10-04 18:34:45.373422  - Error ao inserir no banco.
+2011-10-04 18:34:45.373687  - Error ao inserir no banco.
+2011-10-04 18:34:45.373957  - Error ao inserir no banco.
+2011-10-04 18:34:45.374224  - Error ao inserir no banco.
+2011-10-04 18:34:45.374473  - Error ao inserir no banco.
+2011-10-04 18:34:45.374768  - Error ao inserir no banco.
+2011-10-04 18:34:45.375042  - Error ao inserir no banco.
+2011-10-04 18:34:45.375327  - Error ao inserir no banco.
+2011-10-04 18:34:45.375593  - Error ao inserir no banco.
+2011-10-04 18:34:45.375854  - Error ao inserir no banco.
+2011-10-04 18:34:45.376101  - Error ao inserir no banco.
+2011-10-04 18:34:45.376362  - Error ao inserir no banco.
+2011-10-04 18:34:45.376634  - Error ao inserir no banco.
+2011-10-04 18:34:45.376904  - Error ao inserir no banco.
+2011-10-04 18:34:45.377156  - Error ao inserir no banco.
+2011-10-04 18:34:45.377409  - Error ao inserir no banco.
+2011-10-04 18:34:45.377666  - Error ao inserir no banco.
+2011-10-04 18:34:45.377958  - Error ao inserir no banco.
+2011-10-04 18:34:45.382970  - Error ao inserir no banco.
+2011-10-04 18:34:45.383257  - Error ao inserir no banco.
+2011-10-04 18:34:45.383536  - Error ao inserir no banco.
+2011-10-04 18:34:45.383821  - Error ao inserir no banco.
+2011-10-04 18:34:45.384100  - Error ao inserir no banco.
+2011-10-04 18:34:45.384389  - Error ao inserir no banco.
+2011-10-04 18:34:45.384674  - Error ao inserir no banco.
+2011-10-04 18:34:45.384949  - Error ao inserir no banco.
+2011-10-04 18:34:45.385286  - Error ao inserir no banco.
+2011-10-04 18:34:45.385565  - Error ao inserir no banco.
+2011-10-04 18:34:45.385828  - Error ao inserir no banco.
+2011-10-04 18:34:45.386082  - Error ao inserir no banco.
+2011-10-04 18:34:45.386335  - Error ao inserir no banco.
+2011-10-04 18:34:45.386617  - Error ao inserir no banco.
+2011-10-04 18:34:45.386907  - Error ao inserir no banco.
+2011-10-04 18:34:45.387176  - Error ao inserir no banco.
+2011-10-04 18:34:45.387439  - Error ao inserir no banco.
+2011-10-04 18:34:45.387711  - Error ao inserir no banco.
+2011-10-04 18:34:45.387979  - Error ao inserir no banco.
+2011-10-04 18:34:45.388250  - Error ao inserir no banco.
+2011-10-04 18:34:45.388455  - Error ao inserir no banco.
+2011-10-04 18:34:45.388710  - Error ao inserir no banco.
+2011-10-04 18:34:45.388978  - Error ao inserir no banco.
+2011-10-04 18:34:45.389240  - Error ao inserir no banco.
+2011-10-04 18:34:45.389505  - Error ao inserir no banco.
+2011-10-04 18:34:45.389766  - Error ao inserir no banco.
+2011-10-04 18:34:45.390034  - Error ao inserir no banco.
+2011-10-04 18:34:45.390300  - Error ao inserir no banco.
+2011-10-04 18:34:45.390568  - Error ao inserir no banco.
+2011-10-04 18:34:45.390857  - Error ao inserir no banco.
+2011-10-04 18:34:45.391117  - Error ao inserir no banco.
+2011-10-04 18:34:45.391402  - Error ao inserir no banco.
+2011-10-04 18:34:45.391676  - Error ao inserir no banco.
+2011-10-04 18:34:45.393376  - Error ao inserir no banco.
+2011-10-04 18:34:45.393654  - Error ao inserir no banco.
+2011-10-04 18:34:45.393938  - Error ao inserir no banco.
+2011-10-04 18:34:45.394229  - Error ao inserir no banco.
+2011-10-04 18:34:45.394518  - Error ao inserir no banco.
+2011-10-04 18:34:45.394812  - Error ao inserir no banco.
+2011-10-04 18:34:45.395097  - Error ao inserir no banco.
+2011-10-04 18:34:45.395390  - Error ao inserir no banco.
+2011-10-04 18:34:45.395665  - Error ao inserir no banco.
+2011-10-04 18:34:45.395956  - Error ao inserir no banco.
+2011-10-04 18:34:45.396237  - Error ao inserir no banco.
+2011-10-04 18:34:45.396508  - Error ao inserir no banco.
+2011-10-04 18:34:45.396779  - Error ao inserir no banco.
+2011-10-04 18:34:45.397059  - Error ao inserir no banco.
+2011-10-04 18:34:45.397334  - Error ao inserir no banco.
+2011-10-04 18:34:45.397618  - Error ao inserir no banco.
+2011-10-04 18:34:45.397828  - Error ao inserir no banco.
+2011-10-04 18:34:45.398109  - Error ao inserir no banco.
+2011-10-04 18:34:45.398394  - Error ao inserir no banco.
+2011-10-04 18:34:45.398687  - Error ao inserir no banco.
+2011-10-04 18:41:27.515170  - Error ao inserir no banco.
+2011-10-04 18:41:27.515501  - Error ao inserir no banco.
+2011-10-04 18:41:27.515766  - Error ao inserir no banco.
+2011-10-04 18:41:27.516035  - Error ao inserir no banco.
+2011-10-04 18:41:27.516296  - Error ao inserir no banco.
+2011-10-04 18:41:27.516564  - Error ao inserir no banco.
+2011-10-04 18:41:27.516833  - Error ao inserir no banco.
+2011-10-04 18:41:27.517103  - Error ao inserir no banco.
+2011-10-04 18:41:27.517362  - Error ao inserir no banco.
+2011-10-04 18:41:27.517622  - Error ao inserir no banco.
+2011-10-04 18:41:27.517879  - Error ao inserir no banco.
+2011-10-04 18:41:27.518158  - Error ao inserir no banco.
+2011-10-04 18:41:27.518426  - Error ao inserir no banco.
+2011-10-04 18:41:27.518753  - Error ao inserir no banco.
+2011-10-04 18:41:27.519020  - Error ao inserir no banco.
+2011-10-04 18:41:27.519283  - Error ao inserir no banco.
+2011-10-04 18:41:27.519538  - Error ao inserir no banco.
+2011-10-04 18:41:27.519789  - Error ao inserir no banco.
+2011-10-04 18:41:27.520065  - Error ao inserir no banco.
+2011-10-04 18:41:27.520334  - Error ao inserir no banco.
+2011-10-04 18:41:27.520590  - Error ao inserir no banco.
+2011-10-04 18:41:27.520848  - Error ao inserir no banco.
+2011-10-04 18:41:27.521099  - Error ao inserir no banco.
+2011-10-04 18:41:27.521360  - Error ao inserir no banco.
+2011-10-04 18:41:27.521616  - Error ao inserir no banco.
+2011-10-04 18:41:27.521880  - Error ao inserir no banco.
+2011-10-04 18:41:27.522134  - Error ao inserir no banco.
+2011-10-04 18:41:27.522395  - Error ao inserir no banco.
+2011-10-04 18:41:27.522681  - Error ao inserir no banco.
+2011-10-04 18:41:27.522948  - Error ao inserir no banco.
+2011-10-04 18:41:27.523201  - Error ao inserir no banco.
+2011-10-04 18:41:27.523467  - Error ao inserir no banco.
+2011-10-04 18:41:27.523729  - Error ao inserir no banco.
+2011-10-04 18:41:27.523998  - Error ao inserir no banco.
+2011-10-04 18:41:27.524260  - Error ao inserir no banco.
+2011-10-04 18:41:27.524533  - Error ao inserir no banco.
+2011-10-04 18:41:27.524786  - Error ao inserir no banco.
+2011-10-04 18:41:27.525040  - Error ao inserir no banco.
+2011-10-04 18:41:27.525301  - Error ao inserir no banco.
+2011-10-04 18:41:27.525563  - Error ao inserir no banco.
+2011-10-04 18:41:27.525829  - Error ao inserir no banco.
+2011-10-04 18:41:27.526089  - Error ao inserir no banco.
+2011-10-04 18:41:27.526354  - Error ao inserir no banco.
+2011-10-04 18:41:27.526617  - Error ao inserir no banco.
+2011-10-04 18:41:27.533941  - Error ao inserir no banco.
+2011-10-04 18:41:27.534251  - Error ao inserir no banco.
+2011-10-04 18:41:27.534456  - Error ao inserir no banco.
+2011-10-04 18:41:27.534768  - Error ao inserir no banco.
+2011-10-04 18:41:27.535045  - Error ao inserir no banco.
+2011-10-04 18:41:27.535323  - Error ao inserir no banco.
+2011-10-04 18:41:27.535599  - Error ao inserir no banco.
+2011-10-04 18:41:27.535893  - Error ao inserir no banco.
+2011-10-04 18:41:27.536173  - Error ao inserir no banco.
+2011-10-04 18:41:27.536461  - Error ao inserir no banco.
+2011-10-04 18:41:27.536751  - Error ao inserir no banco.
+2011-10-04 18:41:27.537034  - Error ao inserir no banco.
+2011-10-04 18:41:27.537292  - Error ao inserir no banco.
+2011-10-04 18:41:27.537559  - Error ao inserir no banco.
+2011-10-04 18:41:27.537826  - Error ao inserir no banco.
+2011-10-04 18:41:27.538087  - Error ao inserir no banco.
+2011-10-04 18:41:27.538337  - Error ao inserir no banco.
+2011-10-04 18:41:27.538543  - Error ao inserir no banco.
+2011-10-04 18:41:27.538823  - Error ao inserir no banco.
+2011-10-04 18:41:27.539015  - Error ao inserir no banco.
+2011-10-04 18:41:27.539305  - Error ao inserir no banco.
+2011-10-04 18:41:27.539588  - Error ao inserir no banco.
+2011-10-04 18:41:27.539882  - Error ao inserir no banco.
+2011-10-04 18:41:27.540163  - Error ao inserir no banco.
+2011-10-04 18:41:27.540446  - Error ao inserir no banco.
+2011-10-04 18:41:27.540705  - Error ao inserir no banco.
+2011-10-04 18:41:27.540965  - Error ao inserir no banco.
+2011-10-04 18:41:27.541229  - Error ao inserir no banco.
+2011-10-04 18:41:27.544990  - Error ao inserir no banco.
+2011-10-04 18:41:27.545279  - Error ao inserir no banco.
+2011-10-04 18:41:27.545562  - Error ao inserir no banco.
+2011-10-04 18:41:27.545843  - Error ao inserir no banco.
+2011-10-04 18:41:27.546122  - Error ao inserir no banco.
+2011-10-04 18:41:27.546401  - Error ao inserir no banco.
+2011-10-04 18:41:27.546706  - Error ao inserir no banco.
+2011-10-04 18:41:27.547003  - Error ao inserir no banco.
+2011-10-04 18:41:27.547282  - Error ao inserir no banco.
+2011-10-04 18:41:27.547573  - Error ao inserir no banco.
+2011-10-04 18:41:27.547782  - Error ao inserir no banco.
+2011-10-04 18:41:27.548067  - Error ao inserir no banco.
+2011-10-04 18:41:27.548359  - Error ao inserir no banco.
+2011-10-04 18:41:27.548634  - Error ao inserir no banco.
+2011-10-04 18:41:27.548914  - Error ao inserir no banco.
+2011-10-04 18:41:27.549191  - Error ao inserir no banco.
+2011-10-04 18:41:27.549511  - Error ao inserir no banco.
+2011-10-04 18:41:27.549835  - Error ao inserir no banco.
+2011-10-04 18:41:27.550124  - Error ao inserir no banco.
+2011-10-04 18:41:27.550559  - Error ao inserir no banco.
+2011-10-04 18:41:27.550873  - Error ao inserir no banco.
+2011-10-04 18:41:27.551151  - Error ao inserir no banco.
+2011-10-04 18:41:27.551427  - Error ao inserir no banco.
+2011-10-04 18:41:27.551720  - Error ao inserir no banco.
+2011-10-04 18:41:27.551914  - Error ao inserir no banco.
+2011-10-04 18:41:27.562806  - Error ao inserir no banco.
+2011-10-04 18:41:27.563118  - Error ao inserir no banco.
+2011-10-04 18:41:27.563411  - Error ao inserir no banco.
+2011-10-04 18:45:34.723530  - Error ao inserir no banco.
+2011-10-04 18:45:34.725250  - Error ao inserir no banco.
+2011-10-04 18:45:34.738275  - Error ao inserir no banco.
+2011-10-04 18:45:34.751905  - Error ao inserir no banco.
+2011-10-04 18:45:34.752112  - Error ao inserir no banco.
+2011-10-04 19:39:12.632810  - Erro ao pegar o timeline do usuario de id = 28825442
+2011-10-04 19:39:18.491844  - Erro ao pegar o timeline do usuario de id = 53656929
+2011-10-05 01:06:16.073887  - Erro ao pegar o timeline do usuario de id = 16425333
+2011-10-05 01:09:16.368302  - Erro ao pegar o timeline do usuario de id = 35645081
+2011-10-05 01:15:08.328181  - Erro ao pegar verificar as credenciais do 21413905
+2011-10-05 11:12:06.092537  - Erro ao pegar verificar as credenciais do 21413905
+2011-10-05 13:06:16.625568  - Erro ao pegar o timeline do usuario de id = 339592683
+2011-10-05 13:09:16.172365  - Erro ao pegar o timeline do usuario de id = 169830011
+2011-10-05 14:57:33.988689  - Erro ao pegar verificar as credenciais do 20108659
+2011-10-05 15:00:24.819141  - Erro ao pegar verificar as credenciais do 20108659
+2011-10-05 22:15:28.042770  - Erro ao pegar verificar as credenciais do 309917627
+2011-10-05 22:16:34.911568  - Erro ao pegar verificar as credenciais do 20108659
+2011-10-05 22:18:48.814720  - Erro ao pegar verificar as credenciais do 309917627
+2011-10-05 22:18:58.674063  - Erro ao pegar verificar as credenciais do 309939631
+2011-10-05 22:20:07.397806  - id_twitter Desconhecido - 21413905
+2011-10-05 22:20:22.908167  - id_twitter Desconhecido - 309939631
+2011-10-05 22:24:10.995589  - Erro ao pegar verificar as credenciais do 21413905
+2011-10-05 22:27:13.561739  - Erro ao pegar verificar as credenciais do 309917627
+2011-10-05 22:27:20.324221  - Erro ao pegar verificar as credenciais do 309931156
+2011-10-06 01:06:17.149761  - Erro ao pegar o timeline do usuario de id = 366794387
+2011-10-06 01:06:22.980643  - Erro ao pegar o timeline do usuario de id = 109661305

@@ -1,58 +1,71 @@
 # -*- coding: utf-8 -*-
-
 import sys
 import time
 import twitter
-import json
 import os
 import MySQLdb
+from exceptions import Exception
+from math import ceil
 
 mydb = MySQLdb.connect(host="localhost", user="root", passwd="server@bd", db="mydb") 
 cursor = mydb.cursor() 
 
-OAUTH_TOKEN = sys.argv[1]
-OAUTH_TOKEN_SECRET = sys.argv[2]
-TWITTER_ID = sys.argv[3]
-
 consumer_key = "eSWSQWbtOxtj5DJYz9I7dQ"
 consumer_secret = "B3SPTXqFrgW4c4SsqrQlyyXuvQWTzdxyD6S8nI"
 
-inicio = time.time()
 
-statement = """SELECT users_id FROM clients_users WHERE clients_id = %i GROUP BY users_id;"""%( int(TWITTER_ID))
+statement = """SELECT COUNT(*) FROM clients_users WHERE status = 0;"""
 cursor.execute(statement)
-results = cursor.fetchall()
-for result in results:
-	twitter_access = twitter.Twitter(domain='api.twitter.com', api_version='1', auth=twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET, consumer_key, consumer_secret))
-	resultado_posts_ids = twitter_access.users.show(user_id=result[0],encoding='utf-8' )
-	json.dumps(resultado_posts_ids, sort_keys=True, indent=4)
-	
-	id = resultado_posts_ids['id']
-	profile_image_url = resultado_posts_ids['profile_image_url']
-	location = resultado_posts_ids['location']
-	screen_name = resultado_posts_ids['screen_name']
-	protected = resultado_posts_ids['protected']
-	friends_count = resultado_posts_ids['friends_count']
-	followers_count = resultado_posts_ids['followers_count']
-		
-	statement = """INSERT INTO users(id, id_twitter, profile_image_url, location, username, protected, friends_count, follower_count) VALUES(DEFAULT, %i,'%s','%s','%s','%s', %i, %i);"""%( id, profile_image_url,location, screen_name, protected,friends_count,followers_count)
-	cursor.execute(statement)
-	mydb.commit()	
-	
-	# print resultado_posts_ids['id']
-	# print resultado_posts_ids['profile_image_url']
-	# print resultado_posts_ids['location']
-	# print resultado_posts_ids['screen_name']
-	# print resultado_posts_ids['protected']
-	# print resultado_posts_ids['friends_count']
-	# print resultado_posts_ids['followers_count']
-	
-	
-	
-	#cmd = "python insert_friends.py " + str(resultado_posts_ids['id']) + " " + resultado_posts_ids['profile_image_url'] + " " + resultado_posts_ids['location'] + " " + resultado_posts_ids['screen_name'] + " " + resultado_posts_ids['protected'] + " " + resultado_posts_ids['friends_count'] + " " + resultado_posts_ids['followers_count']
-	#print cmd
-	#os.system(cmd) 
-		
-fim = time.time()
-#print fim - inicio	
+total_usuarios = cursor.fetchone()
 
+print "entrou no friends dados"
+
+if total_usuarios[0] > 0:
+
+	statement = """SELECT COUNT(*) FROM clients"""
+	cursor.execute(statement)
+	total_clients = cursor.fetchone()
+	
+
+	valor = total_usuarios[0]/total_clients[0]
+	offset = round(valor)
+
+	statement = """SELECT access_token, secret_token FROM clients """
+	cursor.execute(statement)
+	lista_clients = cursor.fetchall()
+	count = 1
+	for clients in lista_clients:
+		statement = """SELECT users_id FROM clients_users WHERE status = 0 LIMIT %i OFFSET %i ;"""%(offset, int((count-1)*offset))
+		cursor.execute(statement)
+		lista_usuarios = cursor.fetchall()
+		
+		for friends in lista_usuarios:
+			
+			try:
+				
+				twitter_access = twitter.Twitter(domain='api.twitter.com', api_version='1', auth=twitter.oauth.OAuth(clients[0], clients[1], consumer_key, consumer_secret))
+				resultado_posts_ids = twitter_access.users.show(user_id=friends[0],encoding='utf-8' )	
+				
+				nome_arquivo = "/var/www/profile/" + str(friends[0]) + ".xml"
+						
+				file = open(nome_arquivo,'w')  
+				file.write(resultado_posts_ids)
+				file.close()
+				
+				statement = """UPDATE clients_users  SET status = 1 WHERE  users_id = '%s'"""%(friends[0])
+				cursor.execute(statement)	 
+				mydb.commit()
+				
+			except:
+				print statement
+				print "erro ao acessar dados do usuario " + str(friends[0])
+				
+
+		count = count + 1		
+		
+
+	cmd = '''python insert_friends.py'''
+	os.system(cmd)
+	
+mydb.close()
+	

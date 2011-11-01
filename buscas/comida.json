@@ -1,0 +1,1851 @@
+{
+    "next_page": "?page=2&max_id=121340155587084288&q=comida&rpp=100", 
+    "completed_in": 0.255, 
+    "max_id_str": "121340155587084288", 
+    "since_id_str": "0", 
+    "refresh_url": "?since_id=121340155587084288&q=comida", 
+    "results": [
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "373026668", 
+            "text": "...la comida es mi enemiga...", 
+            "created_at": "Tue, 04 Oct 2011 21:45:22 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1510741313/241148_10150197459337081_648372080_6887018_4426147_o_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340155587084288", 
+            "from_user": "dililate", 
+            "from_user_id": 373026668, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340155587084288, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "199608651", 
+            "text": "e voltei a ficar feliz, pq vai ter comida u.u momento gorda aq/ PAREI DE TWITTAR agora", 
+            "created_at": "Tue, 04 Oct 2011 21:45:20 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1571543157/corte1_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340149035577344", 
+            "from_user": "VickDorneles", 
+            "from_user_id": 199608651, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340149035577344, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "385419108", 
+            "text": "Adoro cuando traen la comida y sentis ese olor k mata haha sera el hamber k me cargo k todo lo siento delicioso??", 
+            "created_at": "Tue, 04 Oct 2011 21:45:19 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1502816121/25-04-09_2151_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340144522498048", 
+            "from_user": "Azu_Santuz", 
+            "from_user_id": 385419108, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340144522498048, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "25724770", 
+            "text": "Almuerzo ft el hermoso de @arrobaAriel  :) Espero que mi comida no le de indigesti\u00f3n jajaja!", 
+            "created_at": "Tue, 04 Oct 2011 21:45:15 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1551186232/nanan_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;", 
+            "id_str": "121340125715243008", 
+            "from_user": "Meeritha", 
+            "from_user_id": 25724770, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340125715243008, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "96918509", 
+            "text": "Estar en mi casa pudiendo ver fringe comiendo comida china y tomando coca con hielos debe sentirse lo mas parecido al paraiso, vamos a ver", 
+            "created_at": "Tue, 04 Oct 2011 21:45:14 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1512714363/fede_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121340124679245824", 
+            "from_user": "Federaineri", 
+            "from_user_id": 96918509, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340124679245824, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "279796588", 
+            "text": "@axito11 no me gusta.. no me pagan ni la comida", 
+            "created_at": "Tue, 04 Oct 2011 21:45:14 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1387257434/IMG_1460_normal.JPG", 
+            "to_user_id_str": "8474112", 
+            "to_user": "axito11", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340124607950849", 
+            "from_user": "CatuStated", 
+            "from_user_id": 279796588, 
+            "to_user_id": 8474112, 
+            "geo": null, 
+            "id": 121340124607950849, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "68025987", 
+            "text": "RT @exaustamente: querer twittar e n\u00e3o ter o que twittar e tipo ter fome e n\u00e3o ter comida", 
+            "created_at": "Tue, 04 Oct 2011 21:45:14 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1564320362/IMG0274A_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340123173490688", 
+            "from_user": "heeloise_", 
+            "from_user_id": 68025987, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340123173490688, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "417558793", 
+            "text": "\u00f3timo ela vai e tira foto de comida e bota no mural, ajudou muito", 
+            "created_at": "Tue, 04 Oct 2011 21:45:14 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1517874258/gabi_036_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340121634185216", 
+            "from_user": "GabrielaBeche", 
+            "from_user_id": 417558793, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340121634185216, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "362734141", 
+            "text": "a Katri vem na minha casa,do carregador do meu pc , da minha cama , da minha PRESEN\u00c7A , e ainda quer comida . mais isso \u00e9 um abuso mermo .", 
+            "created_at": "Tue, 04 Oct 2011 21:45:11 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1572793263/foto0301_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340109994987520", 
+            "from_user": "Viic_dantas", 
+            "from_user_id": 362734141, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340109994987520, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "175041740", 
+            "text": "mano, \u00e9 horrivel saber que tem algu\u00e9m ai no mundo que est\u00e1 presente a morrer, por falta de comida e n\u00e3o ter dinheiro, e eu aq tendo tudo.", 
+            "created_at": "Tue, 04 Oct 2011 21:45:11 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1568277039/23-09-11_122510_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340108908658688", 
+            "from_user": "Esther_csilva", 
+            "from_user_id": 175041740, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340108908658688, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "254334583", 
+            "text": "@ICarryPeLu Que massa mano ,qual \u00e9 tua comida preferida?kkk", 
+            "created_at": "Tue, 04 Oct 2011 21:45:10 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1563052556/g_normal.JPG", 
+            "to_user_id_str": "403563041", 
+            "to_user": "ICarryPeLu", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340106459193345", 
+            "from_user": "Annarita_diva", 
+            "from_user_id": 254334583, 
+            "to_user_id": 403563041, 
+            "geo": null, 
+            "id": 121340106459193345, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "418030149", 
+            "text": "RT @jeferer: que dia lindo pra colocar veneno de rato na sua comida", 
+            "created_at": "Tue, 04 Oct 2011 21:45:09 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1570054663/Z1u5j8pa_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340101098881024", 
+            "from_user": "Michele_031", 
+            "from_user_id": 418030149, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340101098881024, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "393935224", 
+            "text": "@JulianaTabares2 Jaja agale de una solo digame cuando y yo la resibo y pues eso si a trabajar para ganarse la comida aca en mi casa jaja ;)", 
+            "created_at": "Tue, 04 Oct 2011 21:45:07 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1560045231/313346_2417085748371_1288195816_32905633_778592036_n_normal.jpg", 
+            "to_user_id_str": "389141810", 
+            "to_user": "JulianaTabares2", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340095897927681", 
+            "from_user": "paulaluna8", 
+            "from_user_id": 393935224, 
+            "to_user_id": 389141810, 
+            "geo": null, 
+            "id": 121340095897927681, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "385791722", 
+            "text": "35. Soy amante de Dios, de la m\u00fasica, y de la comida.", 
+            "created_at": "Tue, 04 Oct 2011 21:45:06 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1566040520/310721_255341067842889_170754122968251_756844_1558701858_n_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121340092064337921", 
+            "from_user": "ifuckingbiebs", 
+            "from_user_id": 385791722, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340092064337921, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "361352811", 
+            "text": "La comida muy buena, la soledad no tanto...", 
+            "created_at": "Tue, 04 Oct 2011 21:45:06 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1572376520/DSC04004_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121340090973822976", 
+            "from_user": "chivlita", 
+            "from_user_id": 361352811, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340090973822976, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "383456469", 
+            "text": "aii que raiva  a comida n\u00e3o fica pronta logo eu j\u00e1 estou com raiva !", 
+            "created_at": "Tue, 04 Oct 2011 21:45:06 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1537702244/elisabete___normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340089816190976", 
+            "from_user": "lary_12336", 
+            "from_user_id": 383456469, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340089816190976, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "275290927", 
+            "text": "RT @AsPatadas: \u2013  M\u00e3e o que tem pra comer ? \u2013 Comida \u2013  NOSSA M\u00c3E A SENHORA T\u00c1 MUITO ENGRA\u00c7ADA, TOMA AQUI UM CD DO PARANGOL\u00c9 .", 
+            "created_at": "Tue, 04 Oct 2011 21:45:06 +0000", 
+            "profile_image_url": "http://a2.twimg.com/sticky/default_profile_images/default_profile_3_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340088692117504", 
+            "from_user": "Clarinha04", 
+            "from_user_id": 275290927, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340088692117504, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "112477054", 
+            "text": "La comida de hoy... Ensalada de mariscos y arroz a la tumbada Mariscos el bayo. #veracruz sumamente recomendable...", 
+            "created_at": "Tue, 04 Oct 2011 21:45:05 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1549301958/IMG-20110918-00600_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121340085181497344", 
+            "from_user": "fedefacio", 
+            "from_user_id": 112477054, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340085181497344, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "93763668", 
+            "text": "comida basura para llevar y pienso que recordar\u00e1s las tardes de invierno por madrid, las noches enteras sin dormir", 
+            "created_at": "Tue, 04 Oct 2011 21:45:05 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1528035306/30025_393810325138_740015138_3948168_3239348_n_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121340084174848000", 
+            "from_user": "chicadelpastel", 
+            "from_user_id": 93763668, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340084174848000, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "288312159", 
+            "text": "hum... que cheiro bom de comida , acho que a janta ta pronta *-* pena que eu ainda to terminado o trabalho -.- ai sim eu vou jantar kk", 
+            "created_at": "Tue, 04 Oct 2011 21:45:04 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1568925188/Foto027_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340081251426304", 
+            "from_user": "VickyMaman_", 
+            "from_user_id": 288312159, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340081251426304, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "194534063", 
+            "text": "@felipefaller @GustavoBorin comida, mulher e trago..", 
+            "created_at": "Tue, 04 Oct 2011 21:45:03 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1302590024/image_normal.jpg", 
+            "to_user_id_str": "41839878", 
+            "to_user": "felipefaller", 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "id_str": "121340077275230208", 
+            "from_user": "brunopiacini", 
+            "from_user_id": 194534063, 
+            "to_user_id": 41839878, 
+            "geo": null, 
+            "id": 121340077275230208, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "280834142", 
+            "text": "Eu ia pedir beirute mas minha tia vai trazer comida japonesa , ent\u00e3o n\u00e3o vou gastar meu dinheiro . SAASIUHAS.", 
+            "created_at": "Tue, 04 Oct 2011 21:45:01 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1560064257/307773_141587132599472_100002445598453_244503_371118_n_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340068974706688", 
+            "from_user": "sabrinamiki", 
+            "from_user_id": 280834142, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340068974706688, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "414037918", 
+            "text": "RT @carlosbarrabes: En el Bo\u00f1ar de Le\u00f3n la comida no se tira, se da http://t.co/CTddiCTU v\u00eda @elmundoes", 
+            "created_at": "Tue, 04 Oct 2011 21:45:00 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/387965945/q1162587890_6478_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/tweetbutton&quot; rel=&quot;nofollow&quot;&gt;Tweet Button&lt;/a&gt;", 
+            "id_str": "121340065636032512", 
+            "from_user": "Jorge_dejavu", 
+            "from_user_id": 414037918, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340065636032512, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "261704845", 
+            "text": "RT @EsVidaDeJovenes: TIPICO EN CASA DE UN AMIGO: -\u00bfQuieres m\u00e1s comida? -S\u0336i\u0336 \u0336p\u0336o\u0336r\u0336 f\u0336a\u0336v\u0336o\u0336r\u0336, \u0336q\u0336u\u0336e\u0336d\u0336e\u0336 \u0336c\u0336o\u0336n\u0336 \u0336h\u0336a\u0336m\u0336b\u0336r\u0336e No gracias", 
+            "created_at": "Tue, 04 Oct 2011 21:45:00 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1561732350/Imagen009_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://www.snaptu.com&quot; rel=&quot;nofollow&quot;&gt;Snaptu&lt;/a&gt;", 
+            "id_str": "121340065103355904", 
+            "from_user": "MaripasTolen", 
+            "from_user_id": 261704845, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340065103355904, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "200764999", 
+            "text": "RT @BieberWithMeBR: justin comendo comida brasileira e bebendo guarana, ai meu Deus. *-* http://t.co/nzp6EkKU que, emo\u00e7ao, meu Deus /chorando", 
+            "created_at": "Tue, 04 Oct 2011 21:45:00 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1541746006/306494_2277350659431_1418672279_32602638_6700378_n_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121340063228502016", 
+            "from_user": "ellencamaraa", 
+            "from_user_id": 200764999, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340063228502016, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "276936765", 
+            "text": "buena comida, peor el compa\u00f1ero de oficina la ech\u00f3 a perder al final, ni hablar", 
+            "created_at": "Tue, 04 Oct 2011 21:44:59 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1366577454/IMG00143-20101207-1021_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340062129590272", 
+            "from_user": "SerafinOlave1", 
+            "from_user_id": 276936765, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340062129590272, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "147238059", 
+            "text": "@frah_santos aquela veia mal comida ! \\z USHAUSHAH'", 
+            "created_at": "Tue, 04 Oct 2011 21:44:53 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1572619048/euu_normal.jpg", 
+            "to_user_id_str": "192180556", 
+            "to_user": "frah_santos", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340034157776896", 
+            "from_user": "NicoleCossio", 
+            "from_user_id": 147238059, 
+            "to_user_id": 192180556, 
+            "geo": null, 
+            "id": 121340034157776896, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "259765588", 
+            "text": "a @VictoriaMiraan amou a foto,mas segundo ela,fiquei com a boca pronta pra receber comida ,ohh u.u", 
+            "created_at": "Tue, 04 Oct 2011 21:44:53 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1572958723/Sem_t_tulo_12_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340033386024960", 
+            "from_user": "MichelleKms", 
+            "from_user_id": 259765588, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340033386024960, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "75287543", 
+            "text": "@gonvela87 eso ser\u00e1 bueno para ti no?jejej oye Gonza, necesitamos confirmar lo del s\u00e1bado comida 24h, el lugar me refiero", 
+            "created_at": "Tue, 04 Oct 2011 21:44:52 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1391761539/cheimsn_normal.jpg", 
+            "to_user_id_str": "74897512", 
+            "to_user": "gonvela87", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340032157093888", 
+            "from_user": "carlosabengozar", 
+            "from_user_id": 75287543, 
+            "to_user_id": 74897512, 
+            "geo": null, 
+            "id": 121340032157093888, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "114168647", 
+            "text": "no me sali\u00f3 tan chida la movida, desde entonces mendigo por comida... heeeeee que de hambre yo me muero, qu\u2026 (cont) http://t.co/rIkFBPOc", 
+            "created_at": "Tue, 04 Oct 2011 21:44:52 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1273697737/stephenStills_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "id_str": "121340032035459072", 
+            "from_user": "MugenMX", 
+            "from_user_id": 114168647, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340032035459072, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "86007569", 
+            "text": "Comida china o sushi? Morimos de hambre! Mi hermano, mis dos sobrinos y yo!!", 
+            "created_at": "Tue, 04 Oct 2011 21:44:51 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1507381914/205944_170089493064113_100001891904492_413356_5342650_n_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121340027098771456", 
+            "from_user": "ebarajass", 
+            "from_user_id": 86007569, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340027098771456, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "280834142", 
+            "text": "Eu ia pedir beirute mas minha tia vai trazer comida japonesa , ent\u00e3o n\u00e3o vou gastar meu dinheiro . SAASIUHAS", 
+            "created_at": "Tue, 04 Oct 2011 21:44:48 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1560064257/307773_141587132599472_100002445598453_244503_371118_n_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340014801063936", 
+            "from_user": "sabrinamiki", 
+            "from_user_id": 280834142, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340014801063936, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "137132637", 
+            "text": "@joacocifuentes  ...en ese dia los judios ayunan (25 horas sin agua y comida)!!", 
+            "created_at": "Tue, 04 Oct 2011 21:44:48 +0000", 
+            "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_1_normal.png", 
+            "to_user_id_str": "94207525", 
+            "to_user": "joacocifuentes", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121340012674555904", 
+            "from_user": "shahaf95", 
+            "from_user_id": 137132637, 
+            "to_user_id": 94207525, 
+            "geo": null, 
+            "id": 121340012674555904, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "6519154", 
+            "text": "Me quedo tan pro la comida  http://t.co/EKMkhEZF", 
+            "created_at": "Tue, 04 Oct 2011 21:44:46 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1525341600/0cLwU9176086-02_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;", 
+            "id_str": "121340008018878464", 
+            "from_user": "MissBitters", 
+            "from_user_id": 6519154, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121340008018878464, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "405356236", 
+            "text": "Comida \u00e9 batata frita.", 
+            "created_at": "Tue, 04 Oct 2011 21:44:43 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1558364751/longliveme_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339994135736320", 
+            "from_user": "gabrielfelipelm", 
+            "from_user_id": 405356236, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339994135736320, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "262355865", 
+            "text": "@mluisamsa @sanzycabrejas @tomarinez @ruthbenitoabog nada, la comida ha sido la excusa para elucubrar sobre Twitter y el control del talento", 
+            "created_at": "Tue, 04 Oct 2011 21:44:43 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1509670573/image_normal.jpg", 
+            "to_user_id_str": "179052726", 
+            "to_user": "mluisamsa", 
+            "source": "&lt;a href=&quot;http://twitter.com/#!/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+            "place": {
+                "type": "city", 
+                "id": "cd43ea85d651af92", 
+                "full_name": "Bilbao, Vizcaya"
+            }, 
+            "id_str": "121339994035060736", 
+            "from_user": "aortegaaltuna", 
+            "from_user_id": 262355865, 
+            "to_user_id": 179052726, 
+            "geo": {
+                "type": "Point", 
+                "coordinates": [
+                    43.2663, 
+                    -2.9344
+                ]
+            }, 
+            "id": 121339994035060736, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "87714500", 
+            "text": "\u00bfQuieres adelgazar? Piensa en comida. http://t.co/XZ5eLGEZ #RubenNews", 
+            "created_at": "Tue, 04 Oct 2011 21:44:43 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1498705508/IMG-20110815-00037_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;\u00dcberSocial for BlackBerry&lt;/a&gt;", 
+            "id_str": "121339993624027137", 
+            "from_user": "RubenEspinal", 
+            "from_user_id": 87714500, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339993624027137, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "400571588", 
+            "text": "QUANDO QUERO COMER,VOU NA GELADEIRA E N\u00c3O TEM NADA O QUE EU FA\u00c7O?\n(  )APRONTO COMIDA\n(x) VOLTO 15 MINUTOS MAIS PARA VER SE BROTOU COMIDA!", 
+            "created_at": "Tue, 04 Oct 2011 21:44:40 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1556645362/BARBIE19_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339979866701824", 
+            "from_user": "carlakethylle_", 
+            "from_user_id": 400571588, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339979866701824, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "88230280", 
+            "text": "Quien quiera donar comida u otras cosas para perritos pueden escribirme aqui o en fb... Es pa la fundasion!!", 
+            "created_at": "Tue, 04 Oct 2011 21:44:39 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1548120262/IMG00791-20110917-2013_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121339975802433536", 
+            "from_user": "AnnAvelar", 
+            "from_user_id": 88230280, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339975802433536, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "354374054", 
+            "text": "@Krloshigueros jaja! :) ziii mi mOm no me quiere dar comida! :(", 
+            "created_at": "Tue, 04 Oct 2011 21:44:36 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1570386885/230920112084_normal.jpg", 
+            "to_user_id_str": "353251408", 
+            "to_user": "Krloshigueros", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339965119537152", 
+            "from_user": "Aleescoobar", 
+            "from_user_id": 354374054, 
+            "to_user_id": 353251408, 
+            "geo": null, 
+            "id": 121339965119537152, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "271121882", 
+            "text": "quer ser comida e nao vem ate mim ne pizza", 
+            "created_at": "Tue, 04 Oct 2011 21:44:34 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1549213543/SAM_8143_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339954067537921", 
+            "from_user": "itspresunto", 
+            "from_user_id": 271121882, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339954067537921, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "174556582", 
+            "text": "sabe o que seria bom????? eu+comida+1 semana sem aula+computador", 
+            "created_at": "Tue, 04 Oct 2011 21:44:33 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1553697616/296589_173596029381497_100001933041156_370720_152970614_n_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339951005696000", 
+            "from_user": "leticiamaral17", 
+            "from_user_id": 174556582, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339951005696000, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "354432677", 
+            "text": "RT @Esquiziofrenico: Me llamo daniel , pero si me quieres decirasi RT @corina_alex No sales ni un instante de mis pensamientos :$ claroo hablo de la COMIDA *---*", 
+            "created_at": "Tue, 04 Oct 2011 21:44:32 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1571975405/hnflaefhelkglggt_hh_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339949080514561", 
+            "from_user": "corina_alex", 
+            "from_user_id": 354432677, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339949080514561, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "94985779", 
+            "text": "mano, a mam\u00e3e trouxe comida pra mim aqui n meu quarto e hoje n\u00e3o \u00e9 s\u00e1bado nem domingo, O.o", 
+            "created_at": "Tue, 04 Oct 2011 21:44:32 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1517823634/P0950_240811_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "place": {
+                "type": "city", 
+                "id": "f3587bc643e7d7b8", 
+                "full_name": "Bel\u00e9m, Par\u00e1"
+            }, 
+            "id_str": "121339947792863232", 
+            "from_user": "Vitoria_Mileo", 
+            "from_user_id": 94985779, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339947792863232, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "258835060", 
+            "text": "RT @Maribelzsl: eu a @_Samaracoelho @_Flavianecoelho e @rbmg_ viemos a p\u00e9 \u00ac\u00ac e o reffael veio perguntando se tinha comida na minha casa kkkkk *-*", 
+            "created_at": "Tue, 04 Oct 2011 21:44:28 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1544721045/variadas__-__035_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339929467957250", 
+            "from_user": "_Samaracoelho", 
+            "from_user_id": 258835060, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339929467957250, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "404330682", 
+            "text": "j\u00e1 fiz comida =)", 
+            "created_at": "Tue, 04 Oct 2011 21:44:26 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1530277461/SASAaasAS_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339920949321728", 
+            "from_user": "Luuana_Miller", 
+            "from_user_id": 404330682, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339920949321728, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "134218104", 
+            "text": "Tipicas borrachas en comida, que parte de estan los socios no entienden? #PenaAjena", 
+            "created_at": "Tue, 04 Oct 2011 21:44:25 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1509382392/DSC_0108_-_copia_-_copia__3__normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121339917346418688", 
+            "from_user": "LuisAcMz", 
+            "from_user_id": 134218104, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339917346418688, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "401766372", 
+            "text": "Comida para vivir cien a\u00f1os http://ow.ly/6NwsS #comida", 
+            "created_at": "Tue, 04 Oct 2011 21:44:23 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1528705268/logo_saborxalapa-01_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;", 
+            "id_str": "121339911323398145", 
+            "from_user": "sabor_xalapa", 
+            "from_user_id": 401766372, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339911323398145, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "62361752", 
+            "text": "Olinda me dej\u00f3 comida. Sufran, perros.", 
+            "created_at": "Tue, 04 Oct 2011 21:44:23 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1387493752/mckey_mustache_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339911323394048", 
+            "from_user": "willymckey", 
+            "from_user_id": 62361752, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339911323394048, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "116394570", 
+            "text": "Comida o Jazz??? Jazz o Comidaa??? @danilisset hahahah", 
+            "created_at": "Tue, 04 Oct 2011 21:44:22 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1546107299/185569_10150751386485182_700915181_20474313_402022_n_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121339903547150336", 
+            "from_user": "PaoBalzan", 
+            "from_user_id": 116394570, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339903547150336, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "133336670", 
+            "text": "Tchau vo jogar Lego Harry Potter, quem quiser jogar traga comida que negociamos", 
+            "created_at": "Tue, 04 Oct 2011 21:44:20 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1553965485/110921-155404_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "id_str": "121339896970493952", 
+            "from_user": "igorwe", 
+            "from_user_id": 133336670, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339896970493952, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "it", 
+            "from_user_id_str": "418864695", 
+            "text": "#ElQueTaEnOlla calienta la comida con la luz del sol.", 
+            "created_at": "Tue, 04 Oct 2011 21:44:19 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1501961531/IMG-20110802-00376_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121339893799596032", 
+            "from_user": "EduViDeth", 
+            "from_user_id": 418864695, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339893799596032, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "400041159", 
+            "text": "como eu disse fa\u00e7o comida direito quando to co vontade. e se nao to fica uma bosta", 
+            "created_at": "Tue, 04 Oct 2011 21:44:19 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1561092658/Foto0047_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339893262729216", 
+            "from_user": "superboy182", 
+            "from_user_id": 400041159, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339893262729216, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "359527238", 
+            "text": "@nikiiescobedo Jaja #MENTIRA te lo dije antes de que comieras.. emm pues no hiso de comer compramos comida ya hecha Ja' Pero sabia buena", 
+            "created_at": "Tue, 04 Oct 2011 21:44:14 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1550679583/033_normal.jpg", 
+            "to_user_id_str": "276780550", 
+            "to_user": "nikiiescobedo", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339873356554240", 
+            "from_user": "paawrhjas", 
+            "from_user_id": 359527238, 
+            "to_user_id": 276780550, 
+            "geo": null, 
+            "id": 121339873356554240, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "78732549", 
+            "text": "Una d las cosas q mas me molesta es q la gente desperdicie la comida, neta q eso si q me desagrada un buen q lo hagan...", 
+            "created_at": "Tue, 04 Oct 2011 21:44:14 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1540684989/IMG_2384_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;\u00dcberSocial for BlackBerry&lt;/a&gt;", 
+            "id_str": "121339869854306304", 
+            "from_user": "JLNeme", 
+            "from_user_id": 78732549, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339869854306304, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "391788510", 
+            "text": "En la Comida china :)", 
+            "created_at": "Tue, 04 Oct 2011 21:44:13 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1570327880/317890_2446457687236_1425720859_32748649_393905203_n_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121339865592905728", 
+            "from_user": "ChelooFarias", 
+            "from_user_id": 391788510, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339865592905728, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "91049924", 
+            "text": "Soy el unico k sta comiendo solo en la comida china!!! AAah k triste :(", 
+            "created_at": "Tue, 04 Oct 2011 21:44:12 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1564830762/327209476_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121339863902597120", 
+            "from_user": "ZamperCorp", 
+            "from_user_id": 91049924, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339863902597120, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "196071", 
+            "text": "Comida rica de apariencia asquerosa para fiestas tipo Halloween: http://t.co/n5LMK4r6 (ingl\u00e9s).", 
+            "created_at": "Tue, 04 Oct 2011 21:44:07 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1112580444/moucho_kitty_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;", 
+            "id_str": "121339844612984833", 
+            "from_user": "Calitoe", 
+            "from_user_id": 196071, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339844612984833, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "398728664", 
+            "text": "RT @BieberWithMeBR: justin comendo comida brasileira e bebendo guarana, ai meu Deus. *-* http://t.co/nzp6EkKU que, emo\u00e7ao, meu Deus /chorando", 
+            "created_at": "Tue, 04 Oct 2011 21:44:03 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1571313228/2demi2lovato2_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121339824719409152", 
+            "from_user": "SexyDemitria", 
+            "from_user_id": 398728664, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339824719409152, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "404450899", 
+            "text": "eu preciso de comida :/", 
+            "created_at": "Tue, 04 Oct 2011 21:44:02 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1570119503/IMG004142_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339823003942912", 
+            "from_user": "GabiiNevees", 
+            "from_user_id": 404450899, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339823003942912, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "269931356", 
+            "text": "Hora de fazer comida,colocando o feijao pra cozinha,#evida!", 
+            "created_at": "Tue, 04 Oct 2011 21:44:02 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1568722374/162_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "place": {
+                "type": "city", 
+                "id": "68e019afec7d0ba5", 
+                "full_name": "S\u00e3o Paulo, S\u00e3o Paulo"
+            }, 
+            "id_str": "121339822165069824", 
+            "from_user": "ohannecastro1", 
+            "from_user_id": 269931356, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339822165069824, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "351625217", 
+            "text": "RT @IroniaRealista: #geracaoescolhiesperar espero minha m\u00e3e arrumar a casa, fazer comida, lavar minha roupa...", 
+            "created_at": "Tue, 04 Oct 2011 21:44:01 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1524565830/T4EoncT9_normal", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339818004332544", 
+            "from_user": "crisalgal", 
+            "from_user_id": 351625217, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339818004332544, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "114402182", 
+            "text": "@frankaruh pero que rico!! Comida japonesa con cervecita mmmm algun dia #paloenlacabeza y al avion para ver estas cosas....", 
+            "created_at": "Tue, 04 Oct 2011 21:44:01 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1559744805/image_normal.jpg", 
+            "to_user_id_str": "145813242", 
+            "to_user": "frankaruh", 
+            "source": "&lt;a href=&quot;http://twitter.com/#!/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+            "id_str": "121339817731694593", 
+            "from_user": "AnaAgave", 
+            "from_user_id": 114402182, 
+            "to_user_id": 145813242, 
+            "geo": null, 
+            "id": 121339817731694593, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "92074015", 
+            "text": "To cm fome isso que da falar de comida na tv.", 
+            "created_at": "Tue, 04 Oct 2011 21:43:53 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1568193757/DSC02483_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://messaging.nokia.com/site/main.do&quot; rel=&quot;nofollow&quot;&gt; Ovi by Nokia &lt;/a&gt;", 
+            "id_str": "121339785624297472", 
+            "from_user": "natalyamatos", 
+            "from_user_id": 92074015, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339785624297472, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "97392509", 
+            "text": "RT @federullo: showmatch de cierta forma me hizo acordar a la jungla, donde se sacan los ojos x un poco de comida, un poco de rating", 
+            "created_at": "Tue, 04 Oct 2011 21:43:53 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1339472931/6770_1212039746928_1406793502_595376_8193909_n_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121339783841722368", 
+            "from_user": "Dialexiaa", 
+            "from_user_id": 97392509, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339783841722368, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "25139739", 
+            "text": "Q FOME DE COMIDA!! q merda minha mae n faz comida de janta grrr", 
+            "created_at": "Tue, 04 Oct 2011 21:43:53 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339782520512512", 
+            "from_user": "lauramachados", 
+            "from_user_id": 25139739, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339782520512512, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "402464044", 
+            "text": "RT @exaustamente: querer twittar e n\u00e3o ter o que twittar e tipo ter fome e n\u00e3o ter comida", 
+            "created_at": "Tue, 04 Oct 2011 21:43:52 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339781308350464", 
+            "from_user": "PQP_Sociedade", 
+            "from_user_id": 402464044, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339781308350464, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "398556813", 
+            "text": "vou me atirar na faxa, ser empurrada por uma moto, atropelada por um caminh\u00e3o jogada na ponte por um Skate e morrer comida por um peixe. ):", 
+            "created_at": "Tue, 04 Oct 2011 21:43:52 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1557810556/Imagem008_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339779420913664", 
+            "from_user": "Thataa_ghki", 
+            "from_user_id": 398556813, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339779420913664, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "413217725", 
+            "text": "La comida entre los dientes es una tortura.", 
+            "created_at": "Tue, 04 Oct 2011 21:43:52 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1527022023/scream_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "121339779123134465", 
+            "from_user": "AlexPacheco8", 
+            "from_user_id": 413217725, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339779123134465, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "292321702", 
+            "text": "RT @YngridGS: Eles morrem se voc\u00ea da mt comida, ai voc\u00ea da pouca e eles morrem e se voc\u00ea dar na medida certa eles morrem", 
+            "created_at": "Tue, 04 Oct 2011 21:43:51 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1495655821/157_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121339777105661952", 
+            "from_user": "ferngama", 
+            "from_user_id": 292321702, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339777105661952, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "it", 
+            "from_user_id_str": "138199123", 
+            "text": "@aurijr vix eh msm guarda comida pra ele", 
+            "created_at": "Tue, 04 Oct 2011 21:43:51 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": "49633317", 
+            "to_user": "aurijr", 
+            "source": "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;\u00dcberSocial for BlackBerry&lt;/a&gt;", 
+            "id_str": "121339776451346433", 
+            "from_user": "byluked", 
+            "from_user_id": 138199123, 
+            "to_user_id": 49633317, 
+            "geo": null, 
+            "id": 121339776451346433, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "370941365", 
+            "text": "RT @AsPatadas: \u2013  M\u00e3e o que tem pra comer ? \u2013 Comida \u2013  NOSSA M\u00c3E A SENHORA T\u00c1 MUITO ENGRA\u00c7ADA, TOMA AQUI UM CD DO PARANGOL\u00c9 .", 
+            "created_at": "Tue, 04 Oct 2011 21:43:48 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1570285175/eu__D_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339761540603904", 
+            "from_user": "20_morder_", 
+            "from_user_id": 370941365, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339761540603904, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "186665782", 
+            "text": "\u2026No hay transporte, no hay comedor, no hay biblioteca, no tengo carro, no tengo comida, no tengo dinero, ni tengo d\u00f3nde estudiar\u2026 y ahora?", 
+            "created_at": "Tue, 04 Oct 2011 21:43:39 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1454238142/IMG00254-20110719-1821_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;\u00dcberSocial for BlackBerry&lt;/a&gt;", 
+            "id_str": "121339725264076800", 
+            "from_user": "william_chacon", 
+            "from_user_id": 186665782, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339725264076800, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "355986435", 
+            "text": "Buena comida... Ahora una buena dormida &lt;(&quot;, )&gt;", 
+            "created_at": "Tue, 04 Oct 2011 21:43:38 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1546583869/xite_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121339722550353920", 
+            "from_user": "Twittxite", 
+            "from_user_id": 355986435, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339722550353920, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "389932193", 
+            "text": "Vou come\u00e7ar a trazer comida aqui pro CNA porque minha m\u00e3e esquece que eu existo e me abandona aqui morrendo de fome.", 
+            "created_at": "Tue, 04 Oct 2011 21:43:37 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1528688952/Snapshot_20110904_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339717844348928", 
+            "from_user": "_heyjade", 
+            "from_user_id": 389932193, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339717844348928, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "274268487", 
+            "text": "quero jantar , mais nao tem comida aqui", 
+            "created_at": "Tue, 04 Oct 2011 21:43:36 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1394860213/Imagem_136_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339713977204736", 
+            "from_user": "DouglasCosta14", 
+            "from_user_id": 274268487, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339713977204736, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "415124737", 
+            "text": "Una manera de describir la Fast Good es a trav\u00e9s de la comida casera tradicional francesa", 
+            "created_at": "Tue, 04 Oct 2011 21:43:36 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1302142713/charcutwitter_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "id_str": "121339713171881984", 
+            "from_user": "charcucigale", 
+            "from_user_id": 415124737, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339713171881984, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "139864123", 
+            "text": "Read my response to &quot;Qual a comida que vc mais odeia?&quot;: http://t.co/LT9CTXYJ", 
+            "created_at": "Tue, 04 Oct 2011 21:43:36 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1569458946/twitter_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://formspring.me&quot; rel=&quot;nofollow&quot;&gt;formspring.me&lt;/a&gt;", 
+            "id_str": "121339710797914112", 
+            "from_user": "IgoBolleli_", 
+            "from_user_id": 139864123, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339710797914112, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "163113991", 
+            "text": "RT @KarlitOrellana: Algunas personas d verdad q no tienen corazon n ver a un animalito muriend d hambre ni un poc d agua l dan :@ l compr comida! =')", 
+            "created_at": "Tue, 04 Oct 2011 21:43:35 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1514922949/DSC_0101_5B800x600_5D_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339707752853504", 
+            "from_user": "anthony1490", 
+            "from_user_id": 163113991, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339707752853504, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "286583046", 
+            "text": "Porra, lotei meu prato de comida, quero ver comer tudo isso", 
+            "created_at": "Tue, 04 Oct 2011 21:43:33 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1570005751/SDC13403_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339701515927552", 
+            "from_user": "iamFlavio_", 
+            "from_user_id": 286583046, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339701515927552, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "281814939", 
+            "text": "N\u00e3o s\u00f3 pegar comida,vou faz\u00ea-los arrumarem a casa,lavar suas pr\u00f3prias fraldinhas.. @MariiGBueno", 
+            "created_at": "Tue, 04 Oct 2011 21:43:33 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1528687067/04_normal.jpg", 
+            "to_user_id_str": "127741482", 
+            "to_user": "MariiGBueno", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339701184561152", 
+            "from_user": "humLorena", 
+            "from_user_id": 281814939, 
+            "to_user_id": 127741482, 
+            "geo": null, 
+            "id": 121339701184561152, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "141666363", 
+            "text": "@naty425 =) torta de que? O una pastafrola? Mmmmm comida (tono de Homero) jajajajajja", 
+            "created_at": "Tue, 04 Oct 2011 21:43:33 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1558328943/principito_normal.png", 
+            "to_user_id_str": "235092150", 
+            "to_user": "naty425", 
+            "source": "&lt;a href=&quot;http://messaging.nokia.com/site/main.do&quot; rel=&quot;nofollow&quot;&gt; Ovi by Nokia &lt;/a&gt;", 
+            "id_str": "121339698915450880", 
+            "from_user": "petit_prince84", 
+            "from_user_id": 141666363, 
+            "to_user_id": 235092150, 
+            "geo": null, 
+            "id": 121339698915450880, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "270387747", 
+            "text": "Comida chatarraa OMG nooooooo!!", 
+            "created_at": "Tue, 04 Oct 2011 21:43:32 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1565113101/yo_20W_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121339696080093184", 
+            "from_user": "FaduaAyoub", 
+            "from_user_id": 270387747, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339696080093184, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "162199692", 
+            "text": "RT @bichinhosrs: Esse \u00e9 o Jeremy. Ele vivia numa casa vazia, sem ningu\u00e9m, sem carinho e sem comida. Jeremy est\u00e1 em busca de um lar, http://t.co/Gh7EZcxn", 
+            "created_at": "Tue, 04 Oct 2011 21:43:32 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1217553044/mell_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitpic.com&quot; rel=&quot;nofollow&quot;&gt;Twitpic&lt;/a&gt;", 
+            "id_str": "121339696033959937", 
+            "from_user": "decunhaz", 
+            "from_user_id": 162199692, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339696033959937, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "412515890", 
+            "text": "Solo comida mierda me arto y \u00bfas\u00ed quiero adelgazar? xd", 
+            "created_at": "Tue, 04 Oct 2011 21:43:28 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1572669001/P1070225_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339679936225280", 
+            "from_user": "JonaRodriguez_", 
+            "from_user_id": 412515890, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339679936225280, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "81050918", 
+            "text": "decir un no a la comida es decir un si a la delgadez!!!!!!! me adelgazado 4 kilos en 5 dias!!!!!!!!!!!!!!!!!", 
+            "created_at": "Tue, 04 Oct 2011 21:43:27 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1569472358/IMG_0001_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339673384726528", 
+            "from_user": "dmycielo", 
+            "from_user_id": 81050918, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339673384726528, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "145454543", 
+            "text": "S\u00f3 me lembra dakele dia em q cheguei no conjuto e ouvi a seguinte frase &quot;quem ve filme porno vai virar comida de bicho&quot; e isso \u00e9 gospel.", 
+            "created_at": "Tue, 04 Oct 2011 21:43:26 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1499163518/orkut_foto_brincos_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://www.snaptu.com&quot; rel=&quot;nofollow&quot;&gt;Snaptu&lt;/a&gt;", 
+            "id_str": "121339670897491969", 
+            "from_user": "plummacorecha", 
+            "from_user_id": 145454543, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339670897491969, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "171239678", 
+            "text": "voltei, minha alergia t\u00e1 atacada, devo estar com alergia de algum tecido ou comida, meu corpo t\u00e1 co\u00e7ando dms aaaf :@:@", 
+            "created_at": "Tue, 04 Oct 2011 21:43:26 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1542796541/Photo-0124_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339669710516225", 
+            "from_user": "Ca_Szekely", 
+            "from_user_id": 171239678, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339669710516225, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "170270965", 
+            "text": "@kaicindio pra abrir comida e pra cortar =(", 
+            "created_at": "Tue, 04 Oct 2011 21:43:26 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1469591906/lo_normal.jpg", 
+            "to_user_id_str": "76777035", 
+            "to_user": "Kaicindio", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339669039415297", 
+            "from_user": "lopassaro", 
+            "from_user_id": 170270965, 
+            "to_user_id": 76777035, 
+            "geo": null, 
+            "id": 121339669039415297, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "367152932", 
+            "text": "Cuando sale al mercado una nueva marca de comida para perro y con el mejor sabor, \u00bfqui\u00e9n la prueba?", 
+            "created_at": "Tue, 04 Oct 2011 21:43:24 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1570950669/christy-1_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339660281724928", 
+            "from_user": "ElenaaSantos", 
+            "from_user_id": 367152932, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339660281724928, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "30099752", 
+            "text": "Deixa eu ir embora r\u00e1pido para casa que deixei a comida no fogo... http://t.co/Jf759fEr", 
+            "created_at": "Tue, 04 Oct 2011 21:43:22 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1539470314/perfil_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://publicize.wp.com/&quot; rel=&quot;nofollow&quot;&gt;WordPress.com&lt;/a&gt;", 
+            "id_str": "121339654472613888", 
+            "from_user": "Maureco", 
+            "from_user_id": 30099752, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339654472613888, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "290778888", 
+            "text": "Ah deixa eu fazer logo a comida do meu irmao, porque se eu nao fizer ele nao vai mim deixar em paz!", 
+            "created_at": "Tue, 04 Oct 2011 21:43:22 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339653340147712", 
+            "from_user": "DaraSuelly", 
+            "from_user_id": 290778888, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339653340147712, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "5739340", 
+            "text": "@AreeCasarrubias yo igual :( me imaginaba a puck respondiendo jajaja yo si le hubiera aventado comida a becky", 
+            "created_at": "Tue, 04 Oct 2011 21:43:21 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1514013769/Blink_20182_20Mark_20hoppus_normal.jpg", 
+            "to_user_id_str": "127559283", 
+            "to_user": "AreeCasarrubias", 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121339648688656384", 
+            "from_user": "R0CKGER", 
+            "from_user_id": 5739340, 
+            "to_user_id": 127559283, 
+            "geo": null, 
+            "id": 121339648688656384, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "400600149", 
+            "text": "to quase acabando de fazer comida, haha", 
+            "created_at": "Tue, 04 Oct 2011 21:43:20 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1468137334/C_pia_de_Foto0110._normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339646423728128", 
+            "from_user": "path_morais", 
+            "from_user_id": 400600149, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339646423728128, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "412150862", 
+            "text": "querer twittar e n\u00e3o ter o que twittar e tipo ter fome e n\u00e3o ter comida", 
+            "created_at": "Tue, 04 Oct 2011 21:43:19 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1563208063/IMAGE_25-09-2011-16.23_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339640094527488", 
+            "from_user": "exaustamente", 
+            "from_user_id": 412150862, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339640094527488, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "144615511", 
+            "text": "Comiendo #pizza de #amigosecreto que cantidad de comida...", 
+            "created_at": "Tue, 04 Oct 2011 21:43:18 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1533636885/IMG_0141_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121339638630711296", 
+            "from_user": "lrcasas", 
+            "from_user_id": 144615511, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339638630711296, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "282168325", 
+            "text": "vou la pra casa da @_biabrantsou  ajudar ela fazer comida ! hahaha coisa lenta essa menina viu ?", 
+            "created_at": "Tue, 04 Oct 2011 21:43:16 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1525598542/21321872_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339626903445504", 
+            "from_user": "brantees", 
+            "from_user_id": 282168325, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339626903445504, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "415754807", 
+            "text": "estoy lleno de comida, tengo un trabajo que me ira bn y puta nada m\u00e1s que decir que la vida es una sola vivanla y no se enrrollen en ella xD", 
+            "created_at": "Tue, 04 Oct 2011 21:43:15 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1563787603/yo_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339625980698625", 
+            "from_user": "Diiiego0__", 
+            "from_user_id": 415754807, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339625980698625, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "124827198", 
+            "text": "O Lakshimi \u00e9 um quiosque \u00e0 beira da piscina que oferece um buffet variado e comida regional de sabor inesquec\u00edvel", 
+            "created_at": "Tue, 04 Oct 2011 21:43:15 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1295098680/logo_canto_twitter_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "121339623359262721", 
+            "from_user": "cantodafloresta", 
+            "from_user_id": 124827198, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339623359262721, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "29814960", 
+            "text": "Con los hombres a veces  pasa como con la comida, a veces nos llenamos con los ojos.", 
+            "created_at": "Tue, 04 Oct 2011 21:43:15 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1558274180/Capture16_28_29_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "121339622621069312", 
+            "from_user": "lauraEs1", 
+            "from_user_id": 29814960, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 121339622621069312, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 0, 
+    "results_per_page": 100, 
+    "query": "comida", 
+    "max_id": 121340155587084288, 
+    "page": 1
+}

@@ -1,0 +1,1856 @@
+{
+    "next_page": "?page=2&max_id=119825888920604673&q=rua&rpp=100", 
+    "completed_in": 0.16, 
+    "max_id_str": "119825888920604673", 
+    "since_id_str": "0", 
+    "refresh_url": "?since_id=119825888920604673&q=rua", 
+    "results": [
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "197377966", 
+            "text": "Ganhei um cd na rua, deve ser baita boom..kkkk", 
+            "created_at": "Fri, 30 Sep 2011 17:28:12 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1539976780/12-09-11_1313_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825888920604673", 
+            "from_user": "jaanaschumi", 
+            "from_user_id": 197377966, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825888920604673, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "386355901", 
+            "text": "RT @StarsHoroscope: #AQUARIO   Quem voc\u00ea encontraria na rua : Vanessa Hudgens", 
+            "created_at": "Fri, 30 Sep 2011 17:28:12 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1559523672/tumblr_lmk0ciT6VW1qec8vso1_500_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825888199180288", 
+            "from_user": "Rup_FcHP", 
+            "from_user_id": 386355901, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825888199180288, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "215481143", 
+            "text": "droga e eu num vo ve a rua @emicida no #RockinRio :x", 
+            "created_at": "Fri, 30 Sep 2011 17:28:12 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1383241377/qq_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825887167389696", 
+            "from_user": "leeonardo_k", 
+            "from_user_id": 215481143, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825887167389696, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "it", 
+            "from_user_id_str": "145477684", 
+            "text": "I'm at Ch\u00e1cara Tropical (Rua Dom Rosalvo da Costa Rego, 420, Rio de Janeiro) [pic]: http://t.co/l0HftRcK", 
+            "created_at": "Fri, 30 Sep 2011 17:28:10 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1303793646/imagesCACZW64X_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://foursquare.com&quot; rel=&quot;nofollow&quot;&gt;foursquare&lt;/a&gt;", 
+            "id_str": "119825879089164289", 
+            "from_user": "CarvalhoElder", 
+            "from_user_id": 145477684, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825879089164289, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "278814929", 
+            "text": "Meu deus, acabei de vir da rua Nereu Ramos a p\u00e9 at\u00e9 aqui em casa! To com o ar no 16 e t\u00e1 calorrr.. sai de mim!!!", 
+            "created_at": "Fri, 30 Sep 2011 17:28:09 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1561246655/Snapshot_20110915_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825874882273280", 
+            "from_user": "juuliahannibal", 
+            "from_user_id": 278814929, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825874882273280, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "101028138", 
+            "text": "@Wolf07_ to na rua direto com a mika e voc\u00ea num passa mais. ta fugindo da gente u.u", 
+            "created_at": "Fri, 30 Sep 2011 17:28:08 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1556922050/Foto0044_normal.jpg", 
+            "to_user_id_str": "263950928", 
+            "to_user": "Wolf07_", 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119825872424407040", 
+            "from_user": "himynameisfaby", 
+            "from_user_id": 101028138, 
+            "to_user_id": 263950928, 
+            "geo": null, 
+            "id": 119825872424407040, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "from_user_id_str": "213110870", 
+            "text": "#Rua", 
+            "created_at": "Fri, 30 Sep 2011 17:28:08 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825871581364224", 
+            "from_user": "willnasciimento", 
+            "from_user_id": 213110870, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825871581364224, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "351218228", 
+            "text": "@_gabisperes kkkkkkkkkkkkk, e quem vai segura ela ? ninguem, vamo deixa ela estirada no meio da rua com as perna e os bra\u00e7o aberto, jaera", 
+            "created_at": "Fri, 30 Sep 2011 17:28:06 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1523095012/ln_normal.jpg", 
+            "to_user_id_str": "372008156", 
+            "to_user": "_gabisperes", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825861456302081", 
+            "from_user": "marcela_santoos", 
+            "from_user_id": 351218228, 
+            "to_user_id": 372008156, 
+            "geo": null, 
+            "id": 119825861456302081, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "in", 
+            "from_user_id_str": "151856223", 
+            "text": "@JanainaSpada sei l\u00e1 nas pra\u00e7as e pela rua", 
+            "created_at": "Fri, 30 Sep 2011 17:28:05 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1125952253/HPIM1168_normal.JPG", 
+            "to_user_id_str": "277515525", 
+            "to_user": "JanainaSpada", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825856339251200", 
+            "from_user": "luhschroeder", 
+            "from_user_id": 151856223, 
+            "to_user_id": 277515525, 
+            "geo": null, 
+            "id": 119825856339251200, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "351564701", 
+            "text": "@Keel_Lindaa voce me viu na rua , e nao liigo mtu Pra mim ! Suave pode fala ;) .", 
+            "created_at": "Fri, 30 Sep 2011 17:28:04 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1565256069/IMG00330-20110929-1103_normal.jpg", 
+            "to_user_id_str": "405681981", 
+            "to_user": "Keel_Lindaa", 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119825853654896640", 
+            "from_user": "_Nahsz", 
+            "from_user_id": 351564701, 
+            "to_user_id": 405681981, 
+            "geo": null, 
+            "id": 119825853654896640, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "it", 
+            "from_user_id_str": "377266967", 
+            "text": "Realmente triste, rua 9 st oeste t\u00e1 congestionadissima", 
+            "created_at": "Fri, 30 Sep 2011 17:28:02 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1134671695/doug_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "id_str": "119825847577350144", 
+            "from_user": "dougyorke", 
+            "from_user_id": 377266967, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825847577350144, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "263645473", 
+            "text": "@fuckmegates cramba man .. eu ja ti vi kkkk e sempre eu to do otro lado da rua com os mlcs la =)", 
+            "created_at": "Fri, 30 Sep 2011 17:28:01 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1504959302/leonardo_normal.jpg", 
+            "to_user_id_str": "273195917", 
+            "to_user": "fuckmegates", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825843387240448", 
+            "from_user": "LeeoNovais_", 
+            "from_user_id": 263645473, 
+            "to_user_id": 273195917, 
+            "geo": null, 
+            "id": 119825843387240448, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "381091561", 
+            "text": "RT @VelhosTempos: Saia na rua para pegar doces, no dia de S\u00e3o Cosme e Dami\u00e3o #VelhosTempos", 
+            "created_at": "Fri, 30 Sep 2011 17:28:01 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1564200779/Foto3133_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825842175098880", 
+            "from_user": "Bruna_Serafim_", 
+            "from_user_id": 381091561, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825842175098880, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "412634962", 
+            "text": "-os meninos corri   eu e a Ana aimos correndo descal\u00e7as no meio da rua s\u00f3 vc loira tcham\u00f4\u00f5 dms!!!!", 
+            "created_at": "Fri, 30 Sep 2011 17:28:00 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825837846560768", 
+            "from_user": "Agry_", 
+            "from_user_id": 412634962, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825837846560768, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "24610668", 
+            "text": "RT @DiiihKAMIKAZZE: 15/10 @BandaKAMIKAZZE + @GarnetOficial na D.vino (Rua XV, Santos) R$15 na PORTA! Quem for mandar nome para: listakamikazze@hotmail.com BORA?", 
+            "created_at": "Fri, 30 Sep 2011 17:28:00 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1505841545/DSC08409_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825835422265344", 
+            "from_user": "carolinafsilva", 
+            "from_user_id": 24610668, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825835422265344, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "412658475", 
+            "text": "@rebeldeinbrasil levanto j\u00e1 de \u00f3culos vestido e all star,s\u00f3 penso em ir pra rua sem me preocupar em q horas vou voltar se \u00e9 q vou voltar...", 
+            "created_at": "Fri, 30 Sep 2011 17:27:56 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1565654358/de_-_C_pia_normal.jpg", 
+            "to_user_id_str": "413416286", 
+            "to_user": "rebeldeinbrasil", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825820096282626", 
+            "from_user": "RockinRebelde", 
+            "from_user_id": 412658475, 
+            "to_user_id": 413416286, 
+            "geo": null, 
+            "id": 119825820096282626, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "353075037", 
+            "text": "@Fee_FeM aaaaaaaaaaaaaahhh vo sai gritando na rua kk beeijos agr to com raiva", 
+            "created_at": "Fri, 30 Sep 2011 17:27:55 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1559342951/brunoooo_normal.png", 
+            "to_user_id_str": "278270112", 
+            "to_user": "Fee_FeM", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825814320726016", 
+            "from_user": "BrunoMiharaPuya", 
+            "from_user_id": 353075037, 
+            "to_user_id": 278270112, 
+            "geo": null, 
+            "id": 119825814320726016, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "from_user_id_str": "408822906", 
+            "text": "#Rua.", 
+            "created_at": "Fri, 30 Sep 2011 17:27:51 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1565527098/Foto-0004_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825799258968065", 
+            "from_user": "TjsDi", 
+            "from_user_id": 408822906, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825799258968065, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "92142514", 
+            "text": "Isso e um abisurdo nao da mais pra continuar eu e meu colegio telina saiumos na rua com o grito de guerra FIM DA GREVE!!!", 
+            "created_at": "Fri, 30 Sep 2011 17:27:49 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1396434230/pro_twitter_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://www.lg.com&quot; rel=&quot;nofollow&quot;&gt;LG Phone&lt;/a&gt;", 
+            "id_str": "119825791583395840", 
+            "from_user": "juju_rc", 
+            "from_user_id": 92142514, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825791583395840, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "13542884", 
+            "text": "Depois do almo\u00e7o: rua nascimento silva cento e sete.", 
+            "created_at": "Fri, 30 Sep 2011 17:27:48 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1524353172/Foto_criada_em_2011-09-01__s_21.19_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/#!/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+            "id_str": "119825786994835457", 
+            "from_user": "carolinamendes", 
+            "from_user_id": 13542884, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825786994835457, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "112308772", 
+            "text": "@EllenDiasSC  Vou te excluir de minhas redes sociais, s\u00f3 adiciono quem me reconhece na rua. Bjo", 
+            "created_at": "Fri, 30 Sep 2011 17:27:44 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1522880869/DSC00063_normal.JPG", 
+            "to_user_id_str": "56268732", 
+            "to_user": "ellendiassc", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825771840798721", 
+            "from_user": "dinilsonsousa", 
+            "from_user_id": 112308772, 
+            "to_user_id": 56268732, 
+            "geo": null, 
+            "id": 119825771840798721, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "it", 
+            "from_user_id_str": "55711072", 
+            "text": "vo cola na rua com o @bieel_Sm !", 
+            "created_at": "Fri, 30 Sep 2011 17:27:44 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1551790009/AXZ2ExKCEAAJKtF.jpg_large_-_C_pia_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825768753807360", 
+            "from_user": "richardsfc", 
+            "from_user_id": 55711072, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825768753807360, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "352163822", 
+            "text": "Vou viajar daqui a pouco, nem vai da pra mim ir na rua rs, eu acho :/", 
+            "created_at": "Fri, 30 Sep 2011 17:27:44 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1501817340/Foto0063lll22222_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119825768552472576", 
+            "from_user": "_lucaspala", 
+            "from_user_id": 352163822, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825768552472576, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "257459216", 
+            "text": "cheguei 11:30 da rua , almocei e depois dormi at\u00e9 agr", 
+            "created_at": "Fri, 30 Sep 2011 17:27:42 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825763527692289", 
+            "from_user": "thainahernandes", 
+            "from_user_id": 257459216, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825763527692289, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "19378323", 
+            "text": "1. Estou indo ao RiR com um musculo destendido 2. Acabo de ver um pombinho com asinha machucada no meio da rua.. Aiin", 
+            "created_at": "Fri, 30 Sep 2011 17:27:42 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1560331881/rocknroll_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "119825761929670656", 
+            "from_user": "CamilaMiguez", 
+            "from_user_id": 19378323, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825761929670656, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "95318484", 
+            "text": "Quando eu tava vindo pra c\u00e1 me deu uma vontade de chorar, escorreu umas lagrimas mais eu segurei porque eu tava na rua :s", 
+            "created_at": "Fri, 30 Sep 2011 17:27:42 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1547614869/DSCF3586_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119825760944009216", 
+            "from_user": "dessa_sgarbi", 
+            "from_user_id": 95318484, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825760944009216, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "393427208", 
+            "text": "maaano, tem 2 carro de policia ali no meio da rua, paraado, tudo com arma revistando uns caras com boolsa, que \u00e9 de fora", 
+            "created_at": "Fri, 30 Sep 2011 17:27:42 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825760436494336", 
+            "from_user": "TCaldato", 
+            "from_user_id": 393427208, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825760436494336, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "257887051", 
+            "text": "RT @raphaeelgomes: Se a de casa esculacha pra que procurar na rua ? (8)", 
+            "created_at": "Fri, 30 Sep 2011 17:27:39 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1532058705/moziiiiiiiiiiibi_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825750818951168", 
+            "from_user": "pedroqueiiroz", 
+            "from_user_id": 257887051, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825750818951168, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "1381367", 
+            "text": "I'm at Predicta (Rua Gomes de Carvalho, 1510, S\u00e3o Paulo) w/ 2 others http://t.co/9UTgRQh9", 
+            "created_at": "Fri, 30 Sep 2011 17:27:37 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1217844479/eu2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://foursquare.com&quot; rel=&quot;nofollow&quot;&gt;foursquare&lt;/a&gt;", 
+            "id_str": "119825740802957312", 
+            "from_user": "cristianoms", 
+            "from_user_id": 1381367, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825740802957312, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "399364223", 
+            "text": "jaja sair pra procura alguma coisa pra fazer...sem sono hj o jeito e ir pra rua ne kkkkk", 
+            "created_at": "Fri, 30 Sep 2011 17:27:37 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1522758163/33_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825738760335361", 
+            "from_user": "biro_rpc", 
+            "from_user_id": 399364223, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825738760335361, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "76295467", 
+            "text": "Boa tarde, enfim casa e ainda faltou coisa pra fazer, ta muito calor, n\u00e3o tem como ficar na rua, e minhas pernas est\u00e3o doendo muito kkk", 
+            "created_at": "Fri, 30 Sep 2011 17:27:36 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1330792455/celular_024_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825736059207680", 
+            "from_user": "myaa_a", 
+            "from_user_id": 76295467, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825736059207680, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "eo", 
+            "from_user_id_str": "358018632", 
+            "text": "@TVNotasmx de la rua siglo se olvido de shakira", 
+            "created_at": "Fri, 30 Sep 2011 17:27:35 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1296381225/cristinaAguilera12-08_1__normal.jpg", 
+            "to_user_id_str": "123780387", 
+            "to_user": "TVNotasmx", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825732284334082", 
+            "from_user": "yolandaestrada", 
+            "from_user_id": 358018632, 
+            "to_user_id": 123780387, 
+            "geo": null, 
+            "id": 119825732284334082, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "197073781", 
+            "text": "@Cuqui_Crl pra veleiros,minha rua \u00e9 uma travessa da av. robert kennedy", 
+            "created_at": "Fri, 30 Sep 2011 17:27:34 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": "414816047", 
+            "to_user": "Cuqui_Crl", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825729759346688", 
+            "from_user": "d_zillig", 
+            "from_user_id": 197073781, 
+            "to_user_id": 414816047, 
+            "geo": null, 
+            "id": 119825729759346688, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "71919833", 
+            "text": "@biiaaraujo_s 2litros de leit atravessarao a rua 1 morreu eo outro nao pq ?", 
+            "created_at": "Fri, 30 Sep 2011 17:27:34 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1525629400/Foto_normal.jpg", 
+            "to_user_id_str": "384268088", 
+            "to_user": "Biiaaraujo_S", 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119825728966639616", 
+            "from_user": "JsMatheus", 
+            "from_user_id": 71919833, 
+            "to_user_id": 384268088, 
+            "geo": null, 
+            "id": 119825728966639616, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "155501693", 
+            "text": "acho que vou at\u00e9 sair sozinha pra pensar, e compra nutela e comer na rua JIOAJSIOAJSI", 
+            "created_at": "Fri, 30 Sep 2011 17:27:32 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825719730769921", 
+            "from_user": "_ligiaalvez", 
+            "from_user_id": 155501693, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825719730769921, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "225804142", 
+            "text": "na rua com o meu irmao #LucasFeskh", 
+            "created_at": "Fri, 30 Sep 2011 17:27:31 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1553303205/Figura1-_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119825716257898496", 
+            "from_user": "TiagoFeskh", 
+            "from_user_id": 225804142, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825716257898496, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "eo", 
+            "from_user_id_str": "167958271", 
+            "text": "RT @icedrinkyou_: @JuninhoStifler_ @BarradoNoBaile @MarkinhoStyfler @stryker_kd mano , vc perdeu eu e o @albano_matheus dando intimao num loko na rua", 
+            "created_at": "Fri, 30 Sep 2011 17:27:31 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1510095783/Zjvsftd_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825715599388672", 
+            "from_user": "albano_matheus", 
+            "from_user_id": 167958271, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825715599388672, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "fi", 
+            "from_user_id_str": "356195147", 
+            "text": "@kaique_cassio  coola aii na rua praa jogaa bolaa too akii na ruaa !", 
+            "created_at": "Fri, 30 Sep 2011 17:27:31 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1566826885/image_normal.jpg", 
+            "to_user_id_str": "258792174", 
+            "to_user": "kaique_cassio", 
+            "source": "&lt;a href=&quot;http://twitter.com/#!/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+            "id_str": "119825715544854528", 
+            "from_user": "Elizeu_Eduardo", 
+            "from_user_id": 356195147, 
+            "to_user_id": 258792174, 
+            "geo": null, 
+            "id": 119825715544854528, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "290387700", 
+            "text": "Cheguei da rua,t\u00e1 um calor da merda ! Pqp !", 
+            "created_at": "Fri, 30 Sep 2011 17:27:31 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825715205111808", 
+            "from_user": "Natalia_Poison", 
+            "from_user_id": 290387700, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825715205111808, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "41793411", 
+            "text": "vou tomar banho que tenho miil coisas pra fazer na rua!", 
+            "created_at": "Fri, 30 Sep 2011 17:27:30 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1547257344/267824_250881408259845_100000139625962_1196467_7454079_n_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825710708834305", 
+            "from_user": "isasaia", 
+            "from_user_id": 41793411, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825710708834305, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "10140914", 
+            "text": "Boa tarde pra vc que chegou da rua agora e teve a sensa\u00e7\u00e3o t\u00e9rmica de 62\u00ba. #marinhell", 
+            "created_at": "Fri, 30 Sep 2011 17:27:30 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1521070456/Ted_Vader_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://www.twhirl.org&quot; rel=&quot;nofollow&quot;&gt;Seesmic twhirl&lt;/a&gt;", 
+            "id_str": "119825709865775104", 
+            "from_user": "tedglu", 
+            "from_user_id": 10140914, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825709865775104, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "77474872", 
+            "text": "@RainyRezende ;9 nem pra xamar os outros amigos da rua ne? Kkkkkkkkkk", 
+            "created_at": "Fri, 30 Sep 2011 17:27:29 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": "278569387", 
+            "to_user": "RainyRezende", 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119825708502630400", 
+            "from_user": "Johesnney", 
+            "from_user_id": 77474872, 
+            "to_user_id": 278569387, 
+            "geo": null, 
+            "id": 119825708502630400, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "125149667", 
+            "text": "laggg -.-' , jaja vou pra rua... rachar um pouco!", 
+            "created_at": "Fri, 30 Sep 2011 17:27:29 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1526387454/renan_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825705163964416", 
+            "from_user": "renancaio_", 
+            "from_user_id": 125149667, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825705163964416, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "it", 
+            "from_user_id_str": "268079677", 
+            "text": "@dannielamiranda Daniela  segue ai o time da que da rua !  @Real_Vale !", 
+            "created_at": "Fri, 30 Sep 2011 17:27:27 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1317387156/zeca_normal.jpg", 
+            "to_user_id_str": "188465410", 
+            "to_user": "dannielamiranda", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825700684435456", 
+            "from_user": "ZequinhaLost", 
+            "from_user_id": 268079677, 
+            "to_user_id": 188465410, 
+            "geo": null, 
+            "id": 119825700684435456, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "43198345", 
+            "text": "I'm at Massas Livorno (Rua Campos da Paz, 47, Rio de Janeiro) http://t.co/Lz90yA1x", 
+            "created_at": "Fri, 30 Sep 2011 17:27:27 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1248836435/131543_494072249920_554594920_5682693_98795_o_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://foursquare.com&quot; rel=&quot;nofollow&quot;&gt;foursquare&lt;/a&gt;", 
+            "id_str": "119825700147572739", 
+            "from_user": "cissabelem", 
+            "from_user_id": 43198345, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825700147572739, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "127710720", 
+            "text": "Porque metade de mim \u00e9 antipatia e a outra metade finge estar falando ao celular s\u00f3 para n\u00e3o te cumprimentar na rua.", 
+            "created_at": "Fri, 30 Sep 2011 17:27:27 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1535061360/Imagem_262ed_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825697685520385", 
+            "from_user": "DanniLusa", 
+            "from_user_id": 127710720, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825697685520385, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "408462632", 
+            "text": "RT @ThaaaynaraLuana: @_Mahru  @igoorzito_ @Riih_loiro1  est\u00e3o aqui na minha rua *-* hihi", 
+            "created_at": "Fri, 30 Sep 2011 17:27:26 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825694632062976", 
+            "from_user": "igoorzito_", 
+            "from_user_id": 408462632, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825694632062976, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "116287483", 
+            "text": "pqp! e eu ainda tenho que sair pra rua com um calor desses.", 
+            "created_at": "Fri, 30 Sep 2011 17:27:25 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1505779630/IMG069-01_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825692199362561", 
+            "from_user": "rodrigoh5", 
+            "from_user_id": 116287483, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825692199362561, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "282627731", 
+            "text": "Eaii quandoo vc vai vim akiee na rua me ver ?u.u @caiquexx3", 
+            "created_at": "Fri, 30 Sep 2011 17:27:22 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1519714661/Foto0873_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825676391022592", 
+            "from_user": "kah_sbg", 
+            "from_user_id": 282627731, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825676391022592, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "415698652", 
+            "text": "#putaquepariu que calor fui na rua aogra quase derreti", 
+            "created_at": "Fri, 30 Sep 2011 17:27:19 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825665129320448", 
+            "from_user": "Mechupamanolo2", 
+            "from_user_id": 415698652, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825665129320448, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "156131041", 
+            "text": "saio da escola 9 hrs e so chego em casa \u00e1s 2 \\z\\z vou marca s\u00f3 2 horinhas aqui e voltar pra rua ! s\u00f3 volto de noite \\z\\z pqp' \\z", 
+            "created_at": "Fri, 30 Sep 2011 17:27:18 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825662335909888", 
+            "from_user": "PretoSMP", 
+            "from_user_id": 156131041, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825662335909888, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "411519046", 
+            "text": "Entreii :d #ESCOLAHOJE  affz  merda sexta anoitee ferinha sz , de noitee rua depois carol \u00e9 nois zikaah . #escola sempre estraga tuudoo :s", 
+            "created_at": "Fri, 30 Sep 2011 17:27:17 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1552366402/thalita_pg_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825655159455744", 
+            "from_user": "thalitazikamemo", 
+            "from_user_id": 411519046, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825655159455744, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "270588329", 
+            "text": "mas eh uma bosta ficar encontrando conhecidos na rua", 
+            "created_at": "Fri, 30 Sep 2011 17:27:14 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1454424876/Foto_A064r09_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119825645529337856", 
+            "from_user": "lord_davi", 
+            "from_user_id": 270588329, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825645529337856, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "405467405", 
+            "text": "enquanto voce ta na rua o outro ta na minha casa (8)", 
+            "created_at": "Fri, 30 Sep 2011 17:27:14 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1550226834/tt_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825644451397633", 
+            "from_user": "1exbitch", 
+            "from_user_id": 405467405, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825644451397633, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "189530837", 
+            "text": "e aqueles vidaloka que passa na rua empinando ml", 
+            "created_at": "Fri, 30 Sep 2011 17:27:14 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1548795351/Fotinha_do_tutu_565__normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119825643390251008", 
+            "from_user": "hipussylovers", 
+            "from_user_id": 189530837, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825643390251008, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "it", 
+            "from_user_id_str": "351448848", 
+            "text": "RT @Leeh_soouza2: e voce @Maah_beeatriz e a #ingrid so piruando na rua ne", 
+            "created_at": "Fri, 30 Sep 2011 17:27:14 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1544476858/031_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825643067293696", 
+            "from_user": "Maah_beeatriz", 
+            "from_user_id": 351448848, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825643067293696, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "from_user_id_str": "217578942", 
+            "text": "http://t.co/qLSBNtlb\nhttp://t.co/m2EOZOlK\nhttp://t.co/AWKSQWzD\nhttp://t.co/SccD9c3B\nhttp://t.co/zllZlk2L\nhttp://t.co/0jqGedrJ", 
+            "created_at": "Fri, 30 Sep 2011 17:27:13 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1221870403/KhanhChi001_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825639183364096", 
+            "from_user": "socxinhdotnet", 
+            "from_user_id": 217578942, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825639183364096, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "208548656", 
+            "text": "Oieeevo dar uma voltinha na rua e daqui a pouco eu volto !", 
+            "created_at": "Fri, 30 Sep 2011 17:27:12 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1488381626/177_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825634338934784", 
+            "from_user": "TeixeiraMonique", 
+            "from_user_id": 208548656, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825634338934784, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "it", 
+            "from_user_id_str": "270102308", 
+            "text": "Rua !", 
+            "created_at": "Fri, 30 Sep 2011 17:27:11 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1338749843/r1_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825633261006848", 
+            "from_user": "rodrigo_raje", 
+            "from_user_id": 270102308, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825633261006848, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "273882579", 
+            "text": "meu irm\u00e3o foi na minha tia aqui perto de ksa, cada pouco tenho que ir la ver se ele n vai na rua :@ KKKKK", 
+            "created_at": "Fri, 30 Sep 2011 17:27:11 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1354754038/DSC00794_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825632338255872", 
+            "from_user": "Emeeer_f", 
+            "from_user_id": 273882579, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825632338255872, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "207045977", 
+            "text": "kkk, hoje eu o #edson, #felipe saimo cantando a a musica do raimundos depois da aula beem alto pela rua kkk :b mt massa.", 
+            "created_at": "Fri, 30 Sep 2011 17:27:11 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1426736470/of_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "id_str": "119825630715052032", 
+            "from_user": "JosueCardosoo", 
+            "from_user_id": 207045977, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825630715052032, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "154411115", 
+            "text": "RT @atimebomb: 1 RECADO P VCS HOMENS: mulher n\u00e3o curte quando vcs ficam mexendo com ela na rua", 
+            "created_at": "Fri, 30 Sep 2011 17:27:11 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1388887611/tttw_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825630043971584", 
+            "from_user": "mariaclara182", 
+            "from_user_id": 154411115, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825630043971584, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "93308802", 
+            "text": "segundo o velhido que passou na rua eu cantoo beem *--* k' *mico", 
+            "created_at": "Fri, 30 Sep 2011 17:27:08 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1497061289/P120811_17.18__01__normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825620984274944", 
+            "from_user": "pikenahlala", 
+            "from_user_id": 93308802, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825620984274944, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "370450313", 
+            "text": "Eu Achei um filhote de passarinho na rua e trouxe pra casa =P", 
+            "created_at": "Fri, 30 Sep 2011 17:27:08 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1528915679/Foto0005_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825620602601472", 
+            "from_user": "Paullonc", 
+            "from_user_id": 370450313, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825620602601472, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "377174542", 
+            "text": "voo chega ali na rua , ver os meninos jogar um fut que eles ent\u00e3o me chamando , logo menos entro !", 
+            "created_at": "Fri, 30 Sep 2011 17:27:08 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1541994267/Foto0421_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825620233494528", 
+            "from_user": "betinhalove_", 
+            "from_user_id": 377174542, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825620233494528, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "356242475", 
+            "text": "Minha cidade \u00e9 tao pobre q nem tem um est\u00e1dio de futebol para se divertir , e o jeito \u00e9 jgar bola na rua", 
+            "created_at": "Fri, 30 Sep 2011 17:27:08 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1436038258/juliocesarcorinthians_gcom_621_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "place": {
+                "type": "city", 
+                "id": "23d81de6fe7594cb", 
+                "full_name": "Goi\u00e2nia, Goi\u00e1s"
+            }, 
+            "id_str": "119825620149604352", 
+            "from_user": "FC_Juliocesar1", 
+            "from_user_id": 356242475, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825620149604352, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "223043885", 
+            "text": "Passei Em Casa Mas Ja Sai, Vim Fazer Uma Parada Na Rua .rs", 
+            "created_at": "Fri, 30 Sep 2011 17:27:08 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119825619335917568", 
+            "from_user": "Celsovp17", 
+            "from_user_id": 223043885, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825619335917568, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "124317713", 
+            "text": "energia aq na mnha rua acabo .- aproveitei e fui almo\u00e7a :]", 
+            "created_at": "Fri, 30 Sep 2011 17:27:07 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1552457649/DSC_0260-1_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825613715550208", 
+            "from_user": "c_nalon", 
+            "from_user_id": 124317713, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825613715550208, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "247735987", 
+            "text": "@ivana_pb obriga a @_SarinhaaB ai ir na rua com a gente amanha", 
+            "created_at": "Fri, 30 Sep 2011 17:27:07 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1268915659/C_pia_de_sah_modified_normal.jpg", 
+            "to_user_id_str": "381081743", 
+            "to_user": "ivana_pb", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825612927012865", 
+            "from_user": "sarinha_bmoura", 
+            "from_user_id": 247735987, 
+            "to_user_id": 381081743, 
+            "geo": null, 
+            "id": 119825612927012865, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "218859554", 
+            "text": "@CHOQUEDOTROVAO_ raspa tudo pra parecer um skinhead e ser espancado na rua rs massa", 
+            "created_at": "Fri, 30 Sep 2011 17:27:05 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1504344423/6i4tnt_normal.jpg", 
+            "to_user_id_str": "209591290", 
+            "to_user": "CHOQUEDOTROVAO_", 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "id_str": "119825606807519233", 
+            "from_user": "PeeteBuzz", 
+            "from_user_id": 218859554, 
+            "to_user_id": 209591290, 
+            "geo": null, 
+            "id": 119825606807519233, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "351448848", 
+            "text": "@Leehsouza2 que isso gemia rs' vc que tava na rua n\u00e9 n\u00e3oo pode n\u00e3o heim", 
+            "created_at": "Fri, 30 Sep 2011 17:27:02 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1544476858/031_normal.JPG", 
+            "to_user_id_str": "416880609", 
+            "to_user": "leehsouza2", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825594665017344", 
+            "from_user": "Maah_beeatriz", 
+            "from_user_id": 351448848, 
+            "to_user_id": 416880609, 
+            "geo": null, 
+            "id": 119825594665017344, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "233571740", 
+            "text": "@leoprs @c_caiubi @_maluada rua pedro salvador, o numero \u00e9 1958. CAIUBI \u00c9 DE QUE HORAS?????????", 
+            "created_at": "Fri, 30 Sep 2011 17:27:02 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1527523783/02092011019_normal.jpg", 
+            "to_user_id_str": "273600571", 
+            "to_user": "leoprs", 
+            "source": "&lt;a href=&quot;http://messaging.nokia.com/site/main.do&quot; rel=&quot;nofollow&quot;&gt; Ovi by Nokia &lt;/a&gt;", 
+            "id_str": "119825592001642496", 
+            "from_user": "_iannacastro", 
+            "from_user_id": 233571740, 
+            "to_user_id": 273600571, 
+            "geo": null, 
+            "id": 119825592001642496, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "213844570", 
+            "text": "O @Ev_Fox t\u00e1 aqui,acho que partiu rua!", 
+            "created_at": "Fri, 30 Sep 2011 17:27:00 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1550494924/Snapshot_20110918_24_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825587450822656", 
+            "from_user": "carolnte_", 
+            "from_user_id": 213844570, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825587450822656, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "412675095", 
+            "text": "RT @gaabysouza09: Ain, eu queria tanto mora na rua da @Natth_mgp ! pq ser\u00e1 n\u00e9... :)", 
+            "created_at": "Fri, 30 Sep 2011 17:27:00 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1504117545/Foto0547_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119825585659838464", 
+            "from_user": "natth_MGP", 
+            "from_user_id": 412675095, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825585659838464, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "144594096", 
+            "text": "@Fabro74 Es cierto, gran crisis pol\u00edtica. La crearon los electos en el 99, De La Rua e Iglesias.", 
+            "created_at": "Fri, 30 Sep 2011 17:26:59 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1557537982/image_normal.jpg", 
+            "to_user_id_str": "160026592", 
+            "to_user": "Fabro74", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825579922034688", 
+            "from_user": "HRasso", 
+            "from_user_id": 144594096, 
+            "to_user_id": 160026592, 
+            "geo": null, 
+            "id": 119825579922034688, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "357270394", 
+            "text": "e os meninoos idiotaas da classe ficaram 17 segundoos na rua --' o @0oVini , o @Giovanni_Arturo ,o @Gafanhoto00 ,o @_alenowak e o #Guilherme", 
+            "created_at": "Fri, 30 Sep 2011 17:26:56 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1493754138/Liiiiiiife1_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825569260122112", 
+            "from_user": "B_Bonoo", 
+            "from_user_id": 357270394, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825569260122112, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "265455298", 
+            "text": "RT @01amorzinho: VAI LA EDITAR SUAS FOTOS E DEPOIS PERGUNTAR PQ NINGU\u00c9M TE RECONHECE NA RUA", 
+            "created_at": "Fri, 30 Sep 2011 17:26:56 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1549421868/jik_normal.gif", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825568383508480", 
+            "from_user": "01amordemenina", 
+            "from_user_id": 265455298, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825568383508480, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "352499481", 
+            "text": "RT @BeloFcDesafio: Pra que Dubai, Londres, Madri, Roma , Nova York, ou Paris ... ??? @SantaAldeia \u00e9 logo aqui : Rua Funchal, 500 - Vi http://t.co/Y4kBq8I5", 
+            "created_at": "Fri, 30 Sep 2011 17:26:56 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1460778016/As_melhoores_do_Belo__419__normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitpic.com&quot; rel=&quot;nofollow&quot;&gt;Twitpic&lt;/a&gt;", 
+            "id_str": "119825568052150272", 
+            "from_user": "ValLoveBelo", 
+            "from_user_id": 352499481, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825568052150272, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "61904264", 
+            "text": "Ir na rua cortar o cabelo... #At\u00e9Logo :)", 
+            "created_at": "Fri, 30 Sep 2011 17:26:55 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1528641011/C_pia__2__de_Fotos_do_iPhone__040_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825564310835200", 
+            "from_user": "leocarddoso", 
+            "from_user_id": 61904264, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825564310835200, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "it", 
+            "from_user_id_str": "408862514", 
+            "text": "na rua con o @RodrigoCalixto3  (:", 
+            "created_at": "Fri, 30 Sep 2011 17:26:55 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1545788012/Zg3pvk0_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119825563195162626", 
+            "from_user": "KaiioRatinho13", 
+            "from_user_id": 408862514, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825563195162626, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "178091103", 
+            "text": "estavamos n\u00f3s dentro do onibus, quando dois meninos lindos aparecem na rua. o onibus parado, e a gente babando neles ...", 
+            "created_at": "Fri, 30 Sep 2011 17:26:54 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1473237628/foto0878_001_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825562054295552", 
+            "from_user": "soollmelo", 
+            "from_user_id": 178091103, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825562054295552, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "415869395", 
+            "text": "RT @aevalvulados: RT @re_compondo Lindo foi ver o clipe de &quot;O nome dessa rua&quot; antes do show da Bid\u00ea, e o Opini\u00e3o LOTADO cantando @aevalvulados unissonoramente", 
+            "created_at": "Fri, 30 Sep 2011 17:26:53 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1537074144/menos_cor_e_mais_rock_dois_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "id_str": "119825557964849152", 
+            "from_user": "semrumosemsorte", 
+            "from_user_id": 415869395, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825557964849152, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "107009603", 
+            "text": "eu sugiro p vcs irem pelos onibus passam pela Est. Bandeirantes e descerem atr\u00e1s do Rio Centro e usarem esta rua  http://t.co/ImFsCrwE", 
+            "created_at": "Fri, 30 Sep 2011 17:26:53 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1366756927/gif_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825556840775680", 
+            "from_user": "aproposito", 
+            "from_user_id": 107009603, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825556840775680, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "388024119", 
+            "text": "Tava passando na rua e ouvi um forr\u00f3.. Isso mesmo, um forro! Falava assim: quem cmg n\u00e3o vive da minha vida n\u00e3o sb nada! #fato!", 
+            "created_at": "Fri, 30 Sep 2011 17:26:51 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1498874519/241357_212390712134114_100000895591571_664723_362736_o_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119825549857275905", 
+            "from_user": "Ju_Sarmento_", 
+            "from_user_id": 388024119, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825549857275905, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "9604217", 
+            "text": "Pessoas postando foto com cachorrinho de rua no facebook. AT\u00c9 QUANDO?", 
+            "created_at": "Fri, 30 Sep 2011 17:26:51 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1460502946/mypictr_300x300_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825549723054080", 
+            "from_user": "chicovg", 
+            "from_user_id": 9604217, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825549723054080, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "152798924", 
+            "text": "Trauma de inf\u00e2ncia:Nunca me fantasiei e sai pra rua para pedir doces no Halloween http://t.co/kxaYyJEm", 
+            "created_at": "Fri, 30 Sep 2011 17:26:51 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1536972005/Foto0923B_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://www.tumblr.com/&quot; rel=&quot;nofollow&quot;&gt;Tumblr&lt;/a&gt;", 
+            "id_str": "119825547072241664", 
+            "from_user": "BruuuHL", 
+            "from_user_id": 152798924, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825547072241664, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "it", 
+            "from_user_id_str": "353818540", 
+            "text": "RT @_JohnnyQzS: @NovinnhoO aaah suave , vaai cola pra rua hj d noite ?", 
+            "created_at": "Fri, 30 Sep 2011 17:26:48 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1556875117/Imagem_020_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825535395315712", 
+            "from_user": "NovinnhoO", 
+            "from_user_id": 353818540, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825535395315712, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "185534235", 
+            "text": "mano to aqui na rua sem camisa s\u00f3 de bermuda e descauso s\u00f3 muito favelados haha to nem ligando", 
+            "created_at": "Fri, 30 Sep 2011 17:26:47 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1372537603/gatinho_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119825532740308993", 
+            "from_user": "lucaastenorio", 
+            "from_user_id": 185534235, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825532740308993, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "222263059", 
+            "text": "RT @DiiihKAMIKAZZE: 15/10 @BandaKAMIKAZZE + @GarnetOficial na D.vino (Rua XV, Santos) R$15 na PORTA! Quem for mandar nome para: listakamikazze@hotmail.com BORA?", 
+            "created_at": "Fri, 30 Sep 2011 17:26:47 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1544315475/DSC04746_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825532383789056", 
+            "from_user": "Nicotinaaa", 
+            "from_user_id": 222263059, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825532383789056, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "127567965", 
+            "text": "O dia aqui est\u00e1 lindo pra caralho! vou atravessar a rua e cair no mar! =P", 
+            "created_at": "Fri, 30 Sep 2011 17:26:47 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1254219877/foto1_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825531482021888", 
+            "from_user": "netoo__", 
+            "from_user_id": 127567965, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825531482021888, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "399145552", 
+            "text": "Passei um medo agora :O Tinha dois cavalo esticado na rua e dae tive que passar por meio deles :O:O:O:O", 
+            "created_at": "Fri, 30 Sep 2011 17:26:47 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1547197641/Beely__48__normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825530307608576", 
+            "from_user": "Isaa_beli", 
+            "from_user_id": 399145552, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825530307608576, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "63347284", 
+            "text": "Hoje um cara queria me bater por que eu atravessei na rua fora da faixa .. ai eu j\u00e1 logo lancei um verbo pra ele e o cara ficou de boa kk", 
+            "created_at": "Fri, 30 Sep 2011 17:26:47 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1444105300/daaanier_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "place": {
+                "type": "city", 
+                "id": "68e019afec7d0ba5", 
+                "full_name": "S\u00e3o Paulo, S\u00e3o Paulo"
+            }, 
+            "id_str": "119825530102091776", 
+            "from_user": "Danielssoares", 
+            "from_user_id": 63347284, 
+            "to_user_id": null, 
+            "geo": {
+                "type": "Point", 
+                "coordinates": [
+                    -23.6434, 
+                    -46.719
+                ]
+            }, 
+            "id": 119825530102091776, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "110666547", 
+            "text": "s\u00f3 eu pra sair na rua de pijama essas horas.. porque n\u00e9 haha", 
+            "created_at": "Fri, 30 Sep 2011 17:26:45 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825521415700480", 
+            "from_user": "D_udasz", 
+            "from_user_id": 110666547, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825521415700480, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "232059479", 
+            "text": "Vou arrumar sim nunca se sabe quando vai aparecer algu\u00e9m bonito na rua, n\u00e9? al\u00e7jsk\u00e7als\u00e7j~s\u00e7~l mas \u00e9 s\u00e9rio", 
+            "created_at": "Fri, 30 Sep 2011 17:26:43 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1544113412/tumblr_lqx986VXC61qhe62uo1_500_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825516000854016", 
+            "from_user": "CatchMeMyDemi", 
+            "from_user_id": 232059479, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825516000854016, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "238349408", 
+            "text": "Pela janela da classe eu olhava l\u00e1 fora,\nA rua me atraia mais do que a escola.", 
+            "created_at": "Fri, 30 Sep 2011 17:26:43 +0000", 
+            "profile_image_url": "http://a1.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825515396857857", 
+            "from_user": "Leo4Fls", 
+            "from_user_id": 238349408, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825515396857857, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "102905916", 
+            "text": "aqui na #RUA , com a #Raysa .", 
+            "created_at": "Fri, 30 Sep 2011 17:26:41 +0000", 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1488809641/282144_212287668820874_100001189286414_541568_1021203_n_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;", 
+            "id_str": "119825507570290688", 
+            "from_user": "goddessmidore", 
+            "from_user_id": 102905916, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825507570290688, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "415119475", 
+            "text": "@leoprs @_iannacastro @c_caiubi vc \u00e9 mt lezo, ja deveria saber onde \u00e9 a casa de marcela e a minha \u00ac\u00ac vou mandar por dm o nome da minha rua", 
+            "created_at": "Fri, 30 Sep 2011 17:26:41 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1356221487/fotofoto222_normal.jpg", 
+            "to_user_id_str": "273600571", 
+            "to_user": "leoprs", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825507176026112", 
+            "from_user": "_mAluada", 
+            "from_user_id": 415119475, 
+            "to_user_id": 273600571, 
+            "geo": null, 
+            "id": 119825507176026112, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "257323972", 
+            "text": "\u00e9 da rua que eu tiro minha ess\u00eancia", 
+            "created_at": "Fri, 30 Sep 2011 17:26:40 +0000", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1497034678/100_0414_normal.JPG", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "place": {
+                "type": "city", 
+                "id": "b9a7379f71583666", 
+                "full_name": "Canoas, Rio Grande do Sul"
+            }, 
+            "id_str": "119825502746841088", 
+            "from_user": "kiinhodelicia", 
+            "from_user_id": 257323972, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825502746841088, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "es", 
+            "from_user_id_str": "122596744", 
+            "text": "@_Haannaah_  nao pede pra samara contar, eu mandei ela ir lavar o p\u00e9 dela que tava sujo naquela piscina na rua ta ligada? ahahaha", 
+            "created_at": "Fri, 30 Sep 2011 17:26:40 +0000", 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1561766389/Snapshot_20110907_88_normal.JPG", 
+            "to_user_id_str": "92955999", 
+            "to_user": "_Haannaah_", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825501803130880", 
+            "from_user": "solfagundesss", 
+            "from_user_id": 122596744, 
+            "to_user_id": 92955999, 
+            "geo": null, 
+            "id": 119825501803130880, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "pt", 
+            "from_user_id_str": "403847961", 
+            "text": "RT @1TwiteiroFail: &quot;tava andando na rua e lembrei de vc&quot; &quot;ownn s\u00e9rio? pq? rsrsrssr&quot; &quot;pisei na bosta&quot;", 
+            "created_at": "Fri, 30 Sep 2011 17:26:40 +0000", 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1533853598/Imagem_129_normal.jpg", 
+            "to_user_id_str": null, 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "id_str": "119825501329166336", 
+            "from_user": "millenagomes4", 
+            "from_user_id": 403847961, 
+            "to_user_id": null, 
+            "geo": null, 
+            "id": 119825501329166336, 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 0, 
+    "results_per_page": 100, 
+    "query": "rua", 
+    "max_id": 119825888920604673, 
+    "page": 1
+}

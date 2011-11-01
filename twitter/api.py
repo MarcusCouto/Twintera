@@ -159,7 +159,8 @@ class TwitterCall(object):
             if (e.code == 304):
                 return []
             else:
-                raise TwitterHTTPError(e, uri, self.format, arg_data)
+                # raise TwitterHTTPError(e, uri, self.format, arg_data)
+                raise e
 
 class Twitter(TwitterCall):
     """
@@ -235,7 +236,7 @@ class Twitter(TwitterCall):
 
     """
     def __init__(
-        self, format="json",
+        self, format="xml",
         domain="twitter.com", secure=True, auth=None,
         api_version=''):
         """

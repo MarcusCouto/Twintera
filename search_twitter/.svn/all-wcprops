@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/twintera/!svn/ver/18/search_twitter
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/twintera/!svn/ver/18/search_twitter/api.py
+END
+ansi.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/twintera/!svn/ver/18/search_twitter/ansi.py
+END
+oauth_dance.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/twintera/!svn/ver/18/search_twitter/oauth_dance.py
+END
+cmdline.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/twintera/!svn/ver/18/search_twitter/cmdline.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/twintera/!svn/ver/18/search_twitter/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/twintera/!svn/ver/18/search_twitter/__init__.py
+END
+oauth.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/twintera/!svn/ver/18/search_twitter/oauth.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/twintera/!svn/ver/18/search_twitter/auth.py
+END
+ircbot.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/twintera/!svn/ver/18/search_twitter/ircbot.py
+END
+twitter_globals.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/twintera/!svn/ver/18/search_twitter/twitter_globals.py
+END
